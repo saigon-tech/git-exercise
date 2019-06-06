@@ -68,9 +68,9 @@ echo 'unit test 4';
 
 * Step 1: clone this repository, create new issue.:+1:
 * Step 2: make new branch follow rule `feature/issue_{issue number}-{feature name}` on repository:+1:
-* Step 3: commit and push tasks `Coding UI`, `Coding Process`, `Coding Unit Test` to the branch on `Step 2`, follow Saigontech's `Git commit rule`:+1:
+* Step 3: commit and push tasks `Coding UI`, `Coding Process`, `Coding Unit Test` to the branch on `Step 2` **(1 or more commit/ task)**, follow Saigontech's `Git commit rule`:+1:
 * Step 4: change description commit `Coding Unit Test` is "{Your name} Coding Unit Test and Functional Test":+1:
-* Step 5: commit and push tasks `Fix bug 1`, `Fix bug 2`, `Fix bug 3` follow Saigontech's `Git commit rule`:+1:
+* Step 5: commit and push tasks `Fix bug 1`, `Fix bug 2`, `Fix bug 3` follow Saigontech's `Git commit rule` **(1 or more commit/ task)** :+1:
 * Step 6: rebase branch `feature/issue_00-List-Screen`.:+1:
 * Step 7: rebase commit use "fixup" squash `Fix bug 1`, `Fix bug 2`, `Fix bug 3` to commit `Fix bug`.:+1:
 * Step 8: handle conflict rebase branch `feature/issue_00_Register-Screen`.:+1:
