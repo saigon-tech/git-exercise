@@ -1,0 +1,51 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 syht1602 <single.angle1993@gmail.com> 1559807064 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 3e1401df847894754987a86af57333ef0d0f5764 syht1602 <single.angle1993@gmail.com> 1559807074 +0700	checkout: moving from master to develop
+3e1401df847894754987a86af57333ef0d0f5764 3e1401df847894754987a86af57333ef0d0f5764 syht1602 <single.angle1993@gmail.com> 1559807407 +0700	checkout: moving from develop to feature/issue_9-htsy-exercise
+3e1401df847894754987a86af57333ef0d0f5764 6d843dcf5a3485f7026d8e7244a1cfaca5def0c8 syht1602 <single.angle1993@gmail.com> 1559807610 +0700	commit: #9 Coding UI
+6d843dcf5a3485f7026d8e7244a1cfaca5def0c8 5dd67f1b666d6d2bf7456e6e41eb3a3cc502369f syht1602 <single.angle1993@gmail.com> 1559807691 +0700	commit: #9 Coding Process
+5dd67f1b666d6d2bf7456e6e41eb3a3cc502369f 2551ed983209f638e619b79133a3d166ca8a9519 syht1602 <single.angle1993@gmail.com> 1559807702 +0700	commit: #9 Coding unit test
+2551ed983209f638e619b79133a3d166ca8a9519 3e1401df847894754987a86af57333ef0d0f5764 syht1602 <single.angle1993@gmail.com> 1559808547 +0700	checkout: moving from feature/issue_9-htsy-exercise to develop
+3e1401df847894754987a86af57333ef0d0f5764 2551ed983209f638e619b79133a3d166ca8a9519 syht1602 <single.angle1993@gmail.com> 1559808570 +0700	checkout: moving from develop to feature/issue_9-htsy-exercise
+2551ed983209f638e619b79133a3d166ca8a9519 dd79da22a9d89d1cd0851a0273b7becf732f1b0b htsysgt <syht.sgt@gmail.com> 1559810956 +0700	commit (amend): #9 SyHT Coding Unit Test and Functional Test
+dd79da22a9d89d1cd0851a0273b7becf732f1b0b 5dd00bfe0094e9d77694a5c485d283828465b283 htsysgt <syht.sgt@gmail.com> 1559811197 +0700	commit: #9 Fixbug1
+5dd00bfe0094e9d77694a5c485d283828465b283 03aa780b3d29b5a12ed9547077b347a1bd5953ec htsysgt <syht.sgt@gmail.com> 1559811226 +0700	commit: #9 Fixbug2
+03aa780b3d29b5a12ed9547077b347a1bd5953ec e65366c61311675e445cf0978651ab004834acec htsysgt <syht.sgt@gmail.com> 1559811257 +0700	commit: #9 Fixbug3
+e65366c61311675e445cf0978651ab004834acec e65366c61311675e445cf0978651ab004834acec htsysgt <syht.sgt@gmail.com> 1559811373 +0700	reset: moving to e65366c61311675e445cf0978651ab004834acec
+e65366c61311675e445cf0978651ab004834acec e65366c61311675e445cf0978651ab004834acec htsysgt <syht.sgt@gmail.com> 1559811414 +0700	checkout: moving from feature/issue_9-htsy-exercise to feature/issue_9-htsy-exercise
+e65366c61311675e445cf0978651ab004834acec 661c92b4fa9a29afdb6fef80fd9b758781860794 htsysgt <syht.sgt@gmail.com> 1559811822 +0700	checkout: moving from feature/issue_9-htsy-exercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 e65366c61311675e445cf0978651ab004834acec htsysgt <syht.sgt@gmail.com> 1559814877 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_9-htsy-exercise
+e65366c61311675e445cf0978651ab004834acec 0da239747119c9bdbc10db8af4bd108df6101355 htsysgt <syht.sgt@gmail.com> 1559814886 +0700	rebase: checkout origin
+0da239747119c9bdbc10db8af4bd108df6101355 73f5c24aef2db9fd575163fc276677a9063c4eca htsysgt <syht.sgt@gmail.com> 1559814887 +0700	rebase: #00 list screen
+73f5c24aef2db9fd575163fc276677a9063c4eca 73f5c24aef2db9fd575163fc276677a9063c4eca htsysgt <syht.sgt@gmail.com> 1559814886 +0700	rebase finished: returning to refs/heads/feature/issue_00-List-Screen
+73f5c24aef2db9fd575163fc276677a9063c4eca 661c92b4fa9a29afdb6fef80fd9b758781860794 htsysgt <syht.sgt@gmail.com> 1559815041 +0700	reset: moving to 661c92b4fa9a29afdb6fef80fd9b758781860794
+661c92b4fa9a29afdb6fef80fd9b758781860794 e65366c61311675e445cf0978651ab004834acec htsysgt <syht.sgt@gmail.com> 1559815054 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_9-htsy-exercise
+e65366c61311675e445cf0978651ab004834acec 661c92b4fa9a29afdb6fef80fd9b758781860794 htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase: checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 a39a6072c6b1f4c6262d7044e195ef09dd51bf32 htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase: Update README.md
+a39a6072c6b1f4c6262d7044e195ef09dd51bf32 7c398fabba35378d39d7cbd6370a37f8e6891116 htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase: #9 Coding UI
+7c398fabba35378d39d7cbd6370a37f8e6891116 7f5f32a2224266446ee6766f1c221972d0effe2e htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase: #9 Coding Process
+7f5f32a2224266446ee6766f1c221972d0effe2e 5da32349eff6e7e55f2b6b13dbbec36824a63218 htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase: #9 SyHT Coding Unit Test and Functional Test
+5da32349eff6e7e55f2b6b13dbbec36824a63218 d1918c8c9e9c04a04443d4a77a97fef9704cad6b htsysgt <syht.sgt@gmail.com> 1559815070 +0700	rebase: #9 Fixbug1
+d1918c8c9e9c04a04443d4a77a97fef9704cad6b 5f7dfd220abcd0c25921143216dc77059d2c8cd0 htsysgt <syht.sgt@gmail.com> 1559815070 +0700	rebase: #9 Fixbug2
+5f7dfd220abcd0c25921143216dc77059d2c8cd0 2b4bfc00e17efc0855f76cb9a2238f612b9dc5df htsysgt <syht.sgt@gmail.com> 1559815070 +0700	rebase: #9 Fixbug3
+2b4bfc00e17efc0855f76cb9a2238f612b9dc5df 2b4bfc00e17efc0855f76cb9a2238f612b9dc5df htsysgt <syht.sgt@gmail.com> 1559815069 +0700	rebase finished: returning to refs/heads/feature/issue_9-htsy-exercise
+2b4bfc00e17efc0855f76cb9a2238f612b9dc5df 5da32349eff6e7e55f2b6b13dbbec36824a63218 htsysgt <syht.sgt@gmail.com> 1559817661 +0700	rebase -i (start): checkout HEAD~3
+5da32349eff6e7e55f2b6b13dbbec36824a63218 d1918c8c9e9c04a04443d4a77a97fef9704cad6b htsysgt <syht.sgt@gmail.com> 1559817661 +0700	rebase -i: fast-forward
+d1918c8c9e9c04a04443d4a77a97fef9704cad6b 335dca65673ec1fc907b24b5aec91a8280287b6f htsysgt <syht.sgt@gmail.com> 1559817661 +0700	rebase -i (reword): #9 Fixbug
+335dca65673ec1fc907b24b5aec91a8280287b6f c4ae8a5dd39330817a7644e2ab52d992658b4ab8 htsysgt <syht.sgt@gmail.com> 1559817684 +0700	rebase -i (squash): ; This is a combination of 2 commits.
+c4ae8a5dd39330817a7644e2ab52d992658b4ab8 2a8357d78f94249922a91ff14e20df2db26c5b02 htsysgt <syht.sgt@gmail.com> 1559817685 +0700	rebase -i (squash): '#9 Fixbug'
+2a8357d78f94249922a91ff14e20df2db26c5b02 2a8357d78f94249922a91ff14e20df2db26c5b02 htsysgt <syht.sgt@gmail.com> 1559817684 +0700	rebase -i (finish): returning to refs/heads/feature/issue_9-htsy-exercise
+2a8357d78f94249922a91ff14e20df2db26c5b02 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 htsysgt <syht.sgt@gmail.com> 1559817839 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 9e1bf4de45d6aab7baad39b9b48a7d9d0190ec3e htsysgt <syht.sgt@gmail.com> 1559817839 +0700	rebase: #00 list screen
+9e1bf4de45d6aab7baad39b9b48a7d9d0190ec3e 9fcbb8abc570c3f9594d25dc4ca4b88a77129ab5 htsysgt <syht.sgt@gmail.com> 1559817839 +0700	rebase: Update README.md
+9fcbb8abc570c3f9594d25dc4ca4b88a77129ab5 2a8357d78f94249922a91ff14e20df2db26c5b02 htsysgt <syht.sgt@gmail.com> 1559818079 +0700	rebase: updating HEAD
+2a8357d78f94249922a91ff14e20df2db26c5b02 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 htsysgt <syht.sgt@gmail.com> 1559818097 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 8db5c59a015a9f60face6bcad113216f3d0d8d5c htsysgt <syht.sgt@gmail.com> 1559818097 +0700	rebase: #00 list screen
+8db5c59a015a9f60face6bcad113216f3d0d8d5c 47f94d195ef8ea47beb7b7d3ccb8c6255bb6e612 htsysgt <syht.sgt@gmail.com> 1559818097 +0700	rebase: Update README.md
+47f94d195ef8ea47beb7b7d3ccb8c6255bb6e612 75465306713f93c30259844dadeea1bde7841d36 htsysgt <syht.sgt@gmail.com> 1559818264 +0700	rebase: #9 Coding Process
+75465306713f93c30259844dadeea1bde7841d36 3f630ed069a47c84626ceaf105469521e0b85292 htsysgt <syht.sgt@gmail.com> 1559818264 +0700	rebase: #9 SyHT Coding Unit Test and Functional Test
+3f630ed069a47c84626ceaf105469521e0b85292 684693071ee9a175c184156878a550f99325aea7 htsysgt <syht.sgt@gmail.com> 1559818264 +0700	rebase: '#9 Fixbug'
+684693071ee9a175c184156878a550f99325aea7 684693071ee9a175c184156878a550f99325aea7 htsysgt <syht.sgt@gmail.com> 1559818264 +0700	rebase finished: returning to refs/heads/feature/issue_9-htsy-exercise
+684693071ee9a175c184156878a550f99325aea7 684693071ee9a175c184156878a550f99325aea7 htsysgt <syht.sgt@gmail.com> 1559819183 +0700	reset: moving to 684693071ee9a175c184156878a550f99325aea7
+684693071ee9a175c184156878a550f99325aea7 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 htsysgt <syht.sgt@gmail.com> 1559819223 +0700	checkout: moving from feature/issue_9-htsy-exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 684693071ee9a175c184156878a550f99325aea7 htsysgt <syht.sgt@gmail.com> 1559819239 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_9-htsy-exercise
+684693071ee9a175c184156878a550f99325aea7 657f71a343de6ced2dd7e11554027ebc64b8d062 htsysgt <syht.sgt@gmail.com> 1559819259 +0700	cherry-pick: #00 Add new screen register 2
