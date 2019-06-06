@@ -1,0 +1,68 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791817 +0700	clone: from git@github.com:saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791843 +0700	checkout: moving from master to feature/issue_4-nmanh_exercise
+c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791867 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791873 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_4-nmanh_exercise
+c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791885 +0700	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 f60bf99e9993e042d61276f3adb32ebcb6e3e3ae nvmanhsgt <nvmanh.sgt@gmail.com> 1559791886 +0700	rebase: #4 Coding UI
+f60bf99e9993e042d61276f3adb32ebcb6e3e3ae fe978941470ae7f935682fdd3e9256925c725e39 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791886 +0700	rebase: #4 Coding Process
+fe978941470ae7f935682fdd3e9256925c725e39 c54516a3bafcdc566d6787a1de9ad2ff64c2e7d6 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791886 +0700	rebase: #4 nvamnh Coding Unit Test and Functional Test
+c54516a3bafcdc566d6787a1de9ad2ff64c2e7d6 0d4da7f6dd9a3a89511722ba7f44f6b92a27569a nvmanhsgt <nvmanh.sgt@gmail.com> 1559791886 +0700	rebase: #4 Fix bug 1
+0d4da7f6dd9a3a89511722ba7f44f6b92a27569a 3c4d0ff7134061585858e6e7d926448e549d2c72 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791886 +0700	rebase: #4 Fix bug 2
+3c4d0ff7134061585858e6e7d926448e549d2c72 3c4d0ff7134061585858e6e7d926448e549d2c72 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791885 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+3c4d0ff7134061585858e6e7d926448e549d2c72 5fd2d618f4a4bd1ef06be57cf4f62773501528b8 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791973 +0700	rebase: checkout 5fd2d618f4a4bd1ef06be57cf4f62773501528b8
+5fd2d618f4a4bd1ef06be57cf4f62773501528b8 214f804878315a1d7eb9d1351246228d39f00210 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791973 +0700	rebase: #00 list screen
+214f804878315a1d7eb9d1351246228d39f00210 e8b74d152735e5fa131158d0e9ec32a72d48284d nvmanhsgt <nvmanh.sgt@gmail.com> 1559791973 +0700	rebase: #4 Fix bug 1
+e8b74d152735e5fa131158d0e9ec32a72d48284d eb8e298397d9054705b70768d856aa67b7f18e47 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791973 +0700	rebase: #4 Fix bug 2
+eb8e298397d9054705b70768d856aa67b7f18e47 eb8e298397d9054705b70768d856aa67b7f18e47 nvmanhsgt <nvmanh.sgt@gmail.com> 1559791973 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+eb8e298397d9054705b70768d856aa67b7f18e47 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792106 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792115 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_4-nmanh_exercise
+c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 827215e2331dca521ec495cefd1507937a658996 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: #4 Coding UI
+827215e2331dca521ec495cefd1507937a658996 1655c5d1da22e08f99bce289519ad3236f78330f nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: #4 Coding Process
+1655c5d1da22e08f99bce289519ad3236f78330f 5ec69c8a6c2494eab3b3ef392c0eac2731d6c41b nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: #4 nvamnh Coding Unit Test and Functional Test
+5ec69c8a6c2494eab3b3ef392c0eac2731d6c41b 5b3d7ef3c79bcb049649b353332393dc6efb1f72 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: #4 Fix bug 1
+5b3d7ef3c79bcb049649b353332393dc6efb1f72 b7e583d011538f0a60ab8d84084bb469a59b23a9 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase: #4 Fix bug 2
+b7e583d011538f0a60ab8d84084bb469a59b23a9 b7e583d011538f0a60ab8d84084bb469a59b23a9 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792125 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+b7e583d011538f0a60ab8d84084bb469a59b23a9 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792137 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792148 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_4-nmanh_exercise
+c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 8feeba2072c33493a35a16c29c64b152091a1a7f nvmanhsgt <nvmanh.sgt@gmail.com> 1559792272 +0700	commit: #4 Fix bug 3
+8feeba2072c33493a35a16c29c64b152091a1a7f 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792283 +0700	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 7a1bb8166d1fec973ab07bbe5dfc5ea322f41d11 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 Coding UI
+7a1bb8166d1fec973ab07bbe5dfc5ea322f41d11 c4fe6dfad495c8913fdfc82c8f9eb8c164e55737 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 Coding Process
+c4fe6dfad495c8913fdfc82c8f9eb8c164e55737 a82d77599cb15f00a1361ef7e39595ac178e6f7b nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 nvamnh Coding Unit Test and Functional Test
+a82d77599cb15f00a1361ef7e39595ac178e6f7b 28acc98a6a5933febe5d8734ecba799862e36fb0 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 Fix bug 1
+28acc98a6a5933febe5d8734ecba799862e36fb0 f257174ff8e76f9989a8772f34588413219918b7 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 Fix bug 2
+f257174ff8e76f9989a8772f34588413219918b7 6c0f118059d38757fb64f10505a9055b699596ce nvmanhsgt <nvmanh.sgt@gmail.com> 1559792284 +0700	rebase: #4 Fix bug 3
+6c0f118059d38757fb64f10505a9055b699596ce 6c0f118059d38757fb64f10505a9055b699596ce nvmanhsgt <nvmanh.sgt@gmail.com> 1559792283 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+6c0f118059d38757fb64f10505a9055b699596ce 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792592 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792608 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_4-nmanh_exercise
+c4ede7f7f5ab86479f1f80a5ab93a338430a4c79 104b654810de02444a1aca31450adf2f94c31b96 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792658 +0700	commit: #4 Fix bug 3
+104b654810de02444a1aca31450adf2f94c31b96 661c92b4fa9a29afdb6fef80fd9b758781860794 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 ab4ea1c28e37a0791718116a38a356122201d6c2 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 Coding UI
+ab4ea1c28e37a0791718116a38a356122201d6c2 a4abc23f6c994ea31faf8a2a011f6cd734e254aa nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 Coding Process
+a4abc23f6c994ea31faf8a2a011f6cd734e254aa d07f41bee8d47f574a826832b7ec55b44afcafa2 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 nvamnh Coding Unit Test and Functional Test
+d07f41bee8d47f574a826832b7ec55b44afcafa2 86fa2df673b613a1e209978278580ebb558bd361 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 Fix bug 1
+86fa2df673b613a1e209978278580ebb558bd361 e6d58bba0a0eadc144e7ab6f13ca04fc69baa8cc nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 Fix bug 2
+e6d58bba0a0eadc144e7ab6f13ca04fc69baa8cc 036dadbef133c81da690c34e801cbe201eefd3b7 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase: #4 Fix bug 3
+036dadbef133c81da690c34e801cbe201eefd3b7 036dadbef133c81da690c34e801cbe201eefd3b7 nvmanhsgt <nvmanh.sgt@gmail.com> 1559792681 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+036dadbef133c81da690c34e801cbe201eefd3b7 d07f41bee8d47f574a826832b7ec55b44afcafa2 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793342 +0700	rebase -i (start): checkout a4abc23f6c994ea31faf8a2a011f6cd734e254aa
+d07f41bee8d47f574a826832b7ec55b44afcafa2 86fa2df673b613a1e209978278580ebb558bd361 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793342 +0700	rebase -i: fast-forward
+86fa2df673b613a1e209978278580ebb558bd361 32a1e22fc48f3bc65c07a8913dce40765a23cb1d nvmanhsgt <nvmanh.sgt@gmail.com> 1559793342 +0700	rebase -i (reword): \#4 Fix bug
+32a1e22fc48f3bc65c07a8913dce40765a23cb1d 460773036c111a5a18912e7c69150da5effaad88 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793365 +0700	rebase -i (fixup): # This is a combination of 2 commits.
+460773036c111a5a18912e7c69150da5effaad88 de1c0dd625ece54bf788a04b0dfc710ee2a4f5d1 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793365 +0700	rebase -i (fixup): \#4 Fix bug
+de1c0dd625ece54bf788a04b0dfc710ee2a4f5d1 de1c0dd625ece54bf788a04b0dfc710ee2a4f5d1 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793365 +0700	rebase -i (finish): returning to refs/heads/feature/issue_4-nmanh_exercise
+de1c0dd625ece54bf788a04b0dfc710ee2a4f5d1 ee50ca30b5a987a9dd2721668adfacadd363226a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793388 +0700	commit (amend): #4 Fix bug
+ee50ca30b5a987a9dd2721668adfacadd363226a ee50ca30b5a987a9dd2721668adfacadd363226a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793468 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_4-nmanh_exercise
+ee50ca30b5a987a9dd2721668adfacadd363226a ee50ca30b5a987a9dd2721668adfacadd363226a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793478 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_4-nmanh_exercise
+ee50ca30b5a987a9dd2721668adfacadd363226a f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793512 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ee50ca30b5a987a9dd2721668adfacadd363226a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793519 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_4-nmanh_exercise
+ee50ca30b5a987a9dd2721668adfacadd363226a f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793526 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 6ee3067e562ebd5bed762db60d7d25d798f464a2 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793526 +0700	rebase: #00 list screen
+6ee3067e562ebd5bed762db60d7d25d798f464a2 527bb43e49f315980f062fa5066b974d50dc3963 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793643 +0700	rebase: #4 Coding UI
+527bb43e49f315980f062fa5066b974d50dc3963 7647a75cdc7417ce5711b4837aa0027537caa94b nvmanhsgt <nvmanh.sgt@gmail.com> 1559793643 +0700	rebase: #4 Coding Process
+7647a75cdc7417ce5711b4837aa0027537caa94b 4adacf9e48bccbe80b1e60eab6dc7b2d1a4e851a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793643 +0700	rebase: #4 nvamnh Coding Unit Test and Functional Test
+4adacf9e48bccbe80b1e60eab6dc7b2d1a4e851a 4b578eea55870cde875420bf13cd28fa3721a19a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793643 +0700	rebase: #4 Fix bug
+4b578eea55870cde875420bf13cd28fa3721a19a 4b578eea55870cde875420bf13cd28fa3721a19a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793643 +0700	rebase finished: returning to refs/heads/feature/issue_4-nmanh_exercise
+4b578eea55870cde875420bf13cd28fa3721a19a 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793817 +0700	checkout: moving from feature/issue_4-nmanh_exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 4b578eea55870cde875420bf13cd28fa3721a19a nvmanhsgt <nvmanh.sgt@gmail.com> 1559793828 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_4-nmanh_exercise
+4b578eea55870cde875420bf13cd28fa3721a19a b7e6210c83c0dd31d020f5187800055a83b28c33 nvmanhsgt <nvmanh.sgt@gmail.com> 1559793838 +0700	cherry-pick: #00 Add new screen register 2
