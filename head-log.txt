@@ -1,0 +1,57 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814236 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 3e1401df847894754987a86af57333ef0d0f5764 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814313 +0700	checkout: moving from master to develop
+3e1401df847894754987a86af57333ef0d0f5764 3e1401df847894754987a86af57333ef0d0f5764 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814413 +0700	checkout: moving from develop to feature/issue_17-ndbduong_exercise
+3e1401df847894754987a86af57333ef0d0f5764 ac059061a8ccbf07d5c745da05d235349bd25c19 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814468 +0700	commit: #17 Coding UI
+ac059061a8ccbf07d5c745da05d235349bd25c19 b71898f73bd9d448d05b378f66e71d0f30a17e27 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814524 +0700	commit: #17 Coding Process
+b71898f73bd9d448d05b378f66e71d0f30a17e27 242687d6bdade8ab37019330301305b35421d417 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814537 +0700	commit: #17 Coding Unit Test
+242687d6bdade8ab37019330301305b35421d417 508828bb130112f3430a87592f4c1d09cc8ded12 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814564 +0700	commit (amend): #17 Duong Coding Unit Test and Functional Test
+508828bb130112f3430a87592f4c1d09cc8ded12 661c92b4fa9a29afdb6fef80fd9b758781860794 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814685 +0700	rebase: checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 f61de489e93f453feddc538a9875e265d64a5e69 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814686 +0700	rebase: Update README.md
+f61de489e93f453feddc538a9875e265d64a5e69 fd70ef13018b5d9a8176288a7e8ffef8feab8b23 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814686 +0700	rebase: #17 Coding UI
+fd70ef13018b5d9a8176288a7e8ffef8feab8b23 2bcb349e75b5f28f613ad69a3cebb786a9da92a7 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814686 +0700	rebase: #17 Coding Process
+2bcb349e75b5f28f613ad69a3cebb786a9da92a7 dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814686 +0700	rebase: #17 Duong Coding Unit Test and Functional Test
+dafffafdc0b1cbd667e36097cdddf414162327ea dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559814685 +0700	rebase finished: returning to refs/heads/feature/issue_17-ndbduong_exercise
+dafffafdc0b1cbd667e36097cdddf414162327ea f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815086 +0700	commit: #17 Fix bug 1
+f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 c5ce234bb4a1f211f5eaffd1858c26605f662157 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815114 +0700	commit: #17 Fix bug 2
+c5ce234bb4a1f211f5eaffd1858c26605f662157 c5f2086a1a17ae66a8955cbb45de383781a3bf34 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815137 +0700	commit: #17 Fix bug 3
+c5f2086a1a17ae66a8955cbb45de383781a3bf34 c5f2086a1a17ae66a8955cbb45de383781a3bf34 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815477 +0700	rebase -i (start): checkout HEAD~3
+c5f2086a1a17ae66a8955cbb45de383781a3bf34 c5f2086a1a17ae66a8955cbb45de383781a3bf34 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815477 +0700	rebase -i (finish): returning to refs/heads/feature/issue_17-ndbduong_exercise
+c5f2086a1a17ae66a8955cbb45de383781a3bf34 dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815853 +0700	rebase -i (start): checkout HEAD~3
+dafffafdc0b1cbd667e36097cdddf414162327ea f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815853 +0700	rebase -i: fast-forward
+f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 a578c8038ee0475ff02218d649fd9ca5e61c4067 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815853 +0700	rebase -i (reword): '#17 Fix bug'
+a578c8038ee0475ff02218d649fd9ca5e61c4067 a03111658de279c9a0fa22c303fb3fd5708d097b ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815917 +0700	rebase -i (squash): # This is a combination of 2 commits.
+a03111658de279c9a0fa22c303fb3fd5708d097b f5793e3f82c0bce5e3b83e5c6134e918509f02b6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815917 +0700	rebase -i (squash): '#17 Fix bug'
+f5793e3f82c0bce5e3b83e5c6134e918509f02b6 f5793e3f82c0bce5e3b83e5c6134e918509f02b6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815917 +0700	rebase -i (finish): returning to refs/heads/feature/issue_17-ndbduong_exercise
+f5793e3f82c0bce5e3b83e5c6134e918509f02b6 f5793e3f82c0bce5e3b83e5c6134e918509f02b6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559815993 +0700	reset: moving to HEAD
+f5793e3f82c0bce5e3b83e5c6134e918509f02b6 dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816045 +0700	reset: moving to HEAD^1
+dafffafdc0b1cbd667e36097cdddf414162327ea c5f2086a1a17ae66a8955cbb45de383781a3bf34 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816064 +0700	pull --no-commit origin feature/issue_17-ndbduong_exercise: Fast-forward
+c5f2086a1a17ae66a8955cbb45de383781a3bf34 dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816170 +0700	rebase -i (start): checkout HEAD~3
+dafffafdc0b1cbd667e36097cdddf414162327ea f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816170 +0700	rebase -i: fast-forward
+f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 06ee448a478522c9ee0edf21a7d58422ff229c88 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816170 +0700	rebase -i (reword): '#17 Fix bug'
+06ee448a478522c9ee0edf21a7d58422ff229c88 400ff749eecf56a7b0840f288d7394cb2f4d6031 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816188 +0700	rebase -i (squash): # This is a combination of 2 commits.
+400ff749eecf56a7b0840f288d7394cb2f4d6031 69c186aa56127421f2a7099008185e0e986f0c1d ndbduong-sgt <ndbduong.sgt@gmail.com> 1559816188 +0700	rebase -i (squash): '#17 Fix bug'
+69c186aa56127421f2a7099008185e0e986f0c1d c5f2086a1a17ae66a8955cbb45de383781a3bf34 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817112 +0700	rebase -i (abort): updating HEAD
+c5f2086a1a17ae66a8955cbb45de383781a3bf34 dafffafdc0b1cbd667e36097cdddf414162327ea ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817221 +0700	rebase -i (start): checkout HEAD~3
+dafffafdc0b1cbd667e36097cdddf414162327ea f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817221 +0700	rebase -i: fast-forward
+f9a6a7ef99a1258f80780d64dc7eb9f84f80b586 fd3c50587ece916c28ff028353c2df216aaf5f79 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817221 +0700	rebase -i (reword): '#17 Fix bug'
+fd3c50587ece916c28ff028353c2df216aaf5f79 edd928357e53dfdb25309c37e77c47bb36b61678 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817255 +0700	rebase -i (squash): # This is a combination of 2 commits.
+edd928357e53dfdb25309c37e77c47bb36b61678 7d5fb48263d1f36a5bca90a759f874b87a10afb3 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817255 +0700	rebase -i (squash): '#17 Fix bug'
+7d5fb48263d1f36a5bca90a759f874b87a10afb3 7d5fb48263d1f36a5bca90a759f874b87a10afb3 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817255 +0700	rebase -i (finish): returning to refs/heads/feature/issue_17-ndbduong_exercise
+7d5fb48263d1f36a5bca90a759f874b87a10afb3 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817456 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 417484ff7a7b112aeba527ee2c2fecf453b5ead6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817456 +0700	rebase: #00 list screen
+417484ff7a7b112aeba527ee2c2fecf453b5ead6 0e78c8e2ef4a64484008487a5b0db3192fe682e1 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817456 +0700	rebase: Update README.md
+0e78c8e2ef4a64484008487a5b0db3192fe682e1 7d5fb48263d1f36a5bca90a759f874b87a10afb3 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817728 +0700	rebase: updating HEAD
+7d5fb48263d1f36a5bca90a759f874b87a10afb3 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817742 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 5f6f930ad7257464f20a9f197b0920e740d15c53 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817742 +0700	rebase: #00 list screen
+5f6f930ad7257464f20a9f197b0920e740d15c53 f0a427dd4d45289a19d7b5eb2c0b086067e41f8b ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817742 +0700	rebase: Update README.md
+f0a427dd4d45289a19d7b5eb2c0b086067e41f8b 7d5fb48263d1f36a5bca90a759f874b87a10afb3 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817833 +0700	rebase: updating HEAD
+7d5fb48263d1f36a5bca90a759f874b87a10afb3 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817838 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 1d270a5e296c779467258117dc61d0363962b4f2 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817838 +0700	rebase: #00 list screen
+1d270a5e296c779467258117dc61d0363962b4f2 e393e0b3b7765626eb105cddb23b22876d287d52 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559817838 +0700	rebase: Update README.md
+e393e0b3b7765626eb105cddb23b22876d287d52 934b70b950bf3f3dd0c8523a10236430d1b53a97 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818192 +0700	rebase: #17 Coding Process
+934b70b950bf3f3dd0c8523a10236430d1b53a97 3bb367b0f0a8d51015ed90cf5562fda3edd2186f ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818192 +0700	rebase: #17 Duong Coding Unit Test and Functional Test
+3bb367b0f0a8d51015ed90cf5562fda3edd2186f f2071c6c99a2f1bcfcb59946cd46e7144e249919 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818192 +0700	rebase: '#17 Fix bug'
+f2071c6c99a2f1bcfcb59946cd46e7144e249919 f2071c6c99a2f1bcfcb59946cd46e7144e249919 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818192 +0700	rebase finished: returning to refs/heads/feature/issue_17-ndbduong_exercise
+f2071c6c99a2f1bcfcb59946cd46e7144e249919 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818546 +0700	checkout: moving from feature/issue_17-ndbduong_exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 f2071c6c99a2f1bcfcb59946cd46e7144e249919 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818556 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_17-ndbduong_exercise
+f2071c6c99a2f1bcfcb59946cd46e7144e249919 b571b97c7af96d53f7ca9e7593ae0d612b6a2303 ndbduong-sgt <ndbduong.sgt@gmail.com> 1559818681 +0700	cherry-pick: #00 Add new screen register 2
