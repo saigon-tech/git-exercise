@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 huy.sgt <huy@saigon-tech.vn> 1559805464 +0700	clone: from git@github.com:saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 2d5978111c3a310ca89cff050e3c829867e650a3 huy.sgt <huy@saigon-tech.vn> 1559805569 +0700	checkout: moving from master to feature/issue_5-huy-git-exercise
+2d5978111c3a310ca89cff050e3c829867e650a3 0c923e99c991c0c2bc076e53577e68dc7e6cbc44 huy.sgt <huy@saigon-tech.vn> 1559805702 +0700	rebase -i (start): checkout HEAD~4
+0c923e99c991c0c2bc076e53577e68dc7e6cbc44 b04d76e3508292849491743721cc911f285aef15 huy.sgt <huy@saigon-tech.vn> 1559805702 +0700	rebase -i (squash): # This is a combination of 2 commits.
+b04d76e3508292849491743721cc911f285aef15 daf42c3532fa2a9c9d227da92f87369f93b2b28a huy.sgt <huy@saigon-tech.vn> 1559805702 +0700	rebase -i (squash): Fix bug
+daf42c3532fa2a9c9d227da92f87369f93b2b28a daf42c3532fa2a9c9d227da92f87369f93b2b28a huy.sgt <huy@saigon-tech.vn> 1559805702 +0700	rebase -i (finish): returning to refs/heads/feature/issue_5-huy-git-exercise
+daf42c3532fa2a9c9d227da92f87369f93b2b28a 661c92b4fa9a29afdb6fef80fd9b758781860794 huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase: checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 ed79386799de83f2d74789e99b667fafd9f79533 huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase: Coding UI
+ed79386799de83f2d74789e99b667fafd9f79533 1773e3fda88df9fb016347d5d1298d471790a084 huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase: Coding Process
+1773e3fda88df9fb016347d5d1298d471790a084 97c2b08c2c8a0dab8948478296308782d96b525d huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase: nqhuy Coding Unit Test and Functional Test
+97c2b08c2c8a0dab8948478296308782d96b525d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase: Fix bug
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559805921 +0700	rebase finished: returning to refs/heads/feature/issue_5-huy-git-exercise
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559806127 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 8ade65bd7e5456b87328794a8f6838bdf4874f38 huy.sgt <huy@saigon-tech.vn> 1559806127 +0700	rebase: #00 list screen
+8ade65bd7e5456b87328794a8f6838bdf4874f38 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806393 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806393 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559806443 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 3e67554d3a3633343e09a7978eb4c947ebb70944 huy.sgt <huy@saigon-tech.vn> 1559806443 +0700	rebase: #00 list screen
+3e67554d3a3633343e09a7978eb4c947ebb70944 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806717 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806717 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559806770 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 91b202d132a37801fd1b060ed9f3f48ea4bf2734 huy.sgt <huy@saigon-tech.vn> 1559806770 +0700	rebase: #00 list screen
+91b202d132a37801fd1b060ed9f3f48ea4bf2734 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806978 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559806978 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559807028 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 300f11c765cac58ea330aebe5cc85de23f52a6d1 huy.sgt <huy@saigon-tech.vn> 1559807028 +0700	rebase: #00 list screen
+300f11c765cac58ea330aebe5cc85de23f52a6d1 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807222 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807222 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559807259 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 a90ea4f5c368784a65afe2ba626bda4eb35da4b1 huy.sgt <huy@saigon-tech.vn> 1559807259 +0700	rebase: #00 list screen
+a90ea4f5c368784a65afe2ba626bda4eb35da4b1 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807487 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807487 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559807531 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 a096fefac7e409c60a41c592e09427650c0c1453 huy.sgt <huy@saigon-tech.vn> 1559807531 +0700	rebase: #00 list screen
+a096fefac7e409c60a41c592e09427650c0c1453 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807748 +0700	rebase: aborting
+49fcc8638dcd994b95536cb60cb6f765a09c661d 49fcc8638dcd994b95536cb60cb6f765a09c661d huy.sgt <huy@saigon-tech.vn> 1559807748 +0700	rebase: updating HEAD
+49fcc8638dcd994b95536cb60cb6f765a09c661d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huy.sgt <huy@saigon-tech.vn> 1559807788 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 b05e8682309a9a28318df7c6a44f1530ae21a471 huy.sgt <huy@saigon-tech.vn> 1559807788 +0700	rebase: #00 list screen
+b05e8682309a9a28318df7c6a44f1530ae21a471 bcb7fa1566d58f103de54910b533438c3f637f56 huy.sgt <huy@saigon-tech.vn> 1559807888 +0700	rebase: Coding Process
+bcb7fa1566d58f103de54910b533438c3f637f56 4ca43a14a22ce6ce452b2890f6361293a2f9ea2c huy.sgt <huy@saigon-tech.vn> 1559807888 +0700	rebase: nqhuy Coding Unit Test and Functional Test
+4ca43a14a22ce6ce452b2890f6361293a2f9ea2c 9686207abd7ef07e0f4df6809f5c8c64c7bcbc79 huy.sgt <huy@saigon-tech.vn> 1559807888 +0700	rebase: Fix bug
+9686207abd7ef07e0f4df6809f5c8c64c7bcbc79 9686207abd7ef07e0f4df6809f5c8c64c7bcbc79 huy.sgt <huy@saigon-tech.vn> 1559807888 +0700	rebase finished: returning to refs/heads/feature/issue_5-huy-git-exercise
+9686207abd7ef07e0f4df6809f5c8c64c7bcbc79 76f1fc29f037224c7f29d3a9d4ce7b54c13ebdd2 huy.sgt <huy@saigon-tech.vn> 1559808341 +0700	cherry-pick: #00 Add new screen register 2
