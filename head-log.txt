@@ -1,0 +1,76 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559807999 +0900	clone: from https://hdkhoasgt@github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 3e1401df847894754987a86af57333ef0d0f5764 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808050 +0900	checkout: moving from master to develop
+3e1401df847894754987a86af57333ef0d0f5764 3e1401df847894754987a86af57333ef0d0f5764 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808142 +0900	checkout: moving from develop to feature/issue_12-khoahd-excercise
+3e1401df847894754987a86af57333ef0d0f5764 4caf0c7d24713eb856f212e1da79e4772398c99e hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808517 +0900	commit: #12 Coding UI
+4caf0c7d24713eb856f212e1da79e4772398c99e a1c495eba4eb48880f4682ab084b68c929a02831 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808573 +0900	commit: #12 Coding Process
+a1c495eba4eb48880f4682ab084b68c929a02831 4f7bc6d90c93b2759d9982ca2b3cc7b88392b6fb hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808680 +0900	commit: #12 Coding Unit Test
+4f7bc6d90c93b2759d9982ca2b3cc7b88392b6fb 1b9abaf25d83c3590cd546549ef828c26f8bd6cf hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559808801 +0900	commit (amend): khoahd Coding Unit Test and Functional Test
+1b9abaf25d83c3590cd546549ef828c26f8bd6cf 3e589d81970f2e1972f32b1ae803c0414950795f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809222 +0900	commit (merge): Merge branch 'feature/issue_12-khoahd-excercise' of https://github.com/saigon-tech/git-exercise into feature/issue_12-khoahd-excercise
+3e589d81970f2e1972f32b1ae803c0414950795f 1cb68deb9ae5f67ba302c61dd61bcfb4c5e7151a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809264 +0900	commit: #12 Fix bug 1
+1cb68deb9ae5f67ba302c61dd61bcfb4c5e7151a 46eebfd8d7ea6416ea275294aaad0e2372a92bbe hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809300 +0900	commit: #12 Fix bug 2
+46eebfd8d7ea6416ea275294aaad0e2372a92bbe f81766a4fd207de5ab27b88256adf8ce63ed1ea8 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809332 +0900	commit: #12 Fix bug 3
+f81766a4fd207de5ab27b88256adf8ce63ed1ea8 661c92b4fa9a29afdb6fef80fd9b758781860794 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809422 +0900	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 f81766a4fd207de5ab27b88256adf8ce63ed1ea8 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809427 +0900	checkout: moving from feature/issue_00-List-Screen to feature/issue_12-khoahd-excercise
+f81766a4fd207de5ab27b88256adf8ce63ed1ea8 661c92b4fa9a29afdb6fef80fd9b758781860794 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 231c1c59472224edc70029f4801b92e3ea37869f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: Update README.md
+231c1c59472224edc70029f4801b92e3ea37869f 52cd426fa078b90af009a7f414c936de9a1cf753 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Coding UI
+52cd426fa078b90af009a7f414c936de9a1cf753 0fb0275082364b9f814402fc792571868d86da78 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Coding Process
+0fb0275082364b9f814402fc792571868d86da78 58d2996ada09799c751d3960a01069d51e37ad75 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Coding Unit Test
+58d2996ada09799c751d3960a01069d51e37ad75 b949eed47ca672d34912bdee58ecebeaf2f23350 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Fix bug 1
+b949eed47ca672d34912bdee58ecebeaf2f23350 986042f0096cc6deb7a4627f1788d04f76322116 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Fix bug 2
+986042f0096cc6deb7a4627f1788d04f76322116 ecedc01be68de60b229e5fcd052d99bafb262a1a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809437 +0900	rebase: #12 Fix bug 3
+ecedc01be68de60b229e5fcd052d99bafb262a1a ecedc01be68de60b229e5fcd052d99bafb262a1a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809438 +0900	rebase finished: returning to refs/heads/feature/issue_12-khoahd-excercise
+ecedc01be68de60b229e5fcd052d99bafb262a1a 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559809611 +0900	commit (merge): Merge branch 'feature/issue_12-khoahd-excercise' of https://github.com/saigon-tech/git-exercise into feature/issue_12-khoahd-excercise
+000c4172a082f3414cc14163cb89e0d3930034b2 ecedc01be68de60b229e5fcd052d99bafb262a1a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559810352 +0900	rebase -i (start): checkout HEAD~3
+ecedc01be68de60b229e5fcd052d99bafb262a1a 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813677 +0900	checkout: moving from ecedc01be68de60b229e5fcd052d99bafb262a1a to feature/issue_12-khoahd-excercise
+000c4172a082f3414cc14163cb89e0d3930034b2 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813834 +0900	rebase: aborting
+000c4172a082f3414cc14163cb89e0d3930034b2 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813834 +0900	rebase -i (abort): updating HEAD
+000c4172a082f3414cc14163cb89e0d3930034b2 ecedc01be68de60b229e5fcd052d99bafb262a1a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813890 +0900	rebase -i (start): checkout HEAD~3
+ecedc01be68de60b229e5fcd052d99bafb262a1a 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813931 +0900	rebase: aborting
+000c4172a082f3414cc14163cb89e0d3930034b2 000c4172a082f3414cc14163cb89e0d3930034b2 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559813931 +0900	rebase -i (abort): updating HEAD
+000c4172a082f3414cc14163cb89e0d3930034b2 1b9abaf25d83c3590cd546549ef828c26f8bd6cf hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814251 +0900	rebase -i (start): checkout 1b9abaf25d83c3590cd546549ef828c26f8bd6cf
+1b9abaf25d83c3590cd546549ef828c26f8bd6cf 1b9abaf25d83c3590cd546549ef828c26f8bd6cf hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814251 +0900	rebase -i (finish): returning to refs/heads/feature/issue_12-khoahd-excercise
+1b9abaf25d83c3590cd546549ef828c26f8bd6cf 7221ac8c820c73c973a6ff9222bc1b79dc040b6f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814413 +0900	commit: #12 Fix bug 1
+7221ac8c820c73c973a6ff9222bc1b79dc040b6f 35a40be7a34e528a661ef213e6995a81d1212ed3 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814446 +0900	commit: #12 Fix bug 2
+35a40be7a34e528a661ef213e6995a81d1212ed3 5df86ef145df6eafbfaef12ac52ce17bbd0833f0 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814480 +0900	commit: #12 Fix bug 3
+5df86ef145df6eafbfaef12ac52ce17bbd0833f0 661c92b4fa9a29afdb6fef80fd9b758781860794 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 f1dedbd0e8c158f7776cdc0a1997b7d22cbb00f3 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: Update README.md
+f1dedbd0e8c158f7776cdc0a1997b7d22cbb00f3 e98a560809f5a33700469e141d42ca7302abfdc7 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: #12 Coding UI
+e98a560809f5a33700469e141d42ca7302abfdc7 ee7316215890b1ee5f2261b1ffa6be86a0403d52 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: #12 Coding Process
+ee7316215890b1ee5f2261b1ffa6be86a0403d52 84362f9230dcb3fc076c3b4835454a52b7570911 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: khoahd Coding Unit Test and Functional Test
+84362f9230dcb3fc076c3b4835454a52b7570911 cfc12314964a39505640ae8a86243984ab0d2d5f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: #12 Fix bug 1
+cfc12314964a39505640ae8a86243984ab0d2d5f d7691769257410a9417ca23700d7585f7acb910b hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: #12 Fix bug 2
+d7691769257410a9417ca23700d7585f7acb910b 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase: #12 Fix bug 3
+3eff4695a155203885843227517a8b3f1eaea434 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814566 +0900	rebase finished: returning to refs/heads/feature/issue_12-khoahd-excercise
+3eff4695a155203885843227517a8b3f1eaea434 84362f9230dcb3fc076c3b4835454a52b7570911 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814909 +0900	rebase -i (start): checkout HEAD~3
+84362f9230dcb3fc076c3b4835454a52b7570911 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814936 +0900	rebase: aborting
+3eff4695a155203885843227517a8b3f1eaea434 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559814936 +0900	rebase -i (abort): updating HEAD
+3eff4695a155203885843227517a8b3f1eaea434 84362f9230dcb3fc076c3b4835454a52b7570911 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815018 +0900	rebase -i (start): checkout HEAD~3
+84362f9230dcb3fc076c3b4835454a52b7570911 cfc12314964a39505640ae8a86243984ab0d2d5f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815018 +0900	rebase -i: fast-forward
+cfc12314964a39505640ae8a86243984ab0d2d5f e75108cc9ff62cf077e973451a789a10fcf84f5f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815078 +0900	rebase -i (fixup): # This is a combination of 2 commits.
+e75108cc9ff62cf077e973451a789a10fcf84f5f 6cb7c5c9e2211bb90310fce725a67936783fe8ca hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815135 +0900	commit (amend): 12 Fix bug
+6cb7c5c9e2211bb90310fce725a67936783fe8ca 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815384 +0900	rebase: aborting
+3eff4695a155203885843227517a8b3f1eaea434 3eff4695a155203885843227517a8b3f1eaea434 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815384 +0900	rebase -i (abort): updating HEAD
+3eff4695a155203885843227517a8b3f1eaea434 84362f9230dcb3fc076c3b4835454a52b7570911 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815442 +0900	rebase -i (start): checkout HEAD~3
+84362f9230dcb3fc076c3b4835454a52b7570911 cfc12314964a39505640ae8a86243984ab0d2d5f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815442 +0900	rebase -i: fast-forward
+cfc12314964a39505640ae8a86243984ab0d2d5f 61ad86ab61d065927f747466e8578a523e6da8ac hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815442 +0900	rebase -i (reword): 12 Fix bug 1
+61ad86ab61d065927f747466e8578a523e6da8ac 7ab34b964e26bd4e75c3ce61b84d019c5666f4eb hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815450 +0900	rebase -i (fixup): # This is a combination of 2 commits.
+7ab34b964e26bd4e75c3ce61b84d019c5666f4eb 5bf862ca1809a9d03c2c9e446868931a81400c68 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815450 +0900	rebase -i (fixup): 12 Fix bug 1
+5bf862ca1809a9d03c2c9e446868931a81400c68 5bf862ca1809a9d03c2c9e446868931a81400c68 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815442 +0900	rebase -i (finish): returning to refs/heads/feature/issue_12-khoahd-excercise
+5bf862ca1809a9d03c2c9e446868931a81400c68 0783447cb944b17ebc9d0b9c094f04f14a839dbd hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815648 +0900	commit (amend): #12 Fix bug 1
+0783447cb944b17ebc9d0b9c094f04f14a839dbd ee7316215890b1ee5f2261b1ffa6be86a0403d52 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815796 +0900	rebase -i (start): checkout HEAD~2
+ee7316215890b1ee5f2261b1ffa6be86a0403d52 84362f9230dcb3fc076c3b4835454a52b7570911 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815796 +0900	rebase -i: fast-forward
+84362f9230dcb3fc076c3b4835454a52b7570911 4653cdb3b1daf064dcbe456002e80e6fd2d55bea hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815796 +0900	rebase -i (reword): #12 khoahd Coding Unit Test and Functional Test
+4653cdb3b1daf064dcbe456002e80e6fd2d55bea 926d4417900450bedb3eebfa0dde5e53f800bf40 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815815 +0900	rebase -i (pick): #12 Fix bug 1
+926d4417900450bedb3eebfa0dde5e53f800bf40 926d4417900450bedb3eebfa0dde5e53f800bf40 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815796 +0900	rebase -i (finish): returning to refs/heads/feature/issue_12-khoahd-excercise
+926d4417900450bedb3eebfa0dde5e53f800bf40 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815893 +0900	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 926d4417900450bedb3eebfa0dde5e53f800bf40 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815896 +0900	checkout: moving from feature/issue_00_Register-Screen to feature/issue_12-khoahd-excercise
+926d4417900450bedb3eebfa0dde5e53f800bf40 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815934 +0900	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 1c912526a39c3610be90364b7c75a8a8fbe1e95f hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815934 +0900	rebase: #00 list screen
+1c912526a39c3610be90364b7c75a8a8fbe1e95f 2426e9436d3c095fcda7df2e26eb4ce6c4fc72b9 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559815934 +0900	rebase: Update README.md
+2426e9436d3c095fcda7df2e26eb4ce6c4fc72b9 74e670a64e60893a0fa88a4fd668b4ff62406e16 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816075 +0900	rebase: #12 Coding Process
+74e670a64e60893a0fa88a4fd668b4ff62406e16 94219f99efc614eae842b909b26495a1f153a7fb hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816075 +0900	rebase: #12 khoahd Coding Unit Test and Functional Test
+94219f99efc614eae842b909b26495a1f153a7fb d26a25209b1ff30fc0dde25ddf3158bbc215d1db hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816075 +0900	rebase: #12 Fix bug 1
+d26a25209b1ff30fc0dde25ddf3158bbc215d1db d26a25209b1ff30fc0dde25ddf3158bbc215d1db hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816075 +0900	rebase finished: returning to refs/heads/feature/issue_12-khoahd-excercise
+d26a25209b1ff30fc0dde25ddf3158bbc215d1db d39719c85d76660dd7078c8261bff7558a0483a4 hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816119 +0900	commit (amend): #12 Fix bug
+d39719c85d76660dd7078c8261bff7558a0483a4 d875a8d3dc15edc43a511ee337ce19b715cfc52a hdkhoa.sgt <hdkhoa.sgt@gmail.com> 1559816231 +0900	cherry-pick: #00 Add new screen register 2
