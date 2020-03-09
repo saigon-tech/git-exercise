@@ -1,8 +1,12 @@
+doing task frontend
+done task
+
+
 # Git exercise
 
 ## Task
 
-Your task is use git commands to complete requirements below in github.
+
 
 ## Requirements
 
