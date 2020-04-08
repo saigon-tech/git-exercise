@@ -1,5 +1,5 @@
 <?php
 echo 'fix process 1';
 echo 'fix process 2';
-echo 'process 3';
-echo 'process 4';
+echo 'fix process 3';
+echo 'fix process 4';
