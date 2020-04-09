@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 kimngan0902 <vtkn.sgt@gmail.com> 1586316998 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586317167 +0700	checkout: moving from master to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586317719 +0700	checkout: moving from develop to feature/issue_#29-Re-practice-git-step-1-2-3
+0fbc2e658cae52e054a2e54639062e2fbe65b23a d8c1a8ce109977f899970edfae9a079dc773244c kimngan0902 <vtkn.sgt@gmail.com> 1586319240 +0700	commit: Coding UI
+d8c1a8ce109977f899970edfae9a079dc773244c 518829ea4cd8f301b326167c30bf9a4469845115 kimngan0902 <vtkn.sgt@gmail.com> 1586321407 +0700	commit: Coding Process
+518829ea4cd8f301b326167c30bf9a4469845115 61def9cdf3cf77494c958d81c05d733061b99a86 kimngan0902 <vtkn.sgt@gmail.com> 1586321635 +0700	commit: Coding Unit Test
+61def9cdf3cf77494c958d81c05d733061b99a86 32d057d27222484ae2fcfc9f3177912d36d5d59d kimngan0902 <vtkn.sgt@gmail.com> 1586322137 +0700	commit (amend): Kim Ngan Coding Unit Test and Functional Test
+32d057d27222484ae2fcfc9f3177912d36d5d59d 0c822b985e02f8058eab11f22f98f4370ec344ba kimngan0902 <vtkn.sgt@gmail.com> 1586325507 +0700	pull: Merge made by the 'recursive' strategy.
+0c822b985e02f8058eab11f22f98f4370ec344ba 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586339409 +0700	commit (amend): Kim Ngan Coding Unit Test and Functional Test
+9dc265d7185a74487f2ac48b3caa130c582a925f 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586339982 +0700	checkout: moving from feature/issue_#29-Re-practice-git-step-1-2-3 to feature/issue_#29-branch-1
+9dc265d7185a74487f2ac48b3caa130c582a925f 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586340170 +0700	checkout: moving from feature/issue_#29-branch-1 to feature/issue_#29-Re-practice-git-step-1-2-3
+9dc265d7185a74487f2ac48b3caa130c582a925f 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586340221 +0700	checkout: moving from feature/issue_#29-Re-practice-git-step-1-2-3 to feature/issue_#29-branch-2
+9dc265d7185a74487f2ac48b3caa130c582a925f e63bb04ca079116bf06fa2a662fbf21be8f7b912 kimngan0902 <vtkn.sgt@gmail.com> 1586340547 +0700	commit: #29-Fix bug 1
+e63bb04ca079116bf06fa2a662fbf21be8f7b912 21a4a6d8fed90daf9efe25a51de5dc90f5fa3234 kimngan0902 <vtkn.sgt@gmail.com> 1586341999 +0700	commit: #29-Fix bug 3
+21a4a6d8fed90daf9efe25a51de5dc90f5fa3234 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586342134 +0700	checkout: moving from feature/issue_#29-branch-2 to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586342173 +0700	merge feature/issue_#29-branch-1: Fast-forward
+9dc265d7185a74487f2ac48b3caa130c582a925f 21a4a6d8fed90daf9efe25a51de5dc90f5fa3234 kimngan0902 <vtkn.sgt@gmail.com> 1586342913 +0700	checkout: moving from develop to feature/issue_#29-branch-2
+21a4a6d8fed90daf9efe25a51de5dc90f5fa3234 8289106a719f78ea7a28a8a6db342bad461b6d0a kimngan0902 <vtkn.sgt@gmail.com> 1586343073 +0700	commit: #29-Fix bug 2
+8289106a719f78ea7a28a8a6db342bad461b6d0a 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586343092 +0700	checkout: moving from feature/issue_#29-branch-2 to feature/issue_#29-Re-practice-git-step-1-2-3
+9dc265d7185a74487f2ac48b3caa130c582a925f 8289106a719f78ea7a28a8a6db342bad461b6d0a kimngan0902 <vtkn.sgt@gmail.com> 1586343125 +0700	merge feature/issue_#29-branch-2: Fast-forward
+8289106a719f78ea7a28a8a6db342bad461b6d0a 9dc265d7185a74487f2ac48b3caa130c582a925f kimngan0902 <vtkn.sgt@gmail.com> 1586344203 +0700	checkout: moving from feature/issue_#29-Re-practice-git-step-1-2-3 to feature/issue_#29-branch-1
+9dc265d7185a74487f2ac48b3caa130c582a925f 8289106a719f78ea7a28a8a6db342bad461b6d0a kimngan0902 <vtkn.sgt@gmail.com> 1586344223 +0700	merge feature/issue_#29-Re-practice-git-step-1-2-3: Fast-forward
+8289106a719f78ea7a28a8a6db342bad461b6d0a 32e62a2a47d547b6d4409dc15b5a3ee43445cba5 kimngan0902 <vtkn.sgt@gmail.com> 1586346303 +0700	commit: #29-fix bug 4
+32e62a2a47d547b6d4409dc15b5a3ee43445cba5 8289106a719f78ea7a28a8a6db342bad461b6d0a kimngan0902 <vtkn.sgt@gmail.com> 1586346348 +0700	checkout: moving from feature/issue_#29-branch-1 to feature/issue_#29-branch-2
+8289106a719f78ea7a28a8a6db342bad461b6d0a 70675078ee8eb384acf47a18a4d0830ccc2f4064 kimngan0902 <vtkn.sgt@gmail.com> 1586346544 +0700	commit: #29-fix bug 5
+70675078ee8eb384acf47a18a4d0830ccc2f4064 8289106a719f78ea7a28a8a6db342bad461b6d0a kimngan0902 <vtkn.sgt@gmail.com> 1586346583 +0700	checkout: moving from feature/issue_#29-branch-2 to feature/issue_#29-Re-practice-git-step-1-2-3
+8289106a719f78ea7a28a8a6db342bad461b6d0a 32e62a2a47d547b6d4409dc15b5a3ee43445cba5 kimngan0902 <vtkn.sgt@gmail.com> 1586346618 +0700	merge feature/issue_#29-branch-1: Fast-forward
+32e62a2a47d547b6d4409dc15b5a3ee43445cba5 70675078ee8eb384acf47a18a4d0830ccc2f4064 kimngan0902 <vtkn.sgt@gmail.com> 1586346744 +0700	checkout: moving from feature/issue_#29-Re-practice-git-step-1-2-3 to feature/issue_#29-branch-2
+70675078ee8eb384acf47a18a4d0830ccc2f4064 c488749dc9a9ae32064e7b914e68129ea36011c9 kimngan0902 <vtkn.sgt@gmail.com> 1586347074 +0700	commit (merge): #29-fix conflict
+c488749dc9a9ae32064e7b914e68129ea36011c9 32e62a2a47d547b6d4409dc15b5a3ee43445cba5 kimngan0902 <vtkn.sgt@gmail.com> 1586347109 +0700	checkout: moving from feature/issue_#29-branch-2 to feature/issue_#29-Re-practice-git-step-1-2-3
+32e62a2a47d547b6d4409dc15b5a3ee43445cba5 c488749dc9a9ae32064e7b914e68129ea36011c9 kimngan0902 <vtkn.sgt@gmail.com> 1586347135 +0700	merge feature/issue_#29-branch-2: Fast-forward
