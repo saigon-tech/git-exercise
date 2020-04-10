@@ -1,0 +1,46 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 kimngan0902 <vtkn.sgt@gmail.com> 1586420824 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586420871 +0700	checkout: moving from master to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586420977 +0700	checkout: moving from develop to feature/issue_#id_Re-Practice_Git-exercise_Local
+0fbc2e658cae52e054a2e54639062e2fbe65b23a e61f04f434df19687b22810dafb27fd59b85bf60 kimngan0902 <vtkn.sgt@gmail.com> 1586422521 +0700	commit: #id-Coding UI
+e61f04f434df19687b22810dafb27fd59b85bf60 bbd869e969668bd06cc24d6c1b2d218e3658f317 kimngan0902 <vtkn.sgt@gmail.com> 1586422770 +0700	commit: #id-Coding Process
+bbd869e969668bd06cc24d6c1b2d218e3658f317 dac6ec8db05451ec3c6eff7557672a3b294bfb36 kimngan0902 <vtkn.sgt@gmail.com> 1586422856 +0700	commit: #id-Coding Unit Test
+dac6ec8db05451ec3c6eff7557672a3b294bfb36 6b905446c7aec34d00d836d1e346f91a8058e0c1 kimngan0902 <vtkn.sgt@gmail.com> 1586423022 +0700	commit (amend): Kim Ngan Coding Unit Test and Functional Test
+6b905446c7aec34d00d836d1e346f91a8058e0c1 521ba3720f090ae17836219a6c4c4ae95b1d4e5d kimngan0902 <vtkn.sgt@gmail.com> 1586423193 +0700	commit: #id-Fix bug 1
+521ba3720f090ae17836219a6c4c4ae95b1d4e5d 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586423581 +0700	checkout: moving from feature/issue_#id_Re-Practice_Git-exercise_Local to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a kimngan0902 <vtkn.sgt@gmail.com> 1586425432 +0700	checkout: moving from develop to feature/issue_#35_Practice-Git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a bdb3bd8ed03f0bc6b11ae2caa5f65f48b3b7fbb0 kimngan0902 <vtkn.sgt@gmail.com> 1586484679 +0700	commit: #35-create-gitignore
+bdb3bd8ed03f0bc6b11ae2caa5f65f48b3b7fbb0 cecc6d61e00f38cea7a3ccda4b77ba2ca90f0a8f kimngan0902 <vtkn.sgt@gmail.com> 1586485455 +0700	commit: #35-Coding-UI
+cecc6d61e00f38cea7a3ccda4b77ba2ca90f0a8f afd33e80547ae8ffa4b8fbd5f2919bd85337f886 kimngan0902 <vtkn.sgt@gmail.com> 1586485593 +0700	commit: #35-Coding-Process
+afd33e80547ae8ffa4b8fbd5f2919bd85337f886 729fa1601561670f1abdd26d632931e1fea1e47b kimngan0902 <vtkn.sgt@gmail.com> 1586485718 +0700	commit: #35-Coding-Unit-Test
+729fa1601561670f1abdd26d632931e1fea1e47b 4d2e0c7009f79110198afce56a249d4a18c2ef36 kimngan0902 <vtkn.sgt@gmail.com> 1586485790 +0700	commit (amend): Kim Ngan Coding Unit Test and Functional Test
+4d2e0c7009f79110198afce56a249d4a18c2ef36 66d031e6403d9c5b6dd6f02333d9944f259c2f5d kimngan0902 <vtkn.sgt@gmail.com> 1586486062 +0700	commit: #35-Fix-bug-1
+66d031e6403d9c5b6dd6f02333d9944f259c2f5d 0b9bfaa4a9e1e9078969dee0c089d8a558aec25e kimngan0902 <vtkn.sgt@gmail.com> 1586486157 +0700	commit: #35-Fix-bug-2
+0b9bfaa4a9e1e9078969dee0c089d8a558aec25e 2b4f162b6d0925cd4389c767fd6b0d3c095b3241 kimngan0902 <vtkn.sgt@gmail.com> 1586486255 +0700	commit: #35-Fix-bug-3
+2b4f162b6d0925cd4389c767fd6b0d3c095b3241 661c92b4fa9a29afdb6fef80fd9b758781860794 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 23f3f2138273c6b15816c1424b0c3eeb7783f7a5 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: Update README.md
+23f3f2138273c6b15816c1424b0c3eeb7783f7a5 2d9c70c72db5af1a6b639f7028d49864f5b74a07 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: register.html
+2d9c70c72db5af1a6b639f7028d49864f5b74a07 5b89da78b6bc0070e053ae6f9a25c908f3b0dad8 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: Delete register.html
+5b89da78b6bc0070e053ae6f9a25c908f3b0dad8 14b7236c647fd123bc8838fd7efb648b7939c715 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-create-gitignore
+14b7236c647fd123bc8838fd7efb648b7939c715 c53d354e9c996bacf94ce49a7d3fc63488d9b86d kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-Coding-UI
+c53d354e9c996bacf94ce49a7d3fc63488d9b86d 94e55c94f48a722cd633a4e627feae96f5fd773d kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-Coding-Process
+94e55c94f48a722cd633a4e627feae96f5fd773d f5e7fe72fe48528baad532b14e5c70422a09123d kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: Kim Ngan Coding Unit Test and Functional Test
+f5e7fe72fe48528baad532b14e5c70422a09123d f5a65698d38c5e00fe36d4d70f1746bed32479b6 kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-Fix-bug-1
+f5a65698d38c5e00fe36d4d70f1746bed32479b6 af79d7a676bde48cd7a0d25ae2a3a95a5e2e637d kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-Fix-bug-2
+af79d7a676bde48cd7a0d25ae2a3a95a5e2e637d 6cc8acda5029a51ce6b0ec00ec3c4fa8186781eb kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase: #35-Fix-bug-3
+6cc8acda5029a51ce6b0ec00ec3c4fa8186781eb 6cc8acda5029a51ce6b0ec00ec3c4fa8186781eb kimngan0902 <vtkn.sgt@gmail.com> 1586486727 +0700	rebase finished: returning to refs/heads/feature/issue_#35_Practice-Git-exercise
+6cc8acda5029a51ce6b0ec00ec3c4fa8186781eb f5a65698d38c5e00fe36d4d70f1746bed32479b6 kimngan0902 <vtkn.sgt@gmail.com> 1586487877 +0700	rebase -i (start): checkout HEAD~3
+f5a65698d38c5e00fe36d4d70f1746bed32479b6 7945e723506735009b0bb5a6a61bea0effe51892 kimngan0902 <vtkn.sgt@gmail.com> 1586487877 +0700	rebase -i (fixup): # This is a combination of 2 commits.
+7945e723506735009b0bb5a6a61bea0effe51892 48c1e824789288b994b6cfaf6f7f0077efaefb5a kimngan0902 <vtkn.sgt@gmail.com> 1586487877 +0700	rebase -i (fixup):
+48c1e824789288b994b6cfaf6f7f0077efaefb5a 48c1e824789288b994b6cfaf6f7f0077efaefb5a kimngan0902 <vtkn.sgt@gmail.com> 1586487877 +0700	rebase -i (finish): returning to refs/heads/feature/issue_#35_Practice-Git-exercise
+48c1e824789288b994b6cfaf6f7f0077efaefb5a f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 kimngan0902 <vtkn.sgt@gmail.com> 1586488020 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ad8f590437a9eee0384161f47c94e75b7ce0e214 kimngan0902 <vtkn.sgt@gmail.com> 1586488020 +0700	rebase: #00 list screen
+ad8f590437a9eee0384161f47c94e75b7ce0e214 22c3b93b8bfc5ea6b99463d7594895aecc0ff2ae kimngan0902 <vtkn.sgt@gmail.com> 1586488020 +0700	rebase: Update README.md
+22c3b93b8bfc5ea6b99463d7594895aecc0ff2ae 0549e5ff03cb160af9e11c1a4bdb521b4a0f3d04 kimngan0902 <vtkn.sgt@gmail.com> 1586488246 +0700	rebase: register.html
+0549e5ff03cb160af9e11c1a4bdb521b4a0f3d04 c1a9c6abbcb2b29faac23e33edc70674dffa68b0 kimngan0902 <vtkn.sgt@gmail.com> 1586488276 +0700	rebase: #35-create-gitignore
+c1a9c6abbcb2b29faac23e33edc70674dffa68b0 c409a77472ec19894f14fea61fd4352f4e904153 kimngan0902 <vtkn.sgt@gmail.com> 1586488321 +0700	rebase: #35-Coding-UI
+c409a77472ec19894f14fea61fd4352f4e904153 4598abd817cca0681ffe6b9ad07da3add2cb2e87 kimngan0902 <vtkn.sgt@gmail.com> 1586488409 +0700	rebase: #35-Coding-Process
+4598abd817cca0681ffe6b9ad07da3add2cb2e87 9a1e977bbfb32701c65858f58a7619e96dc8b8c8 kimngan0902 <vtkn.sgt@gmail.com> 1586488409 +0700	rebase: Kim Ngan Coding Unit Test and Functional Test
+9a1e977bbfb32701c65858f58a7619e96dc8b8c8 754c3dbceef1037b3ec2ef66ac2022e2a28dcdb0 kimngan0902 <vtkn.sgt@gmail.com> 1586488409 +0700	rebase:
+754c3dbceef1037b3ec2ef66ac2022e2a28dcdb0 754c3dbceef1037b3ec2ef66ac2022e2a28dcdb0 kimngan0902 <vtkn.sgt@gmail.com> 1586488409 +0700	rebase finished: returning to refs/heads/feature/issue_#35_Practice-Git-exercise
+754c3dbceef1037b3ec2ef66ac2022e2a28dcdb0 7353ec3da78b752a8fbf28c5887923fab8dfccc1 kimngan0902 <vtkn.sgt@gmail.com> 1586489605 +0700	commit (cherry-pick): #35-fix-conflict
+7353ec3da78b752a8fbf28c5887923fab8dfccc1 96ff49839a4a217ca48d6c9db83789782c3f437a kimngan0902 <vtkn.sgt@gmail.com> 1586489662 +0700	cherry-pick: #00 Add new screen register 2
