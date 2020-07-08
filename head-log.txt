@@ -1,0 +1,247 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594177450 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594179289 +0700	checkout: moving from master to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594179963 +0700	checkout: moving from develop to feature/issue_39-git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a fa30354b46297de95478a296c2c50519b4ff42ba ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180586 +0700	commit: Coding UI
+fa30354b46297de95478a296c2c50519b4ff42ba 282e02cc2d72fe98899d1987de3c9cfc8a1a2a5a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180596 +0700	commit: Coding Process
+282e02cc2d72fe98899d1987de3c9cfc8a1a2a5a 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180604 +0700	commit: Coding Unit Test
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180717 +0700	checkout: moving from feature/issue_39-git-exercise to feature/issue_39-git-exercise
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 0000000000000000000000000000000000000000 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180954 +0700	Branch: renamed refs/heads/feature/issue_39-git-exercise to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+0000000000000000000000000000000000000000 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594180954 +0700	Branch: renamed refs/heads/feature/issue_39-git-exercise to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181056 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181076 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 08325b4b0a97d410a435cb7c5930a094cbf25cd2 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181159 +0700	commit: remove space
+08325b4b0a97d410a435cb7c5930a094cbf25cd2 08325b4b0a97d410a435cb7c5930a094cbf25cd2 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181208 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+08325b4b0a97d410a435cb7c5930a094cbf25cd2 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181401 +0700	rebase (start): checkout 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 08325b4b0a97d410a435cb7c5930a094cbf25cd2 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181401 +0700	rebase: fast-forward
+08325b4b0a97d410a435cb7c5930a094cbf25cd2 d3ae551f39c2a378b8e57763bbd17381c0c3d19d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181401 +0700	rebase (reword): Coding Unit Test and Functional Test
+d3ae551f39c2a378b8e57763bbd17381c0c3d19d d3ae551f39c2a378b8e57763bbd17381c0c3d19d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181401 +0700	rebase (finish): returning to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+d3ae551f39c2a378b8e57763bbd17381c0c3d19d d3ae551f39c2a378b8e57763bbd17381c0c3d19d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181532 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+d3ae551f39c2a378b8e57763bbd17381c0c3d19d 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181566 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-git-exercise
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 282e02cc2d72fe98899d1987de3c9cfc8a1a2a5a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181688 +0700	rebase (start): checkout fa30354b46297de95478a296c2c50519b4ff42ba
+282e02cc2d72fe98899d1987de3c9cfc8a1a2a5a 23ef909d44421b4a8dd605ff556ebb1e54c3fb9b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181688 +0700	rebase: fast-forward
+23ef909d44421b4a8dd605ff556ebb1e54c3fb9b 343c4facb296996ae519fb4ab315a0016081499e ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181688 +0700	rebase (reword): NTVKhoa Coding Unit Test and Functional Test
+343c4facb296996ae519fb4ab315a0016081499e 343c4facb296996ae519fb4ab315a0016081499e ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181688 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+343c4facb296996ae519fb4ab315a0016081499e 80b4f91efcfa39a0a886da02046babbb29581752 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594181724 +0700	pull origin feature/issue_39-git-exercise: Merge made by the 'recursive' strategy.
+80b4f91efcfa39a0a886da02046babbb29581752 38426ff41edd28a2faecdb3d7ffbf5376675cef9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594182024 +0700	commit: Fix bug 1
+38426ff41edd28a2faecdb3d7ffbf5376675cef9 d356a7a8ca37249905c6037a9423b58044ed9ea6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594182059 +0700	commit: Fix bug 3
+d356a7a8ca37249905c6037a9423b58044ed9ea6 59a6a96373ef63f4f315dde43beed83dae913072 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594182136 +0700	commit: Fix bug 2
+59a6a96373ef63f4f315dde43beed83dae913072 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594182589 +0700	checkout: moving from feature/issue_39-git-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 59a6a96373ef63f4f315dde43beed83dae913072 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594182781 +0700	checkout: moving from develop to feature/issue_39-git-exercise
+59a6a96373ef63f4f315dde43beed83dae913072 661c92b4fa9a29afdb6fef80fd9b758781860794 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (start): checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 5582ae4a8eb6a0d70c278d89cf2efbafe7d678fe ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Update README.md
+5582ae4a8eb6a0d70c278d89cf2efbafe7d678fe e49f4d7d4c8676b9afde0af83dd677b72dce9805 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): register.html
+e49f4d7d4c8676b9afde0af83dd677b72dce9805 91678e05b0defada0faaa2d7fd88668bcff93569 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Delete register.html
+91678e05b0defada0faaa2d7fd88668bcff93569 5dfa4ad32c3ef2e9a226e2e795998c049cb83ce1 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Coding UI
+5dfa4ad32c3ef2e9a226e2e795998c049cb83ce1 ae73443e4b688f1d47f5aff53dfabcefcb6d1f21 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Coding Process
+ae73443e4b688f1d47f5aff53dfabcefcb6d1f21 b4b7d37901134e44b3614acfda73f974a99a854a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): NTVKhoa Coding Unit Test and Functional Test
+b4b7d37901134e44b3614acfda73f974a99a854a 21e893f6a52442929db851c13a55e06815168baa ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Fix bug 1
+21e893f6a52442929db851c13a55e06815168baa 1711acdd1bf431ab97e9e0411185dc4c0503146c ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Fix bug 3
+1711acdd1bf431ab97e9e0411185dc4c0503146c 11f31c8a747ce997c4f0a788655ed9498b179447 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (pick): Fix bug 2
+11f31c8a747ce997c4f0a788655ed9498b179447 11f31c8a747ce997c4f0a788655ed9498b179447 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183447 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+11f31c8a747ce997c4f0a788655ed9498b179447 b4b7d37901134e44b3614acfda73f974a99a854a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183548 +0700	rebase (start): checkout 661c92b4fa9a29afdb6fef80fd9b758781860794
+b4b7d37901134e44b3614acfda73f974a99a854a 21e893f6a52442929db851c13a55e06815168baa ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183548 +0700	rebase: fast-forward
+21e893f6a52442929db851c13a55e06815168baa e8ad925f981f65b65a29c494bfb5365f2fcb4dad ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183548 +0700	rebase (reword): Fix bug
+e8ad925f981f65b65a29c494bfb5365f2fcb4dad 9754f826162a08bd29affaa07efd70644d0021c6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183549 +0700	rebase (reword): Fix bug 3
+9754f826162a08bd29affaa07efd70644d0021c6 2ea04b79ae76e0dd93f606a73f1c84e97bba4b69 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183549 +0700	rebase (reword): Fix bug
+2ea04b79ae76e0dd93f606a73f1c84e97bba4b69 679f15bb84bfd59d9cfb47081a1d291308911177 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183549 +0700	rebase (reword): Fix bug 2
+679f15bb84bfd59d9cfb47081a1d291308911177 249cebacef9ed1d7470691b1be8bbce623570033 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183549 +0700	rebase (reword): Fix bug
+249cebacef9ed1d7470691b1be8bbce623570033 249cebacef9ed1d7470691b1be8bbce623570033 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183549 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+249cebacef9ed1d7470691b1be8bbce623570033 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183642 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 b6659d419e3f017733995ba741c3f302c4088c5f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183642 +0700	rebase (pick): #00 list screen
+b6659d419e3f017733995ba741c3f302c4088c5f 9b8b742d2ab80fe9615bf8b19f1f4ef73f0fe4f0 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594183642 +0700	rebase (pick): Update README.md
+9b8b742d2ab80fe9615bf8b19f1f4ef73f0fe4f0 249cebacef9ed1d7470691b1be8bbce623570033 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594188848 +0700	rebase (abort): updating HEAD
+249cebacef9ed1d7470691b1be8bbce623570033 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594188906 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 9874858c69e483ac9af7451f428edb52d54a7090 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594188906 +0700	rebase (pick): #00 list screen
+9874858c69e483ac9af7451f428edb52d54a7090 559a2d1c55bf71cac845a3a9501cb942217164ee ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594188906 +0700	rebase (pick): Update README.md
+559a2d1c55bf71cac845a3a9501cb942217164ee 8a88061eab6812030d1ede2566c58d70c812c41a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189140 +0700	commit: Merge commit 'e49f4d7d4c8676b9afde0af83dd677b72dce9805' into HEAD
+8a88061eab6812030d1ede2566c58d70c812c41a 9aa8e8b24c3518f9e411576e44eb329b61c240a4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (pick): Coding Process
+9aa8e8b24c3518f9e411576e44eb329b61c240a4 8fb6db9e6c8ed66a77146810c982f5759d378d5d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (pick): NTVKhoa Coding Unit Test and Functional Test
+8fb6db9e6c8ed66a77146810c982f5759d378d5d 8bf4685ca4b173e9a61c17d9770eb9be219322df ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (pick): Fix bug
+8bf4685ca4b173e9a61c17d9770eb9be219322df 5dafbf718eecdce78f012205fcdcd6c10a8a03d5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (pick): Fix bug
+5dafbf718eecdce78f012205fcdcd6c10a8a03d5 276f80f639cdc5056e8519038b9673e9ef410e26 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (pick): Fix bug
+276f80f639cdc5056e8519038b9673e9ef410e26 276f80f639cdc5056e8519038b9673e9ef410e26 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189318 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_39-git-exercise
+276f80f639cdc5056e8519038b9673e9ef410e26 661c92b4fa9a29afdb6fef80fd9b758781860794 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (start): checkout origin/feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 d334cb4779bb284e1be1ac135beb5abdad9a4467 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): #00 Register screen
+d334cb4779bb284e1be1ac135beb5abdad9a4467 81ba4798fb8a3b1e5de05fb1a18c1151628381a5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Update README.md
+81ba4798fb8a3b1e5de05fb1a18c1151628381a5 e12c20a4fd8768fe6271c91400893423e1f6942a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Merge commit 'e49f4d7d4c8676b9afde0af83dd677b72dce9805' into HEAD
+e12c20a4fd8768fe6271c91400893423e1f6942a 96d328ff80730a07beda67cb41db12f615bf0c78 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Coding Process
+96d328ff80730a07beda67cb41db12f615bf0c78 df161d71d53e2b27f1ada6d5cc5b6589ca8c93e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): NTVKhoa Coding Unit Test and Functional Test
+df161d71d53e2b27f1ada6d5cc5b6589ca8c93e9 76da532d5937ca93d3226f5288d9c3e201797eb4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Fix bug
+76da532d5937ca93d3226f5288d9c3e201797eb4 e7ca490ae4f753da4faacdd4bb5eab3c95262734 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Fix bug
+e7ca490ae4f753da4faacdd4bb5eab3c95262734 b9e72e33f39e21fe7c078c360040454bbafe9e9a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (pick): Fix bug
+b9e72e33f39e21fe7c078c360040454bbafe9e9a b9e72e33f39e21fe7c078c360040454bbafe9e9a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189492 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+b9e72e33f39e21fe7c078c360040454bbafe9e9a a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594189627 +0700	commit (merge): Merge branch 'feature/issue_39-git-exercise' of https://github.com/saigon-tech/git-exercise into feature/issue_39-git-exercise
+a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 fec2ca63be2cb9f1b3ae6b6b0ce53bb15c4fbe72 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): #00 list screen
+fec2ca63be2cb9f1b3ae6b6b0ce53bb15c4fbe72 a00cf80d04dfdad4b1f0ad9007fd5fa55bc119f0 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Update README.md
+a00cf80d04dfdad4b1f0ad9007fd5fa55bc119f0 44a37ce34f1e3e2aa77907566e0424a1ed9c0446 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Merge commit 'e49f4d7d4c8676b9afde0af83dd677b72dce9805' into HEAD
+44a37ce34f1e3e2aa77907566e0424a1ed9c0446 bd3ebae2ec18409ef056e255fd8fa97b6fa9c113 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Coding Process
+bd3ebae2ec18409ef056e255fd8fa97b6fa9c113 42e5f7491ec983a70d458251ed400e65ea9b921d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): NTVKhoa Coding Unit Test and Functional Test
+42e5f7491ec983a70d458251ed400e65ea9b921d cb93ec751e6e4be77d803bb04f7fa68e0899d885 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Fix bug
+cb93ec751e6e4be77d803bb04f7fa68e0899d885 153d99c243e4a712a86180f04db0934b44147fad ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Fix bug
+153d99c243e4a712a86180f04db0934b44147fad d77d42c8f5c8988f13bc0b7b6cd4201e33217017 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190031 +0700	rebase (pick): Fix bug
+d77d42c8f5c8988f13bc0b7b6cd4201e33217017 fcffeebdc49f7b025806134eb1953582eef90644 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190081 +0700	commit: handle register
+fcffeebdc49f7b025806134eb1953582eef90644 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190203 +0700	checkout: moving from fcffeebdc49f7b025806134eb1953582eef90644 to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190210 +0700	checkout: moving from develop to feature/issue_39-git-exercise
+a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190381 +0700	rebase (skip): updating HEAD
+a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190556 +0700	rebase (abort): updating HEAD
+a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190556 +0700	rebase (abort): updating HEAD
+a27ae0ccb798a2e66c661a5751dbdfb5d2040b1f f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 32b3ff700767e127d52659d239d1b97491757b75 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): #00 list screen
+32b3ff700767e127d52659d239d1b97491757b75 a1fa4ae5b25ae6912ceee6816015ab3122b0dfd8 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Update README.md
+a1fa4ae5b25ae6912ceee6816015ab3122b0dfd8 6e5b7245dfc24abc830da4952d63f5b9bfaa9c3f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Merge commit 'e49f4d7d4c8676b9afde0af83dd677b72dce9805' into HEAD
+6e5b7245dfc24abc830da4952d63f5b9bfaa9c3f 27a5d3c4fe4c6239cfebb780d0a712ad04400f9f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Coding Process
+27a5d3c4fe4c6239cfebb780d0a712ad04400f9f fd15730fecbde8840442c13ce8d7e14c5ff982e2 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): NTVKhoa Coding Unit Test and Functional Test
+fd15730fecbde8840442c13ce8d7e14c5ff982e2 24241580b11e8f4f11b88afd98823e08ea85f731 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Fix bug
+24241580b11e8f4f11b88afd98823e08ea85f731 4dab356467604992336cdae6bc14c88ff1b3068b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Fix bug
+4dab356467604992336cdae6bc14c88ff1b3068b 64022f47823c8efe421701067c87ea7207aca60e ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190616 +0700	rebase (pick): Fix bug
+64022f47823c8efe421701067c87ea7207aca60e 5fcf3011395b0cc905addfa0d7ba0bc36ac0e6d4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594190694 +0700	rebase (continue): register.html
+5fcf3011395b0cc905addfa0d7ba0bc36ac0e6d4 804c2af8fb6f82f02a6ced55d694cdad50154310 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191151 +0700	commit: NTVKhoa Coding Unit Test and Functional Test
+804c2af8fb6f82f02a6ced55d694cdad50154310 6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191255 +0700	rebase (continue) (pick): Fix bug 3
+6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef 6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191255 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_39-git-exercise
+6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef 3c1b191725c6392aaae452ed2200f3bfafd64727 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191401 +0700	commit (merge): Merge branch 'feature/issue_39-git-exercise' of https://github.com/saigon-tech/git-exercise into feature/issue_39-git-exercise
+3c1b191725c6392aaae452ed2200f3bfafd64727 3c1b191725c6392aaae452ed2200f3bfafd64727 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191556 +0700	checkout: moving from feature/issue_39-git-exercise to feature/issue_39-git-exercise
+3c1b191725c6392aaae452ed2200f3bfafd64727 4656f05c36808e7cf0f25ca040438b15a9010d1b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594191759 +0700	cherry-pick: #00 Add new screen register 2
+4656f05c36808e7cf0f25ca040438b15a9010d1b e38f1d53b8c5c1e2b30f61d8629cc92cec393154 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192019 +0700	commit: Log about exercise
+e38f1d53b8c5c1e2b30f61d8629cc92cec393154 6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192248 +0700	rebase (start): checkout 6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef
+6c27d1aabe48873628cf6c5c6c8d7ec2de3045ef e38f1d53b8c5c1e2b30f61d8629cc92cec393154 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192269 +0700	rebase (abort): updating HEAD
+e38f1d53b8c5c1e2b30f61d8629cc92cec393154 f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192325 +0700	revert: Revert "Fix bug 3"
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192673 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192673 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192799 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192799 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192961 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154^
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594192961 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193022 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154^
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193022 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193140 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154^
+f5597a04d484b35ae651a666d8fb06591502070b f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193194 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_39-git-exercise
+f5597a04d484b35ae651a666d8fb06591502070b e38f1d53b8c5c1e2b30f61d8629cc92cec393154 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193355 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154^
+e38f1d53b8c5c1e2b30f61d8629cc92cec393154 f5597a04d484b35ae651a666d8fb06591502070b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193355 +0700	rebase: fast-forward
+f5597a04d484b35ae651a666d8fb06591502070b 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193355 +0700	rebase (reword): Fix bug
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193355 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193455 +0700	rebase (start): checkout e38f1d53b8c5c1e2b30f61d8629cc92cec393154^
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193455 +0700	rebase (finish): returning to refs/heads/feature/issue_39-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193505 +0700	checkout: moving from feature/issue_39-git-exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193641 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 0000000000000000000000000000000000000000 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193710 +0700	Branch: renamed refs/heads/feature/issue_39-git-exercise to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+0000000000000000000000000000000000000000 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193710 +0700	Branch: renamed refs/heads/feature/issue_39-git-exercise to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193805 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193807 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39-ntvkhoa-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193808 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594193818 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39-ntvkhoa-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 910054beae8fd20727bd9328047de742f368680b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194397 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_12-khoahd-excercise
+910054beae8fd20727bd9328047de742f368680b 6b7afa6019098d56f2bb827f9f09b9d2631507c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194426 +0700	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_39-ntvkhoa-git-exercise
+6b7afa6019098d56f2bb827f9f09b9d2631507c9 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194485 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194564 +0700	checkout: moving from develop to feature/issue_39_1-NTVKhoa-Git-Exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a b4862e6fc9eeb96ab454eebd2551541f11ce084d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194697 +0700	commit: Coding Process
+b4862e6fc9eeb96ab454eebd2551541f11ce084d 0dda60393baa2c68751673da95a833b685e70745 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194722 +0700	commit: Coding UI
+0dda60393baa2c68751673da95a833b685e70745 f118fc9deb2801c2a730d58f7fabbd771f43685f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194740 +0700	commit: Coding Unit Test
+f118fc9deb2801c2a730d58f7fabbd771f43685f 0dda60393baa2c68751673da95a833b685e70745 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194922 +0700	rebase (start): checkout f118fc9deb2801c2a730d58f7fabbd771f43685f^
+0dda60393baa2c68751673da95a833b685e70745 f118fc9deb2801c2a730d58f7fabbd771f43685f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194922 +0700	rebase: fast-forward
+f118fc9deb2801c2a730d58f7fabbd771f43685f 3508a5bf40545528617bf79f6f792986bb1fd8db ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194922 +0700	rebase (reword): Khoa Coding Unit Test and Functional Test
+3508a5bf40545528617bf79f6f792986bb1fd8db 3508a5bf40545528617bf79f6f792986bb1fd8db ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594194922 +0700	rebase (finish): returning to refs/heads/feature/issue_39_1-NTVKhoa-Git-Exercise
+3508a5bf40545528617bf79f6f792986bb1fd8db 50a4fad33d1c75344ecdb7507904464fceefbd17 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195201 +0700	pull origin feature/issue_39_1-NTVKhoa-Git-Exercise: Merge made by the 'recursive' strategy.
+50a4fad33d1c75344ecdb7507904464fceefbd17 ff38190ac834010de7f45f861af90b449992e33d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195328 +0700	commit: Fix bug 1
+ff38190ac834010de7f45f861af90b449992e33d 537c6fe41e280bfb4b2cc1c14636e670f1284612 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195363 +0700	commit: Fix bug 2
+537c6fe41e280bfb4b2cc1c14636e670f1284612 03b4bb838503e3e4ac0c01e15720a1ccca09345d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195380 +0700	commit: Fix bug 3
+03b4bb838503e3e4ac0c01e15720a1ccca09345d 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195420 +0700	rebase (start): checkout feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 8d185962d7ce6be4e2d4c7280ce27d9aeb468686 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195546 +0700	rebase (continue): register.html
+8d185962d7ce6be4e2d4c7280ce27d9aeb468686 d61280b86b1fea1484d570bde13d643a52bf2820 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195733 +0700	rebase (continue): Coding Process
+d61280b86b1fea1484d570bde13d643a52bf2820 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195776 +0700	rebase (continue): Coding UI
+011047b379981180bb29b0e55ec64b9c92f152e9 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195842 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 910054beae8fd20727bd9328047de742f368680b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195947 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_12-khoahd-excercise
+910054beae8fd20727bd9328047de742f368680b 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195961 +0700	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 910054beae8fd20727bd9328047de742f368680b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195972 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_12-khoahd-excercise
+910054beae8fd20727bd9328047de742f368680b 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594195976 +0700	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196003 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_24-dvphuc-git-exercise
+c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 1ff41043456380041d786ef28ee0ce02d5fb26f8 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196023 +0700	checkout: moving from feature/issue_24-dvphuc-git-exercise to feature/issue_17-ndbduong_exercise
+1ff41043456380041d786ef28ee0ce02d5fb26f8 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196034 +0700	checkout: moving from feature/issue_17-ndbduong_exercise to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196067 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196130 +0700	checkout: moving from develop to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196134 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196136 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_24-dvphuc-git-exercise
+c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196140 +0700	checkout: moving from feature/issue_24-dvphuc-git-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196169 +0700	checkout: moving from develop to issue_39-ntvkhoa-git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 890527671e9379f391a3c9bef9f3e0e3f48c6de5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196344 +0700	commit: Coding Process
+890527671e9379f391a3c9bef9f3e0e3f48c6de5 a9988129d784d7d3b4897b79b3f7d63d7b9b2ebd ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196368 +0700	commit: Coding Unit Test
+a9988129d784d7d3b4897b79b3f7d63d7b9b2ebd 3e70bc7de1209bb771578a55fa71241fbc7e10b4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196409 +0700	commit: Coding UI
+3e70bc7de1209bb771578a55fa71241fbc7e10b4 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196423 +0700	checkout: moving from issue_39-ntvkhoa-git-exercise to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196492 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 3e70bc7de1209bb771578a55fa71241fbc7e10b4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196497 +0700	checkout: moving from feature/issue_00-List-Screen to issue_39-ntvkhoa-git-exercise
+3e70bc7de1209bb771578a55fa71241fbc7e10b4 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196582 +0700	checkout: moving from issue_39-ntvkhoa-git-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196637 +0700	checkout: moving from develop to feature/issue_39-ntvkhoa-git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 1ff41043456380041d786ef28ee0ce02d5fb26f8 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196659 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_17-ndbduong_exercise
+1ff41043456380041d786ef28ee0ce02d5fb26f8 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196662 +0700	checkout: moving from feature/issue_17-ndbduong_exercise to feature/issue_39-ntvkhoa-git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 4c3a38a96064e0dfdbeb267cf0d4dba9382b45dc ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196756 +0700	commit: Coding Process
+4c3a38a96064e0dfdbeb267cf0d4dba9382b45dc 960c8203ad385b156b0e10c2aea26402ace78501 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196763 +0700	commit: Coding UI
+960c8203ad385b156b0e10c2aea26402ace78501 5c2d19f07138766e46cc0412b0473adc5679210a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594196774 +0700	commit: Coding Unit Test
+5c2d19f07138766e46cc0412b0473adc5679210a 14d87e5626cf6f4e18fa643edde3ce693ad664e0 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197035 +0700	commit (merge): Merge branch 'feature/issue_39-ntvkhoa-git-exercise' of https://github.com/saigon-tech/git-exercise into feature/issue_39-ntvkhoa-git-exercise
+14d87e5626cf6f4e18fa643edde3ce693ad664e0 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197040 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197237 +0700	checkout: moving from develop to feature/issue_39-ntvkhoa-git-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a caf957642a4b95c4793dac0564840c98936f309c ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197310 +0700	commit: Coding Process
+caf957642a4b95c4793dac0564840c98936f309c 5db7147430705ccb53ba910cb2860a39c391bf06 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197318 +0700	commit: Coding UI
+5db7147430705ccb53ba910cb2860a39c391bf06 d01e15bfece5c01d073fbf4ff4e9e32d584391f4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197326 +0700	commit: Coding Unit Test
+d01e15bfece5c01d073fbf4ff4e9e32d584391f4 5db7147430705ccb53ba910cb2860a39c391bf06 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197459 +0700	rebase (start): checkout d01e15bfece5c01d073fbf4ff4e9e32d584391f4^
+5db7147430705ccb53ba910cb2860a39c391bf06 d01e15bfece5c01d073fbf4ff4e9e32d584391f4 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197459 +0700	rebase: fast-forward
+d01e15bfece5c01d073fbf4ff4e9e32d584391f4 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197459 +0700	rebase (reword): Khoa Coding Unit Test and Functional Test
+383127fd937e0d93a329877cd8a16f254c021175 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197459 +0700	rebase (finish): returning to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+383127fd937e0d93a329877cd8a16f254c021175 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197605 +0700	rebase (start): checkout feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197663 +0700	checkout: moving from 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d to feature/issue_39-ntvkhoa-git-exercise
+383127fd937e0d93a329877cd8a16f254c021175 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197666 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197689 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39-ntvkhoa-git-exercise
+383127fd937e0d93a329877cd8a16f254c021175 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197700 +0700	rebase (abort): updating HEAD
+383127fd937e0d93a329877cd8a16f254c021175 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197700 +0700	rebase (abort): updating HEAD
+383127fd937e0d93a329877cd8a16f254c021175 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197703 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 011047b379981180bb29b0e55ec64b9c92f152e9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197743 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39_1-NTVKhoa-Git-Exercise
+011047b379981180bb29b0e55ec64b9c92f152e9 52d3354197bd436f3a64e071bf1fc7a3b1a43b6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197776 +0700	checkout: moving from feature/issue_39_1-NTVKhoa-Git-Exercise to feature/issue_00-List-Screen
+52d3354197bd436f3a64e071bf1fc7a3b1a43b6d 4d60ce567b39bcd3c89c65de71a27324f8c6ab62 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197783 +0700	pull: Merge made by the 'recursive' strategy.
+4d60ce567b39bcd3c89c65de71a27324f8c6ab62 4d60ce567b39bcd3c89c65de71a27324f8c6ab62 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197806 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_00-List-Screen
+4d60ce567b39bcd3c89c65de71a27324f8c6ab62 910054beae8fd20727bd9328047de742f368680b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197810 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_12-khoahd-excercise
+910054beae8fd20727bd9328047de742f368680b 4d60ce567b39bcd3c89c65de71a27324f8c6ab62 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197812 +0700	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_00-List-Screen
+4d60ce567b39bcd3c89c65de71a27324f8c6ab62 0fbc2e658cae52e054a2e54639062e2fbe65b23a ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197880 +0700	checkout: moving from feature/issue_00-List-Screen to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197916 +0700	checkout: moving from develop to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197920 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_39-ntvkhoa-git-exercise
+383127fd937e0d93a329877cd8a16f254c021175 383127fd937e0d93a329877cd8a16f254c021175 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197953 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+383127fd937e0d93a329877cd8a16f254c021175 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (start): checkout feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 8fc3d5c8b70b912fd856aa633c8800591d3ae6ce ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (pick): register.html
+8fc3d5c8b70b912fd856aa633c8800591d3ae6ce d388e03d305064eeaa63b6d6c974835f3352f9f0 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (pick): Delete register.html
+d388e03d305064eeaa63b6d6c974835f3352f9f0 606eacaef5b10b90d321e72aff8c1c1fc5593113 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (pick): Coding Process
+606eacaef5b10b90d321e72aff8c1c1fc5593113 2e4f6b588439578e284127558dd7355fb3e8a349 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (pick): Coding UI
+2e4f6b588439578e284127558dd7355fb3e8a349 c99316d18c8b307bba15501f3e31eedaa1f5ca7f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (pick): Khoa Coding Unit Test and Functional Test
+c99316d18c8b307bba15501f3e31eedaa1f5ca7f c99316d18c8b307bba15501f3e31eedaa1f5ca7f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594197978 +0700	rebase (finish): returning to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+c99316d18c8b307bba15501f3e31eedaa1f5ca7f c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198009 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_24-dvphuc-git-exercise
+c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 c99316d18c8b307bba15501f3e31eedaa1f5ca7f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198011 +0700	checkout: moving from feature/issue_24-dvphuc-git-exercise to feature/issue_39-ntvkhoa-git-exercise
+c99316d18c8b307bba15501f3e31eedaa1f5ca7f 910054beae8fd20727bd9328047de742f368680b ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198015 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_12-khoahd-excercise
+910054beae8fd20727bd9328047de742f368680b c99316d18c8b307bba15501f3e31eedaa1f5ca7f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198021 +0700	checkout: moving from feature/issue_12-khoahd-excercise to feature/issue_39-ntvkhoa-git-exercise
+c99316d18c8b307bba15501f3e31eedaa1f5ca7f 8c7a16ae230060c3a407f752dafb5586a0c0c5cb ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198173 +0700	commit: Fix bug 1
+8c7a16ae230060c3a407f752dafb5586a0c0c5cb 308e6432cca50327edec21ed85194d688b35e4f9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198211 +0700	commit: Fix bug 3
+308e6432cca50327edec21ed85194d688b35e4f9 1c20a0ce909d08a20f3cd72896fca1452117a6af ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198422 +0700	commit: Fix bug 2
+1c20a0ce909d08a20f3cd72896fca1452117a6af 1ff41043456380041d786ef28ee0ce02d5fb26f8 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198463 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_17-ndbduong_exercise
+1ff41043456380041d786ef28ee0ce02d5fb26f8 1c20a0ce909d08a20f3cd72896fca1452117a6af ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198480 +0700	checkout: moving from feature/issue_17-ndbduong_exercise to feature/issue_39-ntvkhoa-git-exercise
+1c20a0ce909d08a20f3cd72896fca1452117a6af c99316d18c8b307bba15501f3e31eedaa1f5ca7f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198523 +0700	rebase (start): checkout c99316d18c8b307bba15501f3e31eedaa1f5ca7f
+c99316d18c8b307bba15501f3e31eedaa1f5ca7f 8c7a16ae230060c3a407f752dafb5586a0c0c5cb ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198523 +0700	rebase: fast-forward
+8c7a16ae230060c3a407f752dafb5586a0c0c5cb f5adcdc5fa1209877c56d6c4283ebcf9b0663075 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198523 +0700	rebase (reword): Fix bug
+f5adcdc5fa1209877c56d6c4283ebcf9b0663075 cfe9fd153dc0e44751c47651428ac42c874fdf2c ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198523 +0700	rebase (reword): Fix bug 3
+cfe9fd153dc0e44751c47651428ac42c874fdf2c 4abd819d3a7ddb4e3d32c8404efb7385e01856ea ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198523 +0700	rebase (reword): Fix bug
+4abd819d3a7ddb4e3d32c8404efb7385e01856ea 2f473c1becb40d4568282f441a6fd9a2fdbdadeb ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198524 +0700	rebase (reword): Fix bug 2
+2f473c1becb40d4568282f441a6fd9a2fdbdadeb e56ee088d1bb685de2820b548a787ffac7555a6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198524 +0700	rebase (reword): Fix bug
+e56ee088d1bb685de2820b548a787ffac7555a6d e56ee088d1bb685de2820b548a787ffac7555a6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198524 +0700	rebase (finish): returning to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+e56ee088d1bb685de2820b548a787ffac7555a6d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198577 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 e56ee088d1bb685de2820b548a787ffac7555a6d ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198584 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_39-ntvkhoa-git-exercise
+e56ee088d1bb685de2820b548a787ffac7555a6d f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198600 +0700	rebase (start): checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 32cc31a75c2f45f1d054d30644ad611bff3f403f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198600 +0700	rebase (pick): Update README.md
+32cc31a75c2f45f1d054d30644ad611bff3f403f 55d5e5603cad6998ed0bd93d223a1b971dad37ce ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198600 +0700	rebase (pick): #00 list screen
+55d5e5603cad6998ed0bd93d223a1b971dad37ce 7f451eb8cde07f395db2d5a6ddb3ee33a8dfd14f ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198698 +0700	rebase (continue) (pick): Coding Process
+7f451eb8cde07f395db2d5a6ddb3ee33a8dfd14f 639be0726921e40c48ebc296f44cbfd7d73d352c ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198727 +0700	rebase (continue) (pick): Khoa Coding Unit Test and Functional Test
+639be0726921e40c48ebc296f44cbfd7d73d352c eca568ec749a26d39269fdbd3523d919363e850c ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198727 +0700	rebase (continue) (pick): Fix bug
+eca568ec749a26d39269fdbd3523d919363e850c a76fb12eaa7e2e58a181cf8ea40e352cb237bdc6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198727 +0700	rebase (continue) (pick): Fix bug
+a76fb12eaa7e2e58a181cf8ea40e352cb237bdc6 f2704a42160ab0ba868d401972542a6e43065bb5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198727 +0700	rebase (continue) (pick): Fix bug
+f2704a42160ab0ba868d401972542a6e43065bb5 f2704a42160ab0ba868d401972542a6e43065bb5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198727 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_39-ntvkhoa-git-exercise
+f2704a42160ab0ba868d401972542a6e43065bb5 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198736 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 f2704a42160ab0ba868d401972542a6e43065bb5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198738 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_39-ntvkhoa-git-exercise
+f2704a42160ab0ba868d401972542a6e43065bb5 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198925 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 f2704a42160ab0ba868d401972542a6e43065bb5 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198928 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_39-ntvkhoa-git-exercise
+f2704a42160ab0ba868d401972542a6e43065bb5 f8f8c2d86272b6d661badde7b2ced64fd93148f9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198933 +0700	cherry-pick: #00 Add new screen register 2
+f8f8c2d86272b6d661badde7b2ced64fd93148f9 c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198938 +0700	checkout: moving from feature/issue_39-ntvkhoa-git-exercise to feature/issue_24-dvphuc-git-exercise
+c723bffefb6cc23f1aa3fe93188a9efe6c3dc714 f8f8c2d86272b6d661badde7b2ced64fd93148f9 ntvkhoasgt <ntvkhoa.sgt@gmail.com> 1594198941 +0700	checkout: moving from feature/issue_24-dvphuc-git-exercise to feature/issue_39-ntvkhoa-git-exercise
