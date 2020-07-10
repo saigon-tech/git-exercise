@@ -1,0 +1,93 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 TANTAI0809 <tttai.sgt@gmail.com> 1594351532 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 unknown <TanTai@DESKTOP-KFG376F.(none)> 1594351878 +0700	checkout: moving from master to feature/issue_46-Git-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 a55625a8de06e4268e8962e68455d586792c4e30 tantai0809 <tttai.sgt@gmail.com> 1594351950 +0700	commit: Codeing UI
+a55625a8de06e4268e8962e68455d586792c4e30 6fe441dc23ce6acbce12247f16c6830ae6d3dac5 tantai0809 <tttai.sgt@gmail.com> 1594354156 +0700	commit: Coding process
+6fe441dc23ce6acbce12247f16c6830ae6d3dac5 5d18d838ed4936eb82d1df755080075e07592f63 tantai0809 <tttai.sgt@gmail.com> 1594354186 +0700	commit: Coding Unit Test
+5d18d838ed4936eb82d1df755080075e07592f63 ee5eea41fe362ac1f06d8473f86a568abbdda4d1 tantai0809 <tttai.sgt@gmail.com> 1594354246 +0700	commit (amend): Coding Unit Test
+ee5eea41fe362ac1f06d8473f86a568abbdda4d1 deab6432b9824d902927935830eda22d44ddfe07 tantai0809 <tttai.sgt@gmail.com> 1594354343 +0700	commit (amend): TanTai Coding Unit Test and Functional Test
+deab6432b9824d902927935830eda22d44ddfe07 efc49290255a92caa96b4d015780520931946c37 tantai0809 <tttai.sgt@gmail.com> 1594354673 +0700	commit: fix bug 1
+efc49290255a92caa96b4d015780520931946c37 8b694a4c72316c4390ea9b5713b1a70c7ee08000 tantai0809 <tttai.sgt@gmail.com> 1594354737 +0700	commit: fix bug 2
+8b694a4c72316c4390ea9b5713b1a70c7ee08000 910fd473390ab1bc3a759b434d2b75dd6e64b50b tantai0809 <tttai.sgt@gmail.com> 1594354773 +0700	commit: fix bug 3
+910fd473390ab1bc3a759b434d2b75dd6e64b50b 910fd473390ab1bc3a759b434d2b75dd6e64b50b tantai0809 <tttai.sgt@gmail.com> 1594355216 +0700	checkout: moving from feature/issue_46-Git-exercise to feature/issue_00-List-Screen
+910fd473390ab1bc3a759b434d2b75dd6e64b50b 910fd473390ab1bc3a759b434d2b75dd6e64b50b tantai0809 <tttai.sgt@gmail.com> 1594355232 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_46-Git-exercise
+910fd473390ab1bc3a759b434d2b75dd6e64b50b ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 tantai0809 <tttai.sgt@gmail.com> 1594360578 +0700	rebase (start): checkout origin/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 77ab78594f4e572043f27311bbc7af618316016d tantai0809 <tttai.sgt@gmail.com> 1594360578 +0700	rebase (pick): Codeing UI
+77ab78594f4e572043f27311bbc7af618316016d eae348e4dbc7337bdac28a02093d6e26f7fc4a80 tantai0809 <tttai.sgt@gmail.com> 1594360578 +0700	rebase (pick): Coding process
+eae348e4dbc7337bdac28a02093d6e26f7fc4a80 82a547b3130e358ba41c9128efc61e905698460c tantai0809 <tttai.sgt@gmail.com> 1594360578 +0700	rebase (pick): TanTai Coding Unit Test and Functional Test
+82a547b3130e358ba41c9128efc61e905698460c e9c427e60a70b1b26bb843048c45a7f414affa49 tantai0809 <tttai.sgt@gmail.com> 1594360578 +0700	rebase (pick): fix bug 1
+e9c427e60a70b1b26bb843048c45a7f414affa49 0dbeb3784195db846fea04772ce227f2d25f9b9f tantai0809 <tttai.sgt@gmail.com> 1594360579 +0700	rebase (pick): fix bug 2
+0dbeb3784195db846fea04772ce227f2d25f9b9f a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594360579 +0700	rebase (pick): fix bug 3
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594360579 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594361773 +0700	rebase (abort): updating HEAD
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594361773 +0700	rebase (abort): updating HEAD
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594362319 +0700	rebase (start): checkout HEAD~3
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594362319 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594362611 +0700	rebase (start): checkout HEAD~3
+a29438330cdade9a867871f483e493857dffcfd2 a29438330cdade9a867871f483e493857dffcfd2 tantai0809 <tttai.sgt@gmail.com> 1594362611 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+a29438330cdade9a867871f483e493857dffcfd2 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 9d545a1337ea2c695a0fd416e53761835b0950a8 tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): Update README.md
+9d545a1337ea2c695a0fd416e53761835b0950a8 c231e75c8a03015959cc6ea26ebb0c61fecef023 tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): #00 list screen
+c231e75c8a03015959cc6ea26ebb0c61fecef023 42a9195434d9f41df403175e31f99b7350cd1bd8 tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): Coding process
+42a9195434d9f41df403175e31f99b7350cd1bd8 51043886e66e4c92001285c8a5c47afc01898e0b tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): TanTai Coding Unit Test and Functional Test
+51043886e66e4c92001285c8a5c47afc01898e0b 3e07f2aeb7af895a8387c67740ca5f72ca6e379f tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): fix bug 1
+3e07f2aeb7af895a8387c67740ca5f72ca6e379f eb0600bec1a778842ab939b4c69115d6147ef4d3 tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): fix bug 2
+eb0600bec1a778842ab939b4c69115d6147ef4d3 9d92e5c91e597cd2d9b053fd86e2d2dd4c205c2d tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (pick): fix bug 3
+9d92e5c91e597cd2d9b053fd86e2d2dd4c205c2d 9d92e5c91e597cd2d9b053fd86e2d2dd4c205c2d tantai0809 <tttai.sgt@gmail.com> 1594362802 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+9d92e5c91e597cd2d9b053fd86e2d2dd4c205c2d 6e8c2cfd28792a5e8a98b51eee3bf3189fd29497 tantai0809 <tttai.sgt@gmail.com> 1594363344 +0700	cherry-pick: #00 Add new screen register 2
+6e8c2cfd28792a5e8a98b51eee3bf3189fd29497 5af9d4811a5dd2f64b41628d1bede2c2eefef687 tantai0809 <tttai.sgt@gmail.com> 1594363557 +0700	pull origin feature/issue_46-Git-exercise: Merge made by the 'recursive' strategy.
+6e8c2cfd28792a5e8a98b51eee3bf3189fd29497 5af9d4811a5dd2f64b41628d1bede2c2eefef687 tantai0809 <tttai.sgt@gmail.com> 1594365544 +0700	rebase (abort): updating HEAD
+5af9d4811a5dd2f64b41628d1bede2c2eefef687 6e8c2cfd28792a5e8a98b51eee3bf3189fd29497 tantai0809 <tttai.sgt@gmail.com> 1594365677 +0700	rebase (start): checkout HEAD~3
+6e8c2cfd28792a5e8a98b51eee3bf3189fd29497 70b3f7ae120f09f4a57c06bda7c7710b6d61ebed tantai0809 <tttai.sgt@gmail.com> 1594365702 +0700	commit (rebase): Update README.md
+70b3f7ae120f09f4a57c06bda7c7710b6d61ebed 0af6dc40652269df9b2a71e6d916337e5982f416 tantai0809 <tttai.sgt@gmail.com> 1594365790 +0700	commit (rebase): Codeing UI
+0af6dc40652269df9b2a71e6d916337e5982f416 dfd1005c71206276844c4b49b7bc4139cb0dde42 tantai0809 <tttai.sgt@gmail.com> 1594365937 +0700	commit (rebase): fix bug 2
+dfd1005c71206276844c4b49b7bc4139cb0dde42 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594365958 +0700	commit (rebase): fix bug 3
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594365971 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366321 +0700	rebase (start): checkout HEAD~4
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366321 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366339 +0700	rebase (start): checkout HEAD~3
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366339 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366390 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366390 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366491 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366491 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366667 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366667 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366748 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366748 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366917 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594366917 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367034 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367034 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367144 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367144 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367228 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367228 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367392 +0700	rebase (start): checkout HEAD~~
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367392 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367989 +0700	rebase (start): checkout HEAD~2
+e1f09f82593249b870c22eaeabf9b86df15b5609 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594367989 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+e1f09f82593249b870c22eaeabf9b86df15b5609 0af6dc40652269df9b2a71e6d916337e5982f416 tantai0809 <tttai.sgt@gmail.com> 1594368382 +0700	rebase (start): checkout HEAD~2
+0af6dc40652269df9b2a71e6d916337e5982f416 e1f09f82593249b870c22eaeabf9b86df15b5609 tantai0809 <tttai.sgt@gmail.com> 1594368410 +0700	rebase (abort): updating HEAD
+e1f09f82593249b870c22eaeabf9b86df15b5609 dfd1005c71206276844c4b49b7bc4139cb0dde42 tantai0809 <tttai.sgt@gmail.com> 1594368426 +0700	rebase (start): checkout HEAD~2
+dfd1005c71206276844c4b49b7bc4139cb0dde42 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368426 +0700	rebase (squash): fix bug
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368446 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368565 +0700	rebase (start): checkout 9d92e5c^
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368565 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368694 +0700	rebase (start): checkout eb0600b
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c 9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c tantai0809 <tttai.sgt@gmail.com> 1594368694 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+9bf9f7f386ce0b87edc1972f3ec9db6b61a5371c eb0600bec1a778842ab939b4c69115d6147ef4d3 tantai0809 <tttai.sgt@gmail.com> 1594368730 +0700	rebase (start): checkout eb0600b~~
+eb0600bec1a778842ab939b4c69115d6147ef4d3 44deebc419fc77677cb0f447d148229c73bc5a50 tantai0809 <tttai.sgt@gmail.com> 1594368730 +0700	rebase (squash): fix bug
+44deebc419fc77677cb0f447d148229c73bc5a50 bba12017bcb72a8d75ab1a1c9895513e2e5c0391 tantai0809 <tttai.sgt@gmail.com> 1594368752 +0700	rebase (pick): #00 Add new screen register 2
+bba12017bcb72a8d75ab1a1c9895513e2e5c0391 8eb2784d776258d8561de2508b3bc8dd40f36ec5 tantai0809 <tttai.sgt@gmail.com> 1594368753 +0700	rebase (pick): Update README.md
+8eb2784d776258d8561de2508b3bc8dd40f36ec5 7807dc18a7b233ed03a42bb0992b2eb7b4b195f8 tantai0809 <tttai.sgt@gmail.com> 1594368753 +0700	rebase (pick): Codeing UI
+7807dc18a7b233ed03a42bb0992b2eb7b4b195f8 cadea136b972922ec2365ac21fda771d2f369a5e tantai0809 <tttai.sgt@gmail.com> 1594368753 +0700	rebase (pick): fix bug
+cadea136b972922ec2365ac21fda771d2f369a5e cadea136b972922ec2365ac21fda771d2f369a5e tantai0809 <tttai.sgt@gmail.com> 1594368753 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+cadea136b972922ec2365ac21fda771d2f369a5e cadea136b972922ec2365ac21fda771d2f369a5e tantai0809 <tttai.sgt@gmail.com> 1594369292 +0700	rebase (start): checkout 3e07f2a
+cadea136b972922ec2365ac21fda771d2f369a5e cadea136b972922ec2365ac21fda771d2f369a5e tantai0809 <tttai.sgt@gmail.com> 1594369292 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
+cadea136b972922ec2365ac21fda771d2f369a5e 3e07f2aeb7af895a8387c67740ca5f72ca6e379f tantai0809 <tttai.sgt@gmail.com> 1594369322 +0700	rebase (start): checkout 3e07f2a~~
+3e07f2aeb7af895a8387c67740ca5f72ca6e379f 36c780fc669582581ba4a342aa5666dfe55faca8 tantai0809 <tttai.sgt@gmail.com> 1594369322 +0700	rebase (squash): fix bug
+36c780fc669582581ba4a342aa5666dfe55faca8 c08deed5ae27e77a00bda2289d07f6ae8bb764a8 tantai0809 <tttai.sgt@gmail.com> 1594369354 +0700	rebase (pick): #00 Add new screen register 2
+c08deed5ae27e77a00bda2289d07f6ae8bb764a8 524ade8f806fe1c5eb0aa6d98a4cc0d82aa8ce66 tantai0809 <tttai.sgt@gmail.com> 1594369354 +0700	rebase (pick): Update README.md
+524ade8f806fe1c5eb0aa6d98a4cc0d82aa8ce66 f3b67d9dbd9e6c6e3d6a29c6cdaaeede0ed1c1b5 tantai0809 <tttai.sgt@gmail.com> 1594369354 +0700	rebase (pick): Codeing UI
+f3b67d9dbd9e6c6e3d6a29c6cdaaeede0ed1c1b5 1f540ae03051799323a40bbea1082ef32b4f5974 tantai0809 <tttai.sgt@gmail.com> 1594369354 +0700	rebase (pick): fix bug
+1f540ae03051799323a40bbea1082ef32b4f5974 1f540ae03051799323a40bbea1082ef32b4f5974 tantai0809 <tttai.sgt@gmail.com> 1594369354 +0700	rebase (finish): returning to refs/heads/feature/issue_46-Git-exercise
