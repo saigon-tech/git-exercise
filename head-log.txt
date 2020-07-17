@@ -1,0 +1,117 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592991545 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1592991559 +0700	checkout: moving from master to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1592991662 +0700	checkout: moving from develop to feature/issue_37-ckthanh-exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a b26e9eb7c9c2f6560408fd2d549c6e09f820be8e ckthanh-sgt <ckthanh-sgt@gmail.com> 1592991767 +0700	commit: #37 Coding UI
+b26e9eb7c9c2f6560408fd2d549c6e09f820be8e ab39e64da8c8a221565617f54d7355d8e8c5771e ckthanh-sgt <ckthanh-sgt@gmail.com> 1592992090 +0700	commit: #37 Coding Process
+ab39e64da8c8a221565617f54d7355d8e8c5771e 66edb69de79e988f55131eca4878790037679f6b ckthanh-sgt <ckthanh-sgt@gmail.com> 1592992183 +0700	commit: #37 Coding Unit Test
+66edb69de79e988f55131eca4878790037679f6b 853bcdf2aa6bd24fb76e21058258d4d2fcdaf98b ckthanh-sgt <ckthanh-sgt@gmail.com> 1592992559 +0700	commit (amend): Thanh Coding Unit Test and Functional Test
+853bcdf2aa6bd24fb76e21058258d4d2fcdaf98b 97a6591e24f44fb0d540d0e73f8e6575a7a0c29d ckthanh-sgt <ckthanh-sgt@gmail.com> 1592993862 +0700	pull origin feature/issue_37-ckthanh-exercise: Merge made by the 'recursive' strategy.
+97a6591e24f44fb0d540d0e73f8e6575a7a0c29d a45f7804255ed45c28de009e25e6143db81bd3b0 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592994559 +0700	commit: #37 Fix bug 1
+a45f7804255ed45c28de009e25e6143db81bd3b0 62d169dfe2231d620c80b79d02221df03836fe34 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592994630 +0700	commit: #37 Fix bug 2
+62d169dfe2231d620c80b79d02221df03836fe34 1fdcecb4dae6c98698a5caa0caffc72af5232926 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592994696 +0700	commit: Fix bug 3
+1fdcecb4dae6c98698a5caa0caffc72af5232926 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1592994972 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 661c92b4fa9a29afdb6fef80fd9b758781860794 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592994982 +0700	checkout: moving from develop to feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 1fdcecb4dae6c98698a5caa0caffc72af5232926 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995004 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_37-ckthanh-exercise
+1fdcecb4dae6c98698a5caa0caffc72af5232926 661c92b4fa9a29afdb6fef80fd9b758781860794 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: checkout feature/issue_00-List-Screen
+661c92b4fa9a29afdb6fef80fd9b758781860794 c6efb63315e9522b693e6af31c31dd656f604029 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: Update README.md
+c6efb63315e9522b693e6af31c31dd656f604029 7c671e41959de3f73fadddc7c8c143f48516c9d9 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: register.html
+7c671e41959de3f73fadddc7c8c143f48516c9d9 a1929f51163cee066851b6a676a9dd75bb838b09 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: Delete register.html
+a1929f51163cee066851b6a676a9dd75bb838b09 69626b9aef62421f32779b732aa4f6716529e4da ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: #37 Coding UI
+69626b9aef62421f32779b732aa4f6716529e4da b63138858e02d38b90263c4b9dba0af47e2811e2 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: #37 Coding Process
+b63138858e02d38b90263c4b9dba0af47e2811e2 01416276a0e4b0c959bb5ddab3a6f20052728870 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: Thanh Coding Unit Test and Functional Test
+01416276a0e4b0c959bb5ddab3a6f20052728870 baa0a7d6f1f328d780af0025b553b96024932f70 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: #37 Fix bug 1
+baa0a7d6f1f328d780af0025b553b96024932f70 7dd323b96185be1c4ca4721073b1400f2a05ecab ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: #37 Fix bug 2
+7dd323b96185be1c4ca4721073b1400f2a05ecab cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase: Fix bug 3
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995011 +0700	rebase finished: returning to refs/heads/feature/issue_37-ckthanh-exercise
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995437 +0700	rebase -i (abort): updating HEAD
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995437 +0700	rebase -i (abort): updating HEAD
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 01416276a0e4b0c959bb5ddab3a6f20052728870 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995508 +0700	rebase -i (start): checkout 01416276a0e4b0c959bb5ddab3a6f20052728870
+01416276a0e4b0c959bb5ddab3a6f20052728870 baa0a7d6f1f328d780af0025b553b96024932f70 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995508 +0700	rebase -i: fast-forward
+baa0a7d6f1f328d780af0025b553b96024932f70 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995733 +0700	checkout: moving from baa0a7d6f1f328d780af0025b553b96024932f70 to feature/issue_37-ckthanh-exercise
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995875 +0700	rebase -i (abort): updating HEAD
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 cf42487cca6a8f7b22c8fc9f14c8888a334342f3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995875 +0700	rebase -i (abort): updating HEAD
+cf42487cca6a8f7b22c8fc9f14c8888a334342f3 01416276a0e4b0c959bb5ddab3a6f20052728870 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995926 +0700	rebase -i (start): checkout 01416276a0e4b0c959bb5ddab3a6f20052728870
+01416276a0e4b0c959bb5ddab3a6f20052728870 baa0a7d6f1f328d780af0025b553b96024932f70 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995926 +0700	rebase -i: fast-forward
+baa0a7d6f1f328d780af0025b553b96024932f70 38f3cf4102d3cb29cca7eed45e661a80b4d64745 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995926 +0700	rebase -i (reword): Fixup #37 Fix bug
+38f3cf4102d3cb29cca7eed45e661a80b4d64745 8b881c679a6854e0d7a1569e807c046757683daf ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995992 +0700	rebase -i (fixup): # This is a combination of 2 commits.
+8b881c679a6854e0d7a1569e807c046757683daf 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995992 +0700	rebase -i (fixup): Fixup #37 Fix bug
+22f23805018f09b2c0a1d922f3c8686995632861 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1592995992 +0700	rebase -i (finish): returning to refs/heads/feature/issue_37-ckthanh-exercise
+22f23805018f09b2c0a1d922f3c8686995632861 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052774 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052791 +0700	checkout: moving from develop to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052876 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_37-ckthanh-exercise
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052898 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 558156e288d4836185a8a3b0039181592fd94620 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052898 +0700	rebase: #00 list screen
+558156e288d4836185a8a3b0039181592fd94620 ad4dc3e56cf3fdf5be932056fab8fe4614f29c73 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593052898 +0700	rebase: Update README.md
+ad4dc3e56cf3fdf5be932056fab8fe4614f29c73 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053077 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053141 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 8ade8be48fb1f635856f9b9176e9a4329b376b6d ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053141 +0700	rebase: #00 list screen
+8ade8be48fb1f635856f9b9176e9a4329b376b6d ab369b1612658c7630131258195d26c57123ae8c ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053141 +0700	rebase: Update README.md
+ab369b1612658c7630131258195d26c57123ae8c 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053762 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053982 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 23fbfb2dbffa2e5cbd9ea3ea1b754d319a2c8cfb ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053982 +0700	rebase: #00 list screen
+23fbfb2dbffa2e5cbd9ea3ea1b754d319a2c8cfb 5f3347dfcbbf57719807d547612da6ad9cf915c0 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593053982 +0700	rebase: Update README.md
+5f3347dfcbbf57719807d547612da6ad9cf915c0 a4a0724305af33dc6c956d7a8679173176f47890 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054069 +0700	rebase: register.html
+a4a0724305af33dc6c956d7a8679173176f47890 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054663 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054736 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 68d36916a24a9135cd1c183f242c5a2962d25574 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054736 +0700	rebase: #00 list screen
+68d36916a24a9135cd1c183f242c5a2962d25574 62d94d476f98ffc42273a0e82fca6394adf451af ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054736 +0700	rebase: Update README.md
+62d94d476f98ffc42273a0e82fca6394adf451af f5646ea2ee07099f6b8c12c5a848ecaf0a902f51 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593054862 +0700	commit: #37 Resolved merge conflict feature/issue_00_Register-Screen
+f5646ea2ee07099f6b8c12c5a848ecaf0a902f51 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055041 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055230 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 5bbc58a01b7d77aedd780c7d3f4127e9095de065 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055230 +0700	rebase: #00 list screen
+5bbc58a01b7d77aedd780c7d3f4127e9095de065 abd41e900b5f48f2459a7b2b27660fc345659922 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055230 +0700	rebase: Update README.md
+abd41e900b5f48f2459a7b2b27660fc345659922 edf3411cbf5bc63fba443e7549528af0a3a0ec44 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055374 +0700	commit: #37 Resolved merge conflit feature/issue_37-ckthanh-exercise
+edf3411cbf5bc63fba443e7549528af0a3a0ec44 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055445 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055907 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1593055981 +0700	checkout: moving from feature/issue_00_Register-Screen to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056000 +0700	checkout: moving from develop to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056074 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_37-ckthanh-exercise
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056093 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 68f49cac176f58ab3a215f8dd666d1666440608d ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056093 +0700	rebase: #00 list screen
+68f49cac176f58ab3a215f8dd666d1666440608d 132240071f9797c2a6dcdfa2125881870890aa7e ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056093 +0700	rebase: Update README.md
+132240071f9797c2a6dcdfa2125881870890aa7e 1c2022c6b3d22abb43ba195130e8f9ddc649c462 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056416 +0700	rebase: register.html
+1c2022c6b3d22abb43ba195130e8f9ddc649c462 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056495 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056712 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056777 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_37-ckthanh-exercise
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056791 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 3b902a88e2abc4f5b392f21b9f53cbaaa1f69578 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056791 +0700	rebase: #00 list screen
+3b902a88e2abc4f5b392f21b9f53cbaaa1f69578 a504a47b3d352c3c554c7e3b92d828391378e5ef ckthanh-sgt <ckthanh-sgt@gmail.com> 1593056791 +0700	rebase: Update README.md
+a504a47b3d352c3c554c7e3b92d828391378e5ef 76c3460a58f621c65f0ef258d43ce8eb7b47095c ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057048 +0700	rebase: register.html
+76c3460a58f621c65f0ef258d43ce8eb7b47095c 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057127 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057808 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 3c28fd7cd076354c9280a9578643bc460da4437c ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057808 +0700	rebase: #00 list screen
+3c28fd7cd076354c9280a9578643bc460da4437c 477df95be70af1e30e1491f6b253e248f5cb6888 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057808 +0700	rebase: Update README.md
+477df95be70af1e30e1491f6b253e248f5cb6888 9355127d3fde736be8b1d9346a9f454c13f331ae ckthanh-sgt <ckthanh-sgt@gmail.com> 1593057882 +0700	rebase: register.html
+9355127d3fde736be8b1d9346a9f454c13f331ae 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058085 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058126 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ff8668eb06501772c2c71c581fde5274b78d94ea ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058126 +0700	rebase: #00 list screen
+ff8668eb06501772c2c71c581fde5274b78d94ea 376bde091682a440461343e28b63eec05e253974 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058126 +0700	rebase: Update README.md
+376bde091682a440461343e28b63eec05e253974 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058271 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058290 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 38c4eb45ba291d9430e1f15b2ca292e92eed8462 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058290 +0700	rebase: #00 list screen
+38c4eb45ba291d9430e1f15b2ca292e92eed8462 558a3ed42eb5717686d808a443efef4302efec5d ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058290 +0700	rebase: Update README.md
+558a3ed42eb5717686d808a443efef4302efec5d 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058352 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058395 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 00428baae93a6211d7fed77980f718ffec8bcb18 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058395 +0700	rebase: #00 list screen
+00428baae93a6211d7fed77980f718ffec8bcb18 24241dedce54b718fa29a63096c848c62b1344c3 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058395 +0700	rebase: Update README.md
+24241dedce54b718fa29a63096c848c62b1344c3 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058867 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058869 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ee064ed9ed5413ee246ee66fcb5ac56fdcee0702 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058869 +0700	rebase: #00 list screen
+ee064ed9ed5413ee246ee66fcb5ac56fdcee0702 acad64ef058d5fe0d734fe3d2a71deb05996891b ckthanh-sgt <ckthanh-sgt@gmail.com> 1593058869 +0700	rebase: Update README.md
+acad64ef058d5fe0d734fe3d2a71deb05996891b 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059082 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059085 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 5098110091d7ffc69c23c5f1a8ce7ac3a491294b ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059085 +0700	rebase: #00 list screen
+5098110091d7ffc69c23c5f1a8ce7ac3a491294b d970fb66eee921278e206aa5501343feca67c096 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059085 +0700	rebase: Update README.md
+d970fb66eee921278e206aa5501343feca67c096 70115ae9de3cafe9ce32a6816a318c25806d5145 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059179 +0700	commit: #37 resolve conflict
+70115ae9de3cafe9ce32a6816a318c25806d5145 d970fb66eee921278e206aa5501343feca67c096 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059283 +0700	reset: moving to d970fb66eee921278e206aa5501343feca67c096
+d970fb66eee921278e206aa5501343feca67c096 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059674 +0700	rebase: updating HEAD
+22f23805018f09b2c0a1d922f3c8686995632861 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059781 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 22f23805018f09b2c0a1d922f3c8686995632861 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593059812 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_37-ckthanh-exercise
+22f23805018f09b2c0a1d922f3c8686995632861 f0e7aa98889ed6c578cc56f26cf00fe42b799a8a ckthanh-sgt <ckthanh-sgt@gmail.com> 1593060237 +0700	commit (merge): Merge branch 'feature/issue_00_Register-Screen' of https://github.com/saigon-tech/git-exercise into feature/issue_37-ckthanh-exercise
+f0e7aa98889ed6c578cc56f26cf00fe42b799a8a 969471b32bc741194f3a39fd4705be3a35943c51 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593061023 +0700	commit: test
+969471b32bc741194f3a39fd4705be3a35943c51 0fbc2e658cae52e054a2e54639062e2fbe65b23a ckthanh-sgt <ckthanh-sgt@gmail.com> 1593066450 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593066473 +0700	checkout: moving from develop to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 969471b32bc741194f3a39fd4705be3a35943c51 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593066575 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_37-ckthanh-exercise
+969471b32bc741194f3a39fd4705be3a35943c51 969471b32bc741194f3a39fd4705be3a35943c51 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593066646 +0700	reset: moving to 969471b32bc741194f3a39fd4705be3a35943c51
+969471b32bc741194f3a39fd4705be3a35943c51 69c6c20d9fcfc086c3caaf98a1f6bcbfd9b6f771 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593066661 +0700	cherry-pick: #00 Add new screen register 2
+69c6c20d9fcfc086c3caaf98a1f6bcbfd9b6f771 0da239747119c9bdbc10db8af4bd108df6101355 ckthanh-sgt <ckthanh-sgt@gmail.com> 1593068073 +0700	checkout: moving from feature/issue_37-ckthanh-exercise to master
