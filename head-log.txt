@@ -1,0 +1,50 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626081817 +0700	clone: from https://github.com/saigon-tech/git-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626081940 +0700	checkout: moving from master to feature/issue_49
+0da239747119c9bdbc10db8af4bd108df6101355 ba6e36a325b5ee1f470646a4c13826d98f13122a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626082426 +0700	commit: #49 Coding UI
+ba6e36a325b5ee1f470646a4c13826d98f13122a 0fbc2e658cae52e054a2e54639062e2fbe65b23a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626082603 +0700	checkout: moving from feature/issue_49 to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a ba6e36a325b5ee1f470646a4c13826d98f13122a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626082625 +0700	checkout: moving from develop to feature/issue_49
+ba6e36a325b5ee1f470646a4c13826d98f13122a 2e04e556a30058508f7c8f1aab1da5bd4b2d019e ndthinh.sgt <ndthinh.sgt@gmail.com> 1626085878 +0700	commit: #49 Coding Process
+2e04e556a30058508f7c8f1aab1da5bd4b2d019e bad21e6da56bf1811a362fda05316f5f6c5c83f0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626085973 +0700	commit: #49 Coding Unit Test
+bad21e6da56bf1811a362fda05316f5f6c5c83f0 dc9498bfcd09f3776baa52b714ce302fea8b627d ndthinh.sgt <ndthinh.sgt@gmail.com> 1626086490 +0700	commit: #49 Fix Bug 1
+dc9498bfcd09f3776baa52b714ce302fea8b627d a76b5bf6b6b8a1f967e0203bb35442c3a4272208 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626086648 +0700	commit: #49 Fix Bug 2
+a76b5bf6b6b8a1f967e0203bb35442c3a4272208 8b29b01107403287860000e007789d3553ae4cf5 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626086729 +0700	commit: #49 Fix Bug 3
+8b29b01107403287860000e007789d3553ae4cf5 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087923 +0700	checkout: moving from feature/issue_49 to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 8b29b01107403287860000e007789d3553ae4cf5 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087965 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_49
+8b29b01107403287860000e007789d3553ae4cf5 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	rebase: checkout feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 1623d31006009e2a4b1f6d0b70f568599e9a373b ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	am: #49 Coding UI
+1623d31006009e2a4b1f6d0b70f568599e9a373b 1cc5e9143a4f7e6bb9b3dbc898f6c1d895391d80 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	am: #49 Coding Process
+1cc5e9143a4f7e6bb9b3dbc898f6c1d895391d80 6a06e52a34d98862d0c92b6d01ed1f5e5a9fa40b ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	am: #49 Coding Unit Test
+6a06e52a34d98862d0c92b6d01ed1f5e5a9fa40b 79ddc5e9b851eade45ba654ed518b971cc81bf94 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	am: #49 Fix Bug 1
+79ddc5e9b851eade45ba654ed518b971cc81bf94 fa85bc2fc7dbb44323f2508aeb2bd66ad01ac7fe ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087995 +0700	am: #49 Fix Bug 2
+fa85bc2fc7dbb44323f2508aeb2bd66ad01ac7fe fb0d6320390443377625a626dc554a8c628be285 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087995 +0700	am: #49 Fix Bug 3
+fb0d6320390443377625a626dc554a8c628be285 8b29b01107403287860000e007789d3553ae4cf5 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	rebase:
+8b29b01107403287860000e007789d3553ae4cf5 fb0d6320390443377625a626dc554a8c628be285 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626087994 +0700	rebase finished: refs/heads/feature/issue_49 onto ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9
+fb0d6320390443377625a626dc554a8c628be285 9826a45469ae931f19aad9c90689506e8818f6a4 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626088124 +0700	pull: Merge made by the 'recursive' strategy.
+9826a45469ae931f19aad9c90689506e8818f6a4 fb0d6320390443377625a626dc554a8c628be285 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626133646 +0700	rebase -i (start): checkout HEAD~3
+fb0d6320390443377625a626dc554a8c628be285 3b6c5e58c287a97e2a0aacf679cfaf78c8f78fff ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134017 +0700	rebase -i (squash): # This is a combination of 2 commits.
+3b6c5e58c287a97e2a0aacf679cfaf78c8f78fff 3b6c5e58c287a97e2a0aacf679cfaf78c8f78fff ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134154 +0700	rebase -i (finish): returning to refs/heads/feature/issue_49
+3b6c5e58c287a97e2a0aacf679cfaf78c8f78fff 6a06e52a34d98862d0c92b6d01ed1f5e5a9fa40b ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134335 +0700	rebase -i (start): checkout HEAD~6
+6a06e52a34d98862d0c92b6d01ed1f5e5a9fa40b 79ddc5e9b851eade45ba654ed518b971cc81bf94 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134335 +0700	rebase -i: fast-forward
+79ddc5e9b851eade45ba654ed518b971cc81bf94 d8f1be488d41d8629ae1413cc3acc7cc703657fe ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134432 +0700	rebase -i (squash): # This is a combination of 2 commits.
+d8f1be488d41d8629ae1413cc3acc7cc703657fe 297c6e57d0e46a7c22358bbfa3ed775108c642f0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134645 +0700	commit (amend): #49 Fix Bug
+297c6e57d0e46a7c22358bbfa3ed775108c642f0 297c6e57d0e46a7c22358bbfa3ed775108c642f0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134695 +0700	rebase -i (finish): returning to refs/heads/feature/issue_49
+297c6e57d0e46a7c22358bbfa3ed775108c642f0 76eeca0a894e6394a51a4c257c942c12d7f951e0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134736 +0700	pull: Merge made by the 'recursive' strategy.
+76eeca0a894e6394a51a4c257c942c12d7f951e0 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134857 +0700	checkout: moving from feature/issue_49 to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 76eeca0a894e6394a51a4c257c942c12d7f951e0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134878 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_49
+76eeca0a894e6394a51a4c257c942c12d7f951e0 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134883 +0700	rebase: checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 86cea908b0a6c4a1280d12e39481b209288edf99 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134883 +0700	am: Update README.md
+86cea908b0a6c4a1280d12e39481b209288edf99 34ef2160530a478d2e37ce38db8d98867de6eb1f ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134883 +0700	am: #00 list screen
+34ef2160530a478d2e37ce38db8d98867de6eb1f ac86d88a753d09216d58e48b39f104eb97e588db ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134977 +0700	am: #49 Coding Process
+ac86d88a753d09216d58e48b39f104eb97e588db a59498d58877aa7456cec11225ca9e2a73b21ec0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134977 +0700	am: #49 Coding Unit Test
+a59498d58877aa7456cec11225ca9e2a73b21ec0 aa2c49bcbdcd5e274788f84f1fbb425daf2486ba ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134977 +0700	am: #49 Fix Bug 1
+aa2c49bcbdcd5e274788f84f1fbb425daf2486ba 0746bbaf4eb66858adfe7f6c6360e4f966bf1a38 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134977 +0700	am: #49 Fix Bug 2
+0746bbaf4eb66858adfe7f6c6360e4f966bf1a38 b0abcc4177b84b10db110c00ee99e9d0163d135a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626134977 +0700	am: #49 Fix Bug 3
+b0abcc4177b84b10db110c00ee99e9d0163d135a 76eeca0a894e6394a51a4c257c942c12d7f951e0 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626135356 +0700	rebase:
+76eeca0a894e6394a51a4c257c942c12d7f951e0 b0abcc4177b84b10db110c00ee99e9d0163d135a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626135356 +0700	rebase finished: refs/heads/feature/issue_49 onto f5e77b41f980d128e271cf3fa5e9ab16f93d64a6
+b0abcc4177b84b10db110c00ee99e9d0163d135a b514345c74ad92e408398479dc3340b7a467f12a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626135635 +0700	commit (merge): #49 fix merge feature/issue_00-Register-Screen
+b514345c74ad92e408398479dc3340b7a467f12a 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626135956 +0700	checkout: moving from feature/issue_49 to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 b514345c74ad92e408398479dc3340b7a467f12a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626135967 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_49
+b514345c74ad92e408398479dc3340b7a467f12a 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626136152 +0700	checkout: moving from feature/issue_49 to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 b514345c74ad92e408398479dc3340b7a467f12a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626136227 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_49
+b514345c74ad92e408398479dc3340b7a467f12a 05750a2df2b7f3a1d0533ea9f2a08637c89e232a ndthinh.sgt <ndthinh.sgt@gmail.com> 1626136288 +0700	cherry-pick: #00 Add new screen register 2
+05750a2df2b7f3a1d0533ea9f2a08637c89e232a ddd5d1f1d2325c06b2f1b04abf203da64dc18951 ndthinh.sgt <ndthinh.sgt@gmail.com> 1626136332 +0700	pull: Merge made by the 'recursive' strategy.
