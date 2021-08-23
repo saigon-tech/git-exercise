@@ -1,0 +1,69 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629706543 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0fbc2e658cae52e054a2e54639062e2fbe65b23a tcthinh.sgt <tcthinh.sgt@gmail.com> 1629706575 +0700	checkout: moving from master to develop
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 0fbc2e658cae52e054a2e54639062e2fbe65b23a tcthinh.sgt <tcthinh.sgt@gmail.com> 1629706614 +0700	checkout: moving from develop to feature/issue_51-Thinh_Exercise
+0fbc2e658cae52e054a2e54639062e2fbe65b23a 4bd06aec9244b6383c709e559011ca1efa569d82 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707022 +0700	commit: #51 Thinh Exercise
+4bd06aec9244b6383c709e559011ca1efa569d82 24f05db006284387233e2ae9af0c6e63d45a808f tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707324 +0700	commit: #51 Thinh Coding Unit Test and Functional Test
+24f05db006284387233e2ae9af0c6e63d45a808f 80a38fd156a8cd462baae6bd1b4fea93b77fb251 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707383 +0700	commit: Fix bug 1
+80a38fd156a8cd462baae6bd1b4fea93b77fb251 141d03fc259438aba47a2345b916fea14579977f tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707444 +0700	commit: #51 Fix bug 2
+141d03fc259438aba47a2345b916fea14579977f e05ec2602885bbd2595045bbb157ca53d86bd100 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707483 +0700	commit: #51 Fix bug 3
+e05ec2602885bbd2595045bbb157ca53d86bd100 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707593 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 e05ec2602885bbd2595045bbb157ca53d86bd100 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707612 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_51-Thinh_Exercise
+e05ec2602885bbd2595045bbb157ca53d86bd100 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (start): checkout feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 b40cab57831902bb36bbda87887f2a675ea459a9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): register.html
+b40cab57831902bb36bbda87887f2a675ea459a9 3b159ab4a0372bb3a5a79671adea3ff6f302af20 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): Delete register.html
+3b159ab4a0372bb3a5a79671adea3ff6f302af20 c6e68e382fdca371b0eeca836ada2360fb0dc91d tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): #51 Thinh Exercise
+c6e68e382fdca371b0eeca836ada2360fb0dc91d 84db3f9fab693f2b7076cf524160dff570639b1e tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): #51 Thinh Coding Unit Test and Functional Test
+84db3f9fab693f2b7076cf524160dff570639b1e 3fe27c45c52baff79112ec6b03c5b77ec526cb22 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): Fix bug 1
+3fe27c45c52baff79112ec6b03c5b77ec526cb22 f100f1ed3829f0fc45eaafd6e299fdf19dd51484 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): #51 Fix bug 2
+f100f1ed3829f0fc45eaafd6e299fdf19dd51484 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (pick): #51 Fix bug 3
+d4bd8a8943d71979a16feca2b9c2147ea25df960 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629707623 +0700	rebase (finish): returning to refs/heads/feature/issue_51-Thinh_Exercise
+d4bd8a8943d71979a16feca2b9c2147ea25df960 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708088 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708104 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_51-Thinh_Exercise
+d4bd8a8943d71979a16feca2b9c2147ea25df960 a413c3e1fedba54c45903919f929123f1cee7c51 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708124 +0700	pull: Merge made by the 'recursive' strategy.
+a413c3e1fedba54c45903919f929123f1cee7c51 84db3f9fab693f2b7076cf524160dff570639b1e tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708547 +0700	rebase (start): checkout HEAD~10
+84db3f9fab693f2b7076cf524160dff570639b1e 3fe27c45c52baff79112ec6b03c5b77ec526cb22 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708547 +0700	rebase: fast-forward
+3fe27c45c52baff79112ec6b03c5b77ec526cb22 f100f1ed3829f0fc45eaafd6e299fdf19dd51484 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708579 +0700	rebase: fast-forward
+f100f1ed3829f0fc45eaafd6e299fdf19dd51484 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708579 +0700	rebase: fast-forward
+d4bd8a8943d71979a16feca2b9c2147ea25df960 76f248017bcf19d287725c667345d7bf3819682b tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708718 +0700	rebase (continue): register.html
+76f248017bcf19d287725c667345d7bf3819682b a413c3e1fedba54c45903919f929123f1cee7c51 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708822 +0700	checkout: moving from 76f248017bcf19d287725c667345d7bf3819682b to feature/issue_51-Thinh_Exercise
+a413c3e1fedba54c45903919f929123f1cee7c51 84db3f9fab693f2b7076cf524160dff570639b1e tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708882 +0700	rebase (start): checkout HEAD~10
+84db3f9fab693f2b7076cf524160dff570639b1e 3fe27c45c52baff79112ec6b03c5b77ec526cb22 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629708882 +0700	rebase: fast-forward
+3fe27c45c52baff79112ec6b03c5b77ec526cb22 a413c3e1fedba54c45903919f929123f1cee7c51 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629709215 +0700	checkout: moving from 3fe27c45c52baff79112ec6b03c5b77ec526cb22 to feature/issue_51-Thinh_Exercise
+a413c3e1fedba54c45903919f929123f1cee7c51 a413c3e1fedba54c45903919f929123f1cee7c51 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629709292 +0700	rebase (skip): updating HEAD
+a413c3e1fedba54c45903919f929123f1cee7c51 fd27e270292f8413bc698445378092cec7621f53 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629709445 +0700	commit: register.html
+fd27e270292f8413bc698445378092cec7621f53 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629709510 +0700	rebase (start): checkout HEAD~10
+d4bd8a8943d71979a16feca2b9c2147ea25df960 fd27e270292f8413bc698445378092cec7621f53 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629709664 +0700	checkout: moving from d4bd8a8943d71979a16feca2b9c2147ea25df960 to feature/issue_51-Thinh_Exercise
+fd27e270292f8413bc698445378092cec7621f53 df6873681a4e27bdc40504ffdb833cf76e756cea tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710134 +0700	commit: fix
+df6873681a4e27bdc40504ffdb833cf76e756cea d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710153 +0700	rebase (start): checkout HEAD~10
+d4bd8a8943d71979a16feca2b9c2147ea25df960 df6873681a4e27bdc40504ffdb833cf76e756cea tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710197 +0700	rebase (abort): updating HEAD
+df6873681a4e27bdc40504ffdb833cf76e756cea d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710206 +0700	rebase (start): checkout HEAD~10
+d4bd8a8943d71979a16feca2b9c2147ea25df960 df6873681a4e27bdc40504ffdb833cf76e756cea tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710287 +0700	checkout: moving from d4bd8a8943d71979a16feca2b9c2147ea25df960 to feature/issue_51-Thinh_Exercise
+df6873681a4e27bdc40504ffdb833cf76e756cea dae5246864d64999f0433c0ec20a98c108d2a614 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710447 +0700	commit: 123
+dae5246864d64999f0433c0ec20a98c108d2a614 d4bd8a8943d71979a16feca2b9c2147ea25df960 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710633 +0700	rebase (start): checkout HEAD~10
+d4bd8a8943d71979a16feca2b9c2147ea25df960 114dd5bcae4dbe59db2b10c776092872a11694ae tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710677 +0700	rebase (continue): register.html
+114dd5bcae4dbe59db2b10c776092872a11694ae dae5246864d64999f0433c0ec20a98c108d2a614 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710723 +0700	rebase (abort): updating HEAD
+dae5246864d64999f0433c0ec20a98c108d2a614 1b18d4180dcbf5a6a181acf33efaf862fd6141e1 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710843 +0700	commit: fix
+1b18d4180dcbf5a6a181acf33efaf862fd6141e1 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710852 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 1b18d4180dcbf5a6a181acf33efaf862fd6141e1 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710911 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_51-Thinh_Exercise
+1b18d4180dcbf5a6a181acf33efaf862fd6141e1 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710952 +0700	rebase (start): checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 7c0a46027eeea6746696cb7ec00d6e5f022342c3 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710952 +0700	rebase (pick): Update README.md
+7c0a46027eeea6746696cb7ec00d6e5f022342c3 d85c9e58e4fd05a150d7de209c9ad27fda46d867 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629710953 +0700	rebase (pick): #00 list screen
+d85c9e58e4fd05a150d7de209c9ad27fda46d867 1b18d4180dcbf5a6a181acf33efaf862fd6141e1 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629711371 +0700	rebase (abort): updating HEAD
+1b18d4180dcbf5a6a181acf33efaf862fd6141e1 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629711940 +0700	rebase (start): checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 999df08893dd783d19f6a6f01fb2a7f764666868 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629711940 +0700	rebase (pick): Update README.md
+999df08893dd783d19f6a6f01fb2a7f764666868 74b6417a084e644cff37da2a0dc087ef30bc09c9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629711940 +0700	rebase (pick): #00 list screen
+74b6417a084e644cff37da2a0dc087ef30bc09c9 0fdcd7d6a906ab716eb7db6222764622611b83cf tcthinh.sgt <tcthinh.sgt@gmail.com> 1629712018 +0700	commit: #51 step8
+0fdcd7d6a906ab716eb7db6222764622611b83cf 1b18d4180dcbf5a6a181acf33efaf862fd6141e1 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629712317 +0700	rebase (abort): updating HEAD
+1b18d4180dcbf5a6a181acf33efaf862fd6141e1 1b18d4180dcbf5a6a181acf33efaf862fd6141e1 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629712319 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_51-Thinh_Exercise
+1b18d4180dcbf5a6a181acf33efaf862fd6141e1 36a2f567e9e3091410bb32a696ad1269aa5222ff tcthinh.sgt <tcthinh.sgt@gmail.com> 1629712351 +0700	commit (merge): #51 Step 8
+36a2f567e9e3091410bb32a696ad1269aa5222ff f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629712551 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 36a2f567e9e3091410bb32a696ad1269aa5222ff tcthinh.sgt <tcthinh.sgt@gmail.com> 1629713952 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_51-Thinh_Exercise
+36a2f567e9e3091410bb32a696ad1269aa5222ff 830bd46a4f3b23e6fe6afb4f5fff52d4d3958ccb tcthinh.sgt <tcthinh.sgt@gmail.com> 1629714272 +0700	commit: #51 Done step 8
+830bd46a4f3b23e6fe6afb4f5fff52d4d3958ccb f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629714425 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629714707 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 830bd46a4f3b23e6fe6afb4f5fff52d4d3958ccb tcthinh.sgt <tcthinh.sgt@gmail.com> 1629715240 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_51-Thinh_Exercise
+830bd46a4f3b23e6fe6afb4f5fff52d4d3958ccb 788d47ff2ed77da063ffed355a42605af8a55a56 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629715396 +0700	commit: Fix bug 2
+788d47ff2ed77da063ffed355a42605af8a55a56 9db0f189d8a692d4f4f6cfa8785c3899eaae8dc7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629715550 +0700	commit: #51 Fix bug 2
+9db0f189d8a692d4f4f6cfa8785c3899eaae8dc7 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629715576 +0700	checkout: moving from feature/issue_51-Thinh_Exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 9db0f189d8a692d4f4f6cfa8785c3899eaae8dc7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629716420 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_51-Thinh_Exercise
+9db0f189d8a692d4f4f6cfa8785c3899eaae8dc7 ce441200c35c94d06f3c55528edc0296b9b6041a tcthinh.sgt <tcthinh.sgt@gmail.com> 1629716504 +0700	cherry-pick: #00 Add new screen register 2
