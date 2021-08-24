@@ -55,3 +55,21 @@ e7c5db1446476b69b713c110839c8e4ee194be74 0f08eb362b829f5911a291b2303fb4a346ecda5
 0f08eb362b829f5911a291b2303fb4a346ecda55 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629742044 +0700	checkout: moving from feature/issue_53-Thinh_exercise to feature/issue_00-Update-Register-Screen
 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 0f08eb362b829f5911a291b2303fb4a346ecda55 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629742060 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_53-Thinh_exercise
 0f08eb362b829f5911a291b2303fb4a346ecda55 fbbb1c81bdcf2e68fc79ca477f574f661755831c tcthinh.sgt <tcthinh.sgt@gmail.com> 1629742071 +0700	cherry-pick: #00 Add new screen register 2
+fbbb1c81bdcf2e68fc79ca477f574f661755831c 07fc111f27d258cd134ac38c831213e614bdbb6c tcthinh.sgt <tcthinh.sgt@gmail.com> 1629742154 +0700	commit: #53 cherry-pick
+07fc111f27d258cd134ac38c831213e614bdbb6c bfa74065f44353baf52b178771a958cd8a1ee4e0 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629742191 +0700	commit (amend): "#53 add head-log"
+bfa74065f44353baf52b178771a958cd8a1ee4e0 b465a5aa299d223f5ab3d11465888dbd868846e9 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (start): checkout HEAD~10
+b465a5aa299d223f5ab3d11465888dbd868846e9 d1ae213bd4933f51bd40aa1b14ad5138ba1da038 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (fixup): # This is a combination of 2 commits.
+d1ae213bd4933f51bd40aa1b14ad5138ba1da038 07e40095058c649fd5747267bc36091b8309a10d tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (fixup): # This is a combination of 3 commits.
+07e40095058c649fd5747267bc36091b8309a10d 1cf7806b0d0ae369c70210bb8a3bb8b971f2a419 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (fixup): #53 Thinh Coding Unit Test and Functional Test
+1cf7806b0d0ae369c70210bb8a3bb8b971f2a419 8530055b3acea23f25875a65ace359b84692b86b tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (pick): #00 Add new screen register 2
+8530055b3acea23f25875a65ace359b84692b86b a790611ef60eb7e9020f9d4492db6b5025d74d5e tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (pick): "#53 add head-log"
+a790611ef60eb7e9020f9d4492db6b5025d74d5e a790611ef60eb7e9020f9d4492db6b5025d74d5e tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771259 +0700	rebase (finish): returning to refs/heads/feature/issue_53-Thinh_exercise
+a790611ef60eb7e9020f9d4492db6b5025d74d5e 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771298 +0700	commit (amend): "#53 add head-log"
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771419 +0700	rebase (start): checkout HEAD~3
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771419 +0700	rebase (finish): returning to refs/heads/feature/issue_53-Thinh_exercise
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771425 +0700	rebase (start): checkout HEAD~5
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771425 +0700	rebase (finish): returning to refs/heads/feature/issue_53-Thinh_exercise
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771453 +0700	rebase (start): checkout HEAD~8
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771453 +0700	rebase (finish): returning to refs/heads/feature/issue_53-Thinh_exercise
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771632 +0700	rebase (start): checkout HEAD~8
+45fee41e96349e4cfcd319991a68596b1ec95af7 45fee41e96349e4cfcd319991a68596b1ec95af7 tcthinh.sgt <tcthinh.sgt@gmail.com> 1629771632 +0700	rebase (finish): returning to refs/heads/feature/issue_53-Thinh_exercise
