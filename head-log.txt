@@ -1,0 +1,39 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 lbthucsgt <lbthucsgt@gmail.com> 1644312045 +0700	clone: from https://github.com/saigon-tech/git-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 lbthucsgt <lbthucsgt@gmail.com> 1644312281 +0700	checkout: moving from master to feature/issue_66-lbthuc-git-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 6eabd87ecad2bebf0f7a14eebc2329e5d3adc31a lbthucsgt <lbthucsgt@gmail.com> 1644312302 +0700	commit: #66 Coding UI
+6eabd87ecad2bebf0f7a14eebc2329e5d3adc31a 4ecab05f7fc87eda32fc8f3953931d8ddba2d301 lbthucsgt <lbthucsgt@gmail.com> 1644312369 +0700	commit: #66 Coding process
+4ecab05f7fc87eda32fc8f3953931d8ddba2d301 06d2c54cc3ef57cda525a3f220db4fbd18ebae6f lbthucsgt <lbthucsgt@gmail.com> 1644312457 +0700	commit: #66 Coding Unit Test
+06d2c54cc3ef57cda525a3f220db4fbd18ebae6f e63b730031409f2d6d00ea0b2b0697536bb70173 lbthucsgt <lbthucsgt@gmail.com> 1644312631 +0700	commit (amend): #66 lbthuc Coding Unit Test and Functional Test
+e63b730031409f2d6d00ea0b2b0697536bb70173 ef7dd3efb6dac44d248b9e7c2446c4874e92b51f lbthucsgt <lbthucsgt@gmail.com> 1644312818 +0700	commit: #66 Fix bug 1
+ef7dd3efb6dac44d248b9e7c2446c4874e92b51f f1adcf359c5751f46288067517e0b41796e1a7c7 lbthucsgt <lbthucsgt@gmail.com> 1644312846 +0700	commit: #66 fix bug 2
+f1adcf359c5751f46288067517e0b41796e1a7c7 2946984784e8435723e67842ea87ef6c1d7ee159 lbthucsgt <lbthucsgt@gmail.com> 1644312929 +0700	commit: #66 fix bug 3
+2946984784e8435723e67842ea87ef6c1d7ee159 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: checkout origin/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 46b58637211f7e8071ca6e09f31805e2fdecc038 lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 Coding UI
+46b58637211f7e8071ca6e09f31805e2fdecc038 3704a0c7ec97de720de2af41dc0c2053bb48cf27 lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 Coding process
+3704a0c7ec97de720de2af41dc0c2053bb48cf27 6a482d838b699f915178d69076f1c566d498b95b lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 lbthuc Coding Unit Test and Functional Test
+6a482d838b699f915178d69076f1c566d498b95b ee47043fb5762be137d34d8115f7c66ba12814f7 lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 Fix bug 1
+ee47043fb5762be137d34d8115f7c66ba12814f7 24a58c0b639e9a333efa362eb929f235f340f0e3 lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 fix bug 2
+24a58c0b639e9a333efa362eb929f235f340f0e3 3d7953aad78f4fce700c5b2f170ec29e20f4425e lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase: #66 fix bug 3
+3d7953aad78f4fce700c5b2f170ec29e20f4425e 3d7953aad78f4fce700c5b2f170ec29e20f4425e lbthucsgt <lbthucsgt@gmail.com> 1644312964 +0700	rebase finished: returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+3d7953aad78f4fce700c5b2f170ec29e20f4425e 3d7953aad78f4fce700c5b2f170ec29e20f4425e lbthucsgt <lbthucsgt@gmail.com> 1644313546 +0700	rebase -i (start): checkout ee47043
+3d7953aad78f4fce700c5b2f170ec29e20f4425e 3d7953aad78f4fce700c5b2f170ec29e20f4425e lbthucsgt <lbthucsgt@gmail.com> 1644313546 +0700	rebase -i (finish): returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+3d7953aad78f4fce700c5b2f170ec29e20f4425e 24a58c0b639e9a333efa362eb929f235f340f0e3 lbthucsgt <lbthucsgt@gmail.com> 1644313957 +0700	rebase -i (start): checkout ee47043
+24a58c0b639e9a333efa362eb929f235f340f0e3 933c4b59a7c49a740d54ef68609bef1034d6336d lbthucsgt <lbthucsgt@gmail.com> 1644313957 +0700	rebase -i (fixup): #66 fix bug 2
+933c4b59a7c49a740d54ef68609bef1034d6336d 933c4b59a7c49a740d54ef68609bef1034d6336d lbthucsgt <lbthucsgt@gmail.com> 1644313957 +0700	rebase -i (finish): returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+933c4b59a7c49a740d54ef68609bef1034d6336d ee47043fb5762be137d34d8115f7c66ba12814f7 lbthucsgt <lbthucsgt@gmail.com> 1644314053 +0700	rebase -i (start): checkout ee47043
+ee47043fb5762be137d34d8115f7c66ba12814f7 933c4b59a7c49a740d54ef68609bef1034d6336d lbthucsgt <lbthucsgt@gmail.com> 1644315792 +0700	rebase -i: fast-forward
+933c4b59a7c49a740d54ef68609bef1034d6336d 933c4b59a7c49a740d54ef68609bef1034d6336d lbthucsgt <lbthucsgt@gmail.com> 1644315792 +0700	rebase -i (finish): returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+933c4b59a7c49a740d54ef68609bef1034d6336d ee47043fb5762be137d34d8115f7c66ba12814f7 lbthucsgt <lbthucsgt@gmail.com> 1644316072 +0700	rebase -i (start): checkout 6a482d8
+ee47043fb5762be137d34d8115f7c66ba12814f7 0440ca7c93941434061219422da74e8732a3b058 lbthucsgt <lbthucsgt@gmail.com> 1644316072 +0700	rebase -i (fixup): #66 Fix bug 1
+0440ca7c93941434061219422da74e8732a3b058 0440ca7c93941434061219422da74e8732a3b058 lbthucsgt <lbthucsgt@gmail.com> 1644316072 +0700	rebase -i (finish): returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+0440ca7c93941434061219422da74e8732a3b058 8fbd32dd19df0eefd66958ea10ede39f88f69684 lbthucsgt <lbthucsgt@gmail.com> 1644316130 +0700	commit (amend): #66 Fix bugo
+8fbd32dd19df0eefd66958ea10ede39f88f69684 4a50eb1e1efcb73c8320d7e2d55e4da4d15bc29c lbthucsgt <lbthucsgt@gmail.com> 1644316166 +0700	commit (amend): #66 Fix bug
+4a50eb1e1efcb73c8320d7e2d55e4da4d15bc29c f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 lbthucsgt <lbthucsgt@gmail.com> 1644316850 +0700	rebase: checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 deb3080004b313fb829cc79f054d17e8aa351a7d lbthucsgt <lbthucsgt@gmail.com> 1644316850 +0700	rebase: Update README.md
+deb3080004b313fb829cc79f054d17e8aa351a7d a8846c83771d5ca37629405885ba0a665bec29c2 lbthucsgt <lbthucsgt@gmail.com> 1644316850 +0700	rebase: #00 list screen
+a8846c83771d5ca37629405885ba0a665bec29c2 ca86e2b0a6721ceeb69016a88ef7763941ffcf1c lbthucsgt <lbthucsgt@gmail.com> 1644316929 +0700	commit: #66 fix conflict
+ca86e2b0a6721ceeb69016a88ef7763941ffcf1c 97c3f284e2637ab2e2d3552c859b694cded317bf lbthucsgt <lbthucsgt@gmail.com> 1644316964 +0700	rebase: #66 Coding process
+97c3f284e2637ab2e2d3552c859b694cded317bf ce38fa9eecb84116ed7d47c2165558524e0a7e1a lbthucsgt <lbthucsgt@gmail.com> 1644316964 +0700	rebase: #66 lbthuc Coding Unit Test and Functional Test
+ce38fa9eecb84116ed7d47c2165558524e0a7e1a f0be180d3ec0cb31ee2c69547766ef741350ba69 lbthucsgt <lbthucsgt@gmail.com> 1644316964 +0700	rebase: #66 Fix bug
+f0be180d3ec0cb31ee2c69547766ef741350ba69 f0be180d3ec0cb31ee2c69547766ef741350ba69 lbthucsgt <lbthucsgt@gmail.com> 1644316964 +0700	rebase finished: returning to refs/heads/feature/issue_66-lbthuc-git-exercise
+f0be180d3ec0cb31ee2c69547766ef741350ba69 dd70cda7906db3425644e95135c7f2a2daa9edde lbthucsgt <lbthucsgt@gmail.com> 1644318359 +0700	cherry-pick: #00 Add new screen register 2
