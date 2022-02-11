@@ -1,0 +1,40 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 quangvinhbi <dnqvinh.sgt@gmail.com> 1644559749 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 quangvinhbi <dnqvinh.sgt@gmail.com> 1644559947 +0700	checkout: moving from master to feature/issue_70-dnqvinh.sgt-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 f169f02bdcbf502585d3fe0d1afd5615ece8f66c quangvinhbi <dnqvinh.sgt@gmail.com> 1644560100 +0700	commit: #70 Coding UI
+f169f02bdcbf502585d3fe0d1afd5615ece8f66c d2d1286f20e488dd9e4988e6b71ed7600cbc6ce9 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560123 +0700	commit: #70 Coding Process
+d2d1286f20e488dd9e4988e6b71ed7600cbc6ce9 82aab63f66690417ad514d09548cb9a14189eb1b quangvinhbi <dnqvinh.sgt@gmail.com> 1644560145 +0700	commit: #70 Coding Unit Test
+82aab63f66690417ad514d09548cb9a14189eb1b 77f18df4a699b30f1bd9f000310945840093dc12 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560175 +0700	commit (amend): 70 dnqvinh Coding Unit Test and Functional Test
+77f18df4a699b30f1bd9f000310945840093dc12 0da239747119c9bdbc10db8af4bd108df6101355 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560293 +0700	checkout: moving from feature/issue_70-dnqvinh.sgt-exercise to master
+0da239747119c9bdbc10db8af4bd108df6101355 77f18df4a699b30f1bd9f000310945840093dc12 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560295 +0700	checkout: moving from master to feature/issue_70-dnqvinh.sgt-exercise
+77f18df4a699b30f1bd9f000310945840093dc12 c2fd13ac70f5ab4e411704bdbba0125ef92be908 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560358 +0700	commit: #70 Fix bug 1
+c2fd13ac70f5ab4e411704bdbba0125ef92be908 0c82ffedddd556022cf736447ed497db69e5f9c5 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560402 +0700	commit: #70 Fix bug 2
+0c82ffedddd556022cf736447ed497db69e5f9c5 cb7d91c633d3346444c579af03c2aab0dbb11951 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560441 +0700	commit: #70 Fix bug 3
+cb7d91c633d3346444c579af03c2aab0dbb11951 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (start): checkout origin/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 b9771f747fb17c1d7bac3e26c53303dcc0ab697b quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): #70 Coding UI
+b9771f747fb17c1d7bac3e26c53303dcc0ab697b fe5103432a8635ece14702607befdf264204b6e7 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): #70 Coding Process
+fe5103432a8635ece14702607befdf264204b6e7 11ac6d477d6f5f1540d74d67859cf154208657b0 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): 70 dnqvinh Coding Unit Test and Functional Test
+11ac6d477d6f5f1540d74d67859cf154208657b0 4846cfb70f467cadddee058d89b114807721b9a4 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): #70 Fix bug 1
+4846cfb70f467cadddee058d89b114807721b9a4 af93fccae0ba827c0c02422ffd5ea4577e81c0ef quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): #70 Fix bug 2
+af93fccae0ba827c0c02422ffd5ea4577e81c0ef 39c4749b7ac1429a8725d6f7d94e2b14f80b735e quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (pick): #70 Fix bug 3
+39c4749b7ac1429a8725d6f7d94e2b14f80b735e 39c4749b7ac1429a8725d6f7d94e2b14f80b735e quangvinhbi <dnqvinh.sgt@gmail.com> 1644560492 +0700	rebase (finish): returning to refs/heads/feature/issue_70-dnqvinh.sgt-exercise
+39c4749b7ac1429a8725d6f7d94e2b14f80b735e ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560556 +0700	checkout: moving from feature/issue_70-dnqvinh.sgt-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 39c4749b7ac1429a8725d6f7d94e2b14f80b735e quangvinhbi <dnqvinh.sgt@gmail.com> 1644560591 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_70-dnqvinh.sgt-exercise
+39c4749b7ac1429a8725d6f7d94e2b14f80b735e 11ac6d477d6f5f1540d74d67859cf154208657b0 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560699 +0700	rebase (start): checkout HEAD~3
+11ac6d477d6f5f1540d74d67859cf154208657b0 4846cfb70f467cadddee058d89b114807721b9a4 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560699 +0700	rebase: fast-forward
+4846cfb70f467cadddee058d89b114807721b9a4 0b7e80f24d7b01a41430f6068f41b61d03460035 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560699 +0700	rebase (reword): 70 Fix bug
+0b7e80f24d7b01a41430f6068f41b61d03460035 f6ca06bf58a62665f62eba1afd409c19e5eee267 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560727 +0700	rebase (fixup): # This is a combination of 2 commits.
+f6ca06bf58a62665f62eba1afd409c19e5eee267 b07688ec1e8555f9237f7461cf931937e1387ba8 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560727 +0700	rebase (fixup): 70 Fix bug
+b07688ec1e8555f9237f7461cf931937e1387ba8 b07688ec1e8555f9237f7461cf931937e1387ba8 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560727 +0700	rebase (finish): returning to refs/heads/feature/issue_70-dnqvinh.sgt-exercise
+b07688ec1e8555f9237f7461cf931937e1387ba8 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560755 +0700	checkout: moving from feature/issue_70-dnqvinh.sgt-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 b07688ec1e8555f9237f7461cf931937e1387ba8 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560757 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_70-dnqvinh.sgt-exercise
+b07688ec1e8555f9237f7461cf931937e1387ba8 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560820 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 3c2f318a119eda6b9a0d13d0332c7a4111592caf quangvinhbi <dnqvinh.sgt@gmail.com> 1644560820 +0700	rebase (pick): Update README.md
+3c2f318a119eda6b9a0d13d0332c7a4111592caf 3c1ade500cf7e380f54f61d93f49ae100450c55d quangvinhbi <dnqvinh.sgt@gmail.com> 1644560820 +0700	rebase (pick): #00 list screen
+3c1ade500cf7e380f54f61d93f49ae100450c55d 24126dfaf4f9efeab790fd99f35cd9fdbec174c6 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560960 +0700	rebase (continue): 70 Coding UI
+24126dfaf4f9efeab790fd99f35cd9fdbec174c6 a89c808fe4356b1bee89a8b90fd9c70bb94deb4a quangvinhbi <dnqvinh.sgt@gmail.com> 1644560975 +0700	rebase (continue) (pick): #70 Coding Process
+a89c808fe4356b1bee89a8b90fd9c70bb94deb4a 1c52ff6d53a89b807c01f03cb3dfa73e889efaa7 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560976 +0700	rebase (continue) (pick): 70 dnqvinh Coding Unit Test and Functional Test
+1c52ff6d53a89b807c01f03cb3dfa73e889efaa7 f91b43c0c1fc7f1b504a664bfa68025cbd856926 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560976 +0700	rebase (continue) (pick): 70 Fix bug
+f91b43c0c1fc7f1b504a664bfa68025cbd856926 f91b43c0c1fc7f1b504a664bfa68025cbd856926 quangvinhbi <dnqvinh.sgt@gmail.com> 1644560976 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_70-dnqvinh.sgt-exercise
+f91b43c0c1fc7f1b504a664bfa68025cbd856926 c61cc5299adc6f36052bcdb9e24da867458dabcb quangvinhbi <dnqvinh.sgt@gmail.com> 1644561219 +0700	cherry-pick: #00 Add new screen register 2
+c61cc5299adc6f36052bcdb9e24da867458dabcb ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quangvinhbi <dnqvinh.sgt@gmail.com> 1644561238 +0700	checkout: moving from feature/issue_70-dnqvinh.sgt-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 c61cc5299adc6f36052bcdb9e24da867458dabcb quangvinhbi <dnqvinh.sgt@gmail.com> 1644561241 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_70-dnqvinh.sgt-exercise
