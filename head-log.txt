@@ -1,0 +1,59 @@
+commit fb17764aefe20c9b5c84e4dc3df183516555a3f1
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:44:07 2019 +0700
+
+    #00 Add new screen register 2
+
+commit ca67fe37cb93f93889cff0dd2371817de36446dc
+Author: Phuclmp-sgt <phuclm.sgt@gmail.com>
+Date:   Mon May 16 16:37:13 2022 +0700
+
+    Coding UI
+
+commit 321faf873f155be9ff83f5d4642d545e99dbb4dd
+Author: Phuclmp-sgt <phuclm.sgt@gmail.com>
+Date:   Mon May 16 14:52:19 2022 +0700
+
+    Fix bug
+
+commit 5bdedbe5bb2a710c3cbfff0eb0292511092ff554
+Author: lmphuc <lmphuc259@gmail.com>
+Date:   Mon May 16 11:38:31 2022 +0700
+
+    Coding Unit Test
+
+commit a66708bb12a72cfae3705c1d18eb6b642a71fce6
+Author: lmphuc <lmphuc259@gmail.com>
+Date:   Mon May 16 11:37:11 2022 +0700
+
+    Coding Process
+
+commit 1d4399124d23d41cc3acd085b7e3c4889109dd3c
+Author: lmphuc <lmphuc259@gmail.com>
+Date:   Mon May 16 11:32:21 2022 +0700
+
+    Coding UI
+
+commit b2c9513379df94525dcb313dc36b1a58a1fb765c
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 16:40:03 2019 +0700
+
+    #00 list screen
+
+commit 1b40cbce7dc47284aeaa0cd8c64fe010d3207f80
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Thu Jun 6 10:12:24 2019 +0700
+
+    Update README.md
+
+commit f5e77b41f980d128e271cf3fa5e9ab16f93d64a6
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:40:03 2019 +0700
+
+    #00 Register screen
+
+commit 5f049530f8a86e5a9b54045bfc78d5ad622a68d6
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Wed May 15 17:02:58 2019 +0700
+
+    Initial commit
