@@ -1,0 +1,50 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 huydang-sgt <huydq.sgt@gmail.com> 1652689391 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 huydang-sgt <huydq.sgt@gmail.com> 1652689416 +0700	checkout: moving from master to feature/issue_74-huydq-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 b715185f79bba6e6bf806aa986aff6a8049f9cf8 huydang-sgt <huydq.sgt@gmail.com> 1652718726 +0700	pull --ff --progress origin: Fast-forward
+b715185f79bba6e6bf806aa986aff6a8049f9cf8 f66993dbdb4905c2acc8d2d3a4e38a156ce2d602 huydang-sgt <huydq.sgt@gmail.com> 1652719408 +0700	commit: commit and push tasks Coding UI, Coding Process, Coding Unit Test
+f66993dbdb4905c2acc8d2d3a4e38a156ce2d602 c8b7d96110a5f1ca4c9c87e51809ed94db5f667a huydang-sgt <huydq.sgt@gmail.com> 1652719642 +0700	revert: Revert "Coding Unit Test"
+c8b7d96110a5f1ca4c9c87e51809ed94db5f667a f66993dbdb4905c2acc8d2d3a4e38a156ce2d602 huydang-sgt <huydq.sgt@gmail.com> 1652719660 +0700	reset: moving to f66993dbdb4905c2acc8d2d3a4e38a156ce2d602
+f66993dbdb4905c2acc8d2d3a4e38a156ce2d602 8ed717dbf83be0048ad56520160a29d6ddf75ed2 huydang-sgt <huydq.sgt@gmail.com> 1652719697 +0700	commit: Coding Unit Test
+8ed717dbf83be0048ad56520160a29d6ddf75ed2 8c96f3ecf3f1975f0f1d3e753654171cd65d6441 huydang-sgt <huydq.sgt@gmail.com> 1652719788 +0700	commit (amend): Coding Unit Test
+8c96f3ecf3f1975f0f1d3e753654171cd65d6441 b715185f79bba6e6bf806aa986aff6a8049f9cf8 huydang-sgt <huydq.sgt@gmail.com> 1652719893 +0700	checkout: moving from feature/issue_74-huydq-exercise to master
+b715185f79bba6e6bf806aa986aff6a8049f9cf8 8c96f3ecf3f1975f0f1d3e753654171cd65d6441 huydang-sgt <huydq.sgt@gmail.com> 1652719897 +0700	checkout: moving from master to feature/issue_74-huydq-exercise
+8c96f3ecf3f1975f0f1d3e753654171cd65d6441 b715185f79bba6e6bf806aa986aff6a8049f9cf8 huydang-sgt <huydq.sgt@gmail.com> 1652719899 +0700	checkout: moving from feature/issue_74-huydq-exercise to master
+b715185f79bba6e6bf806aa986aff6a8049f9cf8 8c58de9aac74dcc4d394f9de51a16f7036763e8b huydang-sgt <huydq.sgt@gmail.com> 1652719983 +0700	commit: Remove file unit test
+8c58de9aac74dcc4d394f9de51a16f7036763e8b 8c58de9aac74dcc4d394f9de51a16f7036763e8b huydang-sgt <huydq.sgt@gmail.com> 1652720055 +0700	checkout: moving from master to feature/issue_74-huydq-exercise
+8c58de9aac74dcc4d394f9de51a16f7036763e8b a37d0103043f3cd4814d4a21a45aa63d136c7806 huydang-sgt <huydq.sgt@gmail.com> 1652720272 +0700	commit: Coding Unit Test
+a37d0103043f3cd4814d4a21a45aa63d136c7806 96c1b82468f9fc32ceff8feff2981ebb87fed41a huydang-sgt <huydq.sgt@gmail.com> 1652720349 +0700	commit (amend): Coding Unit Test
+96c1b82468f9fc32ceff8feff2981ebb87fed41a 3c59280b92b878ef3e94658f036d307867ef1672 huydang-sgt <huydq.sgt@gmail.com> 1652720511 +0700	commit: fixbug1
+3c59280b92b878ef3e94658f036d307867ef1672 395fc318b469dae6a41b84a1f0b7de33f0108e5d huydang-sgt <huydq.sgt@gmail.com> 1652720628 +0700	commit: fixbug2
+395fc318b469dae6a41b84a1f0b7de33f0108e5d 877b1b7878afa3f7174522b4e03d6de0ed3b1d71 huydang-sgt <huydq.sgt@gmail.com> 1652720659 +0700	commit: fixbug3
+877b1b7878afa3f7174522b4e03d6de0ed3b1d71 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 huydang-sgt <huydq.sgt@gmail.com> 1652720874 +0700	checkout: moving from feature/issue_74-huydq-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 877b1b7878afa3f7174522b4e03d6de0ed3b1d71 huydang-sgt <huydq.sgt@gmail.com> 1652720879 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_74-huydq-exercise
+877b1b7878afa3f7174522b4e03d6de0ed3b1d71 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 huydang-sgt <huydq.sgt@gmail.com> 1652720886 +0700	checkout: moving from feature/issue_74-huydq-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 877b1b7878afa3f7174522b4e03d6de0ed3b1d71 huydang-sgt <huydq.sgt@gmail.com> 1652720895 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_74-huydq-exercise
+877b1b7878afa3f7174522b4e03d6de0ed3b1d71 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (start): checkout feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 839ed155689b2f69254b06c919b9c1d95562b190 huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (pick): Coding Unit Test
+839ed155689b2f69254b06c919b9c1d95562b190 ed92341edbeacda7c9e437e287ad75ce2a7dd959 huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (pick): Remove file unit test
+ed92341edbeacda7c9e437e287ad75ce2a7dd959 66eec0525db1460818e97e6678eea2cec14dac4a huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (pick): Coding Unit Test
+66eec0525db1460818e97e6678eea2cec14dac4a 3355d411b44e4316864497aae853783fd066b394 huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (pick): fixbug1
+3355d411b44e4316864497aae853783fd066b394 9445d7ed6b4daee98c64a5ee4e35fd9429131e55 huydang-sgt <huydq.sgt@gmail.com> 1652721001 +0700	rebase (pick): fixbug2
+9445d7ed6b4daee98c64a5ee4e35fd9429131e55 d4435a18c51206e415ba280fc3b8a1d8980bec73 huydang-sgt <huydq.sgt@gmail.com> 1652721002 +0700	rebase (pick): fixbug3
+d4435a18c51206e415ba280fc3b8a1d8980bec73 d4435a18c51206e415ba280fc3b8a1d8980bec73 huydang-sgt <huydq.sgt@gmail.com> 1652721002 +0700	rebase (finish): returning to refs/heads/feature/issue_74-huydq-exercise
+d4435a18c51206e415ba280fc3b8a1d8980bec73 3355d411b44e4316864497aae853783fd066b394 huydang-sgt <huydq.sgt@gmail.com> 1652721378 +0700	rebase (start): checkout 3355d411b44e4316864497aae853783fd066b394^
+3355d411b44e4316864497aae853783fd066b394 e39a49fec0de94e4ad67516263a6a5afb337276a huydang-sgt <huydq.sgt@gmail.com> 1652721378 +0700	rebase (squash): # This is a combination of 2 commits.
+e39a49fec0de94e4ad67516263a6a5afb337276a 9cf3d1288fc0563195c1e1b5a6e84183e1a34bc0 huydang-sgt <huydq.sgt@gmail.com> 1652721378 +0700	rebase (squash): Fixbug
+9cf3d1288fc0563195c1e1b5a6e84183e1a34bc0 9cf3d1288fc0563195c1e1b5a6e84183e1a34bc0 huydang-sgt <huydq.sgt@gmail.com> 1652721378 +0700	rebase (finish): returning to refs/heads/feature/issue_74-huydq-exercise
+9cf3d1288fc0563195c1e1b5a6e84183e1a34bc0 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huydang-sgt <huydq.sgt@gmail.com> 1652721472 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 96f244723ad7fa162ac5a23eac93242642b03d2f huydang-sgt <huydq.sgt@gmail.com> 1652721472 +0700	rebase (pick): Update README.md
+96f244723ad7fa162ac5a23eac93242642b03d2f 0b0f06d8ce8e236dfb8523c69e0723790bd6f43a huydang-sgt <huydq.sgt@gmail.com> 1652721472 +0700	rebase (pick): #00 list screen
+0b0f06d8ce8e236dfb8523c69e0723790bd6f43a cf655a2b5ca443cf2b0f0b1cf8a35363b86e2378 huydang-sgt <huydq.sgt@gmail.com> 1652721472 +0700	rebase (pick): Coding Unit Test
+cf655a2b5ca443cf2b0f0b1cf8a35363b86e2378 43c1086210b2ad11755d4cd685c080bcde4afca1 huydang-sgt <huydq.sgt@gmail.com> 1652721472 +0700	rebase (pick): Remove file unit test
+43c1086210b2ad11755d4cd685c080bcde4afca1 baf927a8e8ee32f1312747046c274bdb87dc0e39 huydang-sgt <huydq.sgt@gmail.com> 1652721743 +0700	rebase (continue): Coding Unit Test
+baf927a8e8ee32f1312747046c274bdb87dc0e39 cb18c5cb1ebdc69ee53bcd23824de74da731eee0 huydang-sgt <huydq.sgt@gmail.com> 1652721743 +0700	rebase (continue) (pick): Fixbug
+cb18c5cb1ebdc69ee53bcd23824de74da731eee0 cb18c5cb1ebdc69ee53bcd23824de74da731eee0 huydang-sgt <huydq.sgt@gmail.com> 1652721743 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_74-huydq-exercise
+cb18c5cb1ebdc69ee53bcd23824de74da731eee0 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 huydang-sgt <huydq.sgt@gmail.com> 1652721966 +0700	checkout: moving from feature/issue_74-huydq-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 huydang-sgt <huydq.sgt@gmail.com> 1652721996 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 cb18c5cb1ebdc69ee53bcd23824de74da731eee0 huydang-sgt <huydq.sgt@gmail.com> 1652722008 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_74-huydq-exercise
+cb18c5cb1ebdc69ee53bcd23824de74da731eee0 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 huydang-sgt <huydq.sgt@gmail.com> 1652722061 +0700	checkout: moving from feature/issue_74-huydq-exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 6b1acda70d228f91b353a7ad3bbb7c8a460ef771 huydang-sgt <huydq.sgt@gmail.com> 1652722062 +0700	cherry-pick: #00 Register screen
+6b1acda70d228f91b353a7ad3bbb7c8a460ef771 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 huydang-sgt <huydq.sgt@gmail.com> 1652722099 +0700	reset: moving to 79eda46f26abb1ddd401ef62588dda2e6bcc1a69
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 cb18c5cb1ebdc69ee53bcd23824de74da731eee0 huydang-sgt <huydq.sgt@gmail.com> 1652722142 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_74-huydq-exercise
+cb18c5cb1ebdc69ee53bcd23824de74da731eee0 ca2be8db1d49f5cf07b87d7e8d04ac555bc28205 huydang-sgt <huydq.sgt@gmail.com> 1652722143 +0700	cherry-pick: #00 Add new screen register 2
