@@ -1,0 +1,65 @@
+commit 8a44502f887ef53e23c8d0b8b98aa0001e301c4c (HEAD -> feature/issue_77-mauduc-exercise, origin/feature/issue_77-mauduc-exercise)
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 16:40:03 2019 +0700
+
+    #00 list screen
+
+commit 8bae99886f16d873e7ce44e3d1a8007d8f7aa996
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Mon May 23 14:06:23 2022 +0700
+
+    Fix bug
+
+commit a2ccd24714be424bccb16b51b036dbab7a4c6410
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Mon May 23 13:47:30 2022 +0700
+
+    mauduc Coding Unit Test and Functional Test
+
+commit 0477f4b1a00114b384d72344111af2fb55e24b1b
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Mon May 23 13:46:28 2022 +0700
+
+    Coding Process
+
+commit f65fd400d3142e639389d9216ef189cf93279a42
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Mon May 23 13:42:57 2022 +0700
+
+    Coding UI
+
+commit be16185446a954bd5cf5716f76337bf96d0bff11
+Author: huydang-sgt <huydq.sgt@gmail.com>
+Date:   Mon May 16 23:53:03 2022 +0700
+
+    Remove file unit test
+
+commit 6f04e802e1793ec9447b4b5622e0b6bb07c5d9cd
+Author: huydang-sgt <105618066+huydang-sgt@users.noreply.github.com>
+Date:   Mon May 16 16:43:24 2022 +0700
+
+    Coding Unit Test
+
+commit c8cc52fd6b5ed38804ddc3399418ce7231b6d51c
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Thu Jun 6 10:12:24 2019 +0700
+
+    Update README.md
+
+commit 5a591b82e43fa6066b8109358757ad0253fca6f2
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:40:03 2019 +0700
+
+    #00 Register screen
+
+commit 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 (origin/feature/issue_00-Update-Register-Screen, feature/issue_00-Update-Register-Screen)
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:44:07 2019 +0700
+
+    #00 Add new screen register 2
+
+commit 5f049530f8a86e5a9b54045bfc78d5ad622a68d6
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Wed May 15 17:02:58 2019 +0700
+
+    Initial commit
