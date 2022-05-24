@@ -1,0 +1,61 @@
+Author: ThanhTo <totuanthanh1997@gmail.com>
+Date:   Tue May 24 14:11:08 2022 +0700
+
+    update
+
+commit d7900e7b0d81d2786a4dd56d2e985037ad07f985
+Author: ThanhTo <totuanthanh1997@gmail.com>
+Date:   Tue May 24 13:16:48 2022 +0700
+
+    Fix Bug 1
+
+    Fix Bug 2
+
+    Fix Bug 3
+
+    Fix Bug 3
+
+commit b30c1095d8049d4ea29ebc11fd3274a61d17348e
+Author: ThanhTo <totuanthanh1997@gmail.com>
+Date:   Tue May 24 11:50:25 2022 +0700
+
+    Tuan Thanh Coding Unit Test and Functional Test
+
+commit 13805e7c89adc28c2d17535543a434fd3c011943
+Author: ThanhTo <totuanthanh1997@gmail.com>
+Date:   Tue May 24 11:49:03 2022 +0700
+
+    Coding Process
+
+commit 2a80c26532fd083491f57ea17a1ca2a62aff5cac
+Author: ThanhTo <totuanthanh1997@gmail.com>
+Date:   Tue May 24 11:46:18 2022 +0700
+
+    Coding UI
+
+commit a3c70ea96bdec0d8c5664f49aa9bb63d13122727
+Author: daothanhtien <dttien.sgt@gmail.com>
+Author: daothanhtien <dttien.sgt@gmail.com>
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 16:40:03 2019 +0700
+
+    #00 list screen
+
+commit 653027ed0a3cc6e8ed18843331d208c19c388015
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Thu Jun 6 10:12:24 2019 +0700
+
+    Update README.md
+
+commit 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 (origin/feature/issue_00-Update-Register-Screen, feature/issue_00-Update-Register-Screen)
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:44:07 2019 +0700
+
+    #00 Add new screen register 2
+
+commit 5f049530f8a86e5a9b54045bfc78d5ad622a68d6
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Wed May 15 17:02:58 2019 +0700
+
+    Initial commit
+(END)
