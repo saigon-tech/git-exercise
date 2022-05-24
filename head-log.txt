@@ -1,0 +1,53 @@
+commit ad7aa4d984d3468b1b32e6ce529061cc4bdcc310 (HEAD -> feature/issue_81-mauduc-exercise, origin/feature/issue_81-mauduc-exercise)
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Tue May 24 10:34:46 2022 +0700
+
+    conflict
+
+commit e12467ca2c5ec39c0201f853436a84c646c912e9
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Tue May 24 10:27:20 2022 +0700
+
+    Fix bug
+
+commit 802cd5b44dcf38e0bf2dc300e58586bc543e0e05
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Tue May 24 10:24:38 2022 +0700
+
+    mauduc Coding Unit Test and Functional Test
+
+commit 9ca39ffdd06e7a5e57ddc780b04c26ef027684fc
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Tue May 24 10:23:51 2022 +0700
+
+    Coding Process
+
+commit 3e63c27959086c972202425eefad3f40722a37b2
+Author: Nguyễn Mậu Đức <mauduc.sgt@gmail.com>
+Date:   Tue May 24 10:22:45 2022 +0700
+
+    Coding UI
+
+commit 72f34e74dbb64f2819f19094aa5c79794031694c
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 16:40:03 2019 +0700
+
+    #00 list screen
+
+commit 17ce1d83e4b79914f1df410eec16cbcb73124a95
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Thu Jun 6 10:12:24 2019 +0700
+
+    Update README.md
+
+commit 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 (origin/feature/issue_00-Update-Register-Screen, feature/issue_00-Update-Register-Screen)
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:44:07 2019 +0700
+
+    #00 Add new screen register 2
+
+commit 5f049530f8a86e5a9b54045bfc78d5ad622a68d6
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Wed May 15 17:02:58 2019 +0700
+
+    Initial commit
