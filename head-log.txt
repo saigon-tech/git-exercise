@@ -1,0 +1,53 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 WingHaa <quanlm24@gmail.com> 1681216806 +0700	clone: from github.com:saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 WingHaa <quanlm24@gmail.com> 1681218385 +0700	checkout: moving from master to feature/issue_89-quanlm-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 WingHaa <quanlm24@gmail.com> 1681218553 +0700	checkout: moving from feature/issue_89-quanlm-exercise to master
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 WingHaa <quanlm24@gmail.com> 1681218656 +0700	checkout: moving from master to feature/issue_89-quanlmsgt-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 aa11d0eb2ff18258c649b90841d7981f94017522 WingHaa <quanlm24@gmail.com> 1681219059 +0700	commit: #89 Coding UI
+aa11d0eb2ff18258c649b90841d7981f94017522 0f2a2cfd2d3050477de0e17b93af9e9af41b2f34 WingHaa <quanlm24@gmail.com> 1681219118 +0700	commit: #89 Coding Process
+0f2a2cfd2d3050477de0e17b93af9e9af41b2f34 f3684d60377b36f65cd12fbd415bb02295e486f2 WingHaa <quanlm24@gmail.com> 1681219136 +0700	commit: #89 Coding Unit Test
+f3684d60377b36f65cd12fbd415bb02295e486f2 b693b1ce37c5ce5fe2ec732e64783eb48e091197 quanlm <quanlm24@gmail.com> 1681220682 +0700	commit (amend): quanlm Coding Unit Test and Functional Test
+b693b1ce37c5ce5fe2ec732e64783eb48e091197 be9d64a316a84d1214bf88d5283705bee9806573 quanlm <quanlm24@gmail.com> 1681220941 +0700	commit: #89 Fix bug 1
+be9d64a316a84d1214bf88d5283705bee9806573 fd9e082d1b41231822e1075a9ce449203e6355ad quanlm <quanlm24@gmail.com> 1681221053 +0700	pull: Merge made by the 'ort' strategy.
+fd9e082d1b41231822e1075a9ce449203e6355ad a60a77fa142c337c4e5ecae6a5740244bd13c94c quanlm <quanlm24@gmail.com> 1681221971 +0700	commit: #89 Fix bug 2
+a60a77fa142c337c4e5ecae6a5740244bd13c94c 0da239747119c9bdbc10db8af4bd108df6101355 quanlm <quanlm24@gmail.com> 1681222600 +0700	checkout: moving from feature/issue_89-quanlmsgt-exercise to master
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 quanlm <quanlm24@gmail.com> 1681223010 +0700	checkout: moving from master to feature/issue_90-quanlm.sgt-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 f7bb86bb62fdb4cdef6bd9e6ec3dc8b4855173fd quanlm <quanlm24@gmail.com> 1681223149 +0700	commit: Coding UI
+f7bb86bb62fdb4cdef6bd9e6ec3dc8b4855173fd 84f7c355a8d1531a224ea848dc0e6c5f8aa1c73d quanlm <quanlm24@gmail.com> 1681223165 +0700	commit: Coding Process
+84f7c355a8d1531a224ea848dc0e6c5f8aa1c73d a1b608e177399872e642f557cedce1df8dd8bcfd quanlm <quanlm24@gmail.com> 1681223190 +0700	commit: Coding Unit Test
+a1b608e177399872e642f557cedce1df8dd8bcfd 284aa68d1fd49a9c9ba67fab94d6ef32dce31de1 quanlm <quanlm24@gmail.com> 1681223257 +0700	commit (amend): quanlm Coding Unit Test and Functional Test
+284aa68d1fd49a9c9ba67fab94d6ef32dce31de1 979fb3878f9142c1c4e190da42e4717b29d60903 quanlm <quanlm24@gmail.com> 1681223912 +0700	commit: #90 Fix bug 1
+979fb3878f9142c1c4e190da42e4717b29d60903 1c9ca46d8c1af2ca6f41b2df7c725bb026c1c271 quanlm <quanlm24@gmail.com> 1681223993 +0700	commit: #90 Fix bug 2
+1c9ca46d8c1af2ca6f41b2df7c725bb026c1c271 22cfdd3393d35928455e6822da8d4aaa7919c2a2 quanlm <quanlm24@gmail.com> 1681224035 +0700	commit: #90 Fix bug 3
+22cfdd3393d35928455e6822da8d4aaa7919c2a2 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quanlm <quanlm24@gmail.com> 1681224592 +0700	checkout: moving from feature/issue_90-quanlm.sgt-exercise to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 22cfdd3393d35928455e6822da8d4aaa7919c2a2 quanlm <quanlm24@gmail.com> 1681224626 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_90-quanlm.sgt-exercise
+22cfdd3393d35928455e6822da8d4aaa7919c2a2 498f12ae65736fa253622e41a8fa0382069d0e3b quanlm <quanlm24@gmail.com> 1681224787 +0700	commit: Add list of command used till task 5
+498f12ae65736fa253622e41a8fa0382069d0e3b ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (start): checkout feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 fe817bae79f80787b3fb4ded952b0e86d704aff5 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): Coding UI
+fe817bae79f80787b3fb4ded952b0e86d704aff5 f797751a00515bd5b15734bff78644b5f7971282 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): Coding Process
+f797751a00515bd5b15734bff78644b5f7971282 3ca991435774356c7daee71139aa23b5d51127d9 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): quanlm Coding Unit Test and Functional Test
+3ca991435774356c7daee71139aa23b5d51127d9 68692f2fad1fd451de91812c5f5d4a1a5d6fdee9 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): #90 Fix bug 1
+68692f2fad1fd451de91812c5f5d4a1a5d6fdee9 306efe3a80ac19f860d0bdf8d94e687df99635d4 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): #90 Fix bug 2
+306efe3a80ac19f860d0bdf8d94e687df99635d4 c086d78ba21a8361a04cbee87300aa74364678b2 quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): #90 Fix bug 3
+c086d78ba21a8361a04cbee87300aa74364678b2 a37fe7783b412652869e81e52304f19d0cfde89e quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (pick): Add list of command used till task 5
+a37fe7783b412652869e81e52304f19d0cfde89e a37fe7783b412652869e81e52304f19d0cfde89e quanlm <quanlm24@gmail.com> 1681224805 +0700	rebase (finish): returning to refs/heads/feature/issue_90-quanlm.sgt-exercise
+a37fe7783b412652869e81e52304f19d0cfde89e 68692f2fad1fd451de91812c5f5d4a1a5d6fdee9 quanlm <quanlm24@gmail.com> 1681225219 +0700	rebase (start): checkout HEAD~4
+68692f2fad1fd451de91812c5f5d4a1a5d6fdee9 db895e3e672ce19f4cb473982a44b635106bdc34 quanlm <quanlm24@gmail.com> 1681225219 +0700	rebase (squash): # This is a combination of 2 commits.
+db895e3e672ce19f4cb473982a44b635106bdc34 8b36524d3909e18437e6572587f7f29723384bdf quanlm <quanlm24@gmail.com> 1681225219 +0700	rebase (squash): Fix bug
+8b36524d3909e18437e6572587f7f29723384bdf c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 quanlm <quanlm24@gmail.com> 1681225288 +0700	rebase (pick): Add list of command used till task 5
+c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 quanlm <quanlm24@gmail.com> 1681225288 +0700	rebase (finish): returning to refs/heads/feature/issue_90-quanlm.sgt-exercise
+c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 quanlm <quanlm24@gmail.com> 1681225388 +0700	checkout: moving from feature/issue_90-quanlm.sgt-exercise to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 quanlm <quanlm24@gmail.com> 1681225397 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_90-quanlm.sgt-exercise
+c605c5338fccaeaeb2adccdfe2e7dc00889f9bd1 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 quanlm <quanlm24@gmail.com> 1681225413 +0700	rebase (start): checkout feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 d1305924b3daad03a414b7debcfab71c103a1ebc quanlm <quanlm24@gmail.com> 1681225413 +0700	rebase (pick): Update README.md
+d1305924b3daad03a414b7debcfab71c103a1ebc a47227a314179fc52b132a7a327504f476d8a835 quanlm <quanlm24@gmail.com> 1681225413 +0700	rebase (pick): #00 list screen
+a47227a314179fc52b132a7a327504f476d8a835 2fc8f97ac6b63d51401ba4b13f77a5d586a72e8a quanlm <quanlm24@gmail.com> 1681225552 +0700	rebase (continue): Coding UI
+2fc8f97ac6b63d51401ba4b13f77a5d586a72e8a 8bd037c6ae09e9003e0bec36ee559ddbe7aef5a6 quanlm <quanlm24@gmail.com> 1681225563 +0700	rebase (continue) (pick): Coding Process
+8bd037c6ae09e9003e0bec36ee559ddbe7aef5a6 da77eb2b1f5a0da194b9e5f32a309effc78abf45 quanlm <quanlm24@gmail.com> 1681225563 +0700	rebase (continue) (pick): quanlm Coding Unit Test and Functional Test
+da77eb2b1f5a0da194b9e5f32a309effc78abf45 33fa3c9ba584a2d8514244a64b6c17ec7be444e6 quanlm <quanlm24@gmail.com> 1681225563 +0700	rebase (continue) (pick): Fix bug
+33fa3c9ba584a2d8514244a64b6c17ec7be444e6 1c027f03137d739607d65dadc4156ca5d7e39238 quanlm <quanlm24@gmail.com> 1681225563 +0700	rebase (continue) (pick): Add list of command used till task 5
+1c027f03137d739607d65dadc4156ca5d7e39238 1c027f03137d739607d65dadc4156ca5d7e39238 quanlm <quanlm24@gmail.com> 1681225563 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_90-quanlm.sgt-exercise
+1c027f03137d739607d65dadc4156ca5d7e39238 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 quanlm <quanlm24@gmail.com> 1681225758 +0700	checkout: moving from feature/issue_90-quanlm.sgt-exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 1c027f03137d739607d65dadc4156ca5d7e39238 quanlm <quanlm24@gmail.com> 1681225763 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_90-quanlm.sgt-exercise
+1c027f03137d739607d65dadc4156ca5d7e39238 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 quanlm <quanlm24@gmail.com> 1681225829 +0700	checkout: moving from feature/issue_90-quanlm.sgt-exercise to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 1c027f03137d739607d65dadc4156ca5d7e39238 quanlm <quanlm24@gmail.com> 1681225878 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_90-quanlm.sgt-exercise
+1c027f03137d739607d65dadc4156ca5d7e39238 482aeb4c38ab384b3d7c3bfd2eee97cdacb9e473 quanlm <quanlm24@gmail.com> 1681225915 +0700	cherry-pick: #00 Add new screen register 2
