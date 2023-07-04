@@ -1,0 +1,9 @@
+9121e40c36feb8dfd12259b90c783be8c4b00d33 daothanhtien Fri May 31 17:44:07 2019 +0700 #00 Add new screen register 2
+55e8e7c6218f8e7b102647eefe1f0a009368c09e phthanh.stg Tue Jul 4 13:05:28 2023 +0700 Fix bug
+e4266cf96d733d30735216e9d62e9c0861ab4e49 phthanh.stg Tue Jul 4 11:30:23 2023 +0700 Thanh Coding Unit Test and Functional Test
+90d9ed61fac202275e75e9ce52f7102588bd7b2e phthanh.stg Tue Jul 4 11:29:54 2023 +0700 Coding Process
+f84d7765ddb6e1df2cef9b56ac0fd8dd7e76c778 phthanh.stg Tue Jul 4 14:22:04 2023 +0700 resolve conflict rebase feature/issue_00_Register-Screen
+c674f96739b7ebe4b70537a8cc86e7d31fccacf7 daothanhtien Fri May 31 16:40:03 2019 +0700 #00 list screen
+152b61a5a75c26ad60357aee1ff7066a2f36c6fa daothanhtien Thu Jun 6 10:12:24 2019 +0700 Update README.md
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 daothanhtien Fri May 31 17:40:03 2019 +0700 #00 Register screen
+5f049530f8a86e5a9b54045bfc78d5ad622a68d6 daothanhtien Wed May 15 17:02:58 2019 +0700 Initial commit
