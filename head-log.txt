@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 vinhhc97 <vinh.hc97@gmail.com> 1689585847 +0700	clone: from github.com:saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 vinhhc97 <vinh.hc97@gmail.com> 1689585933 +0700	checkout: moving from master to feature/issue_94-vinh.hc97
+0da239747119c9bdbc10db8af4bd108df6101355 fc0ad27b79f05e6a9f327b89720f9a210b7539d4 vinhhc97 <vinh.hc97@gmail.com> 1689586065 +0700	commit: #94 Coding UI
+fc0ad27b79f05e6a9f327b89720f9a210b7539d4 0da239747119c9bdbc10db8af4bd108df6101355 vinhhc97 <vinh.hc97@gmail.com> 1689586946 +0700	reset: moving to 0da239747119c9bdbc10db8af4bd108df6101355
+0da239747119c9bdbc10db8af4bd108df6101355 10772f84972b0808cac626df3e2abc75272bc0d4 vinhhc97 <vinh.hc97@gmail.com> 1689587293 +0700	commit: #94 Coding UI
+10772f84972b0808cac626df3e2abc75272bc0d4 2128ce26d38ded0af82abc047c57fe6cbd43744a vinhhc97 <vinh.hc97@gmail.com> 1689587663 +0700	commit: #94 Coding UI
+2128ce26d38ded0af82abc047c57fe6cbd43744a e860e2b59214c1880f78e3ee840b8209d507bfae vinhhc97 <vinh.hc97@gmail.com> 1689587827 +0700	commit: #94 Coding Process
+e860e2b59214c1880f78e3ee840b8209d507bfae 3e47c4e1250956cb29273fad130569698e6c41da vinhhc97 <vinh.hc97@gmail.com> 1689588343 +0700	commit: #94 Coding Unit Test
+3e47c4e1250956cb29273fad130569698e6c41da 8de9579664384d52eda3536405647800145da040 vinhhc97 <vinh.hc97@gmail.com> 1689590757 +0700	commit (amend): Vinh Hoang Coding Unit Test and Functional Test
+8de9579664384d52eda3536405647800145da040 92daef0d4577e00e4678e7e4071f498bd4ef7f19 vinhhc97 <vinh.hc97@gmail.com> 1689590928 +0700	commit (amend): 94 Hoang Coding Unit Test and Functional Test
+92daef0d4577e00e4678e7e4071f498bd4ef7f19 80023cf4f7e155d63533fd3a083257b014d92ad0 vinhhc97 <vinh.hc97@gmail.com> 1689591274 +0700	commit (amend): /#94 Vinh Hoang Coding Unit Test and Functional Test
+80023cf4f7e155d63533fd3a083257b014d92ad0 9145efdfca384ee4e145b4cfdd515ab83ae665db vinhhc97 <vinh.hc97@gmail.com> 1689591357 +0700	commit (amend): Vinh Hoang Coding Unit Test and Functional Test
+9145efdfca384ee4e145b4cfdd515ab83ae665db 66cf07c9e64c17edf838de04010d6923428e2b4f vinhhc97 <vinh.hc97@gmail.com> 1689646848 +0700	commit: #94 Fix bug 1
+66cf07c9e64c17edf838de04010d6923428e2b4f d04de6dcb3879d9e386f2de34ee7c930ef0c15d2 vinhhc97 <vinh.hc97@gmail.com> 1689646997 +0700	commit: #94 Fix bug 2
+d04de6dcb3879d9e386f2de34ee7c930ef0c15d2 2fbdfa496fc44546f78447341950ec0a171ea410 vinhhc97 <vinh.hc97@gmail.com> 1689647056 +0700	commit: #94 Fix bug 3
+2fbdfa496fc44546f78447341950ec0a171ea410 0da239747119c9bdbc10db8af4bd108df6101355 vinhhc97 <vinh.hc97@gmail.com> 1689653004 +0700	checkout: moving from feature/issue_94-vinh.hc97 to master
+0da239747119c9bdbc10db8af4bd108df6101355 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 vinhhc97 <vinh.hc97@gmail.com> 1689653046 +0700	checkout: moving from master to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 2fbdfa496fc44546f78447341950ec0a171ea410 vinhhc97 <vinh.hc97@gmail.com> 1689653453 +0700	rebase (start): checkout feature/issue_94-vinh.hc97
+2fbdfa496fc44546f78447341950ec0a171ea410 4dd188c6ff80d939fcae3a8146257b1b1da5c3db vinhhc97 <vinh.hc97@gmail.com> 1689653453 +0700	rebase (pick): #00 list screen
+4dd188c6ff80d939fcae3a8146257b1b1da5c3db 4dd188c6ff80d939fcae3a8146257b1b1da5c3db vinhhc97 <vinh.hc97@gmail.com> 1689653453 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+4dd188c6ff80d939fcae3a8146257b1b1da5c3db 0da239747119c9bdbc10db8af4bd108df6101355 vinhhc97 <vinh.hc97@gmail.com> 1689654638 +0700	checkout: moving from feature/issue_00-List-Screen to master
+0da239747119c9bdbc10db8af4bd108df6101355 2fbdfa496fc44546f78447341950ec0a171ea410 vinhhc97 <vinh.hc97@gmail.com> 1689654703 +0700	checkout: moving from master to feature/issue_94-vinh.hc97
+2fbdfa496fc44546f78447341950ec0a171ea410 66cf07c9e64c17edf838de04010d6923428e2b4f vinhhc97 <vinh.hc97@gmail.com> 1689655054 +0700	rebase (start): checkout HEAD~3
+66cf07c9e64c17edf838de04010d6923428e2b4f 15ba67573a36e17e9da97c1551520b886efb8d8f vinhhc97 <vinh.hc97@gmail.com> 1689655054 +0700	rebase (squash): # This is a combination of 2 commits.
+15ba67573a36e17e9da97c1551520b886efb8d8f 3cb3b8ddc6faeff3b499f3b16f5d8000ec2e2c3a vinhhc97 <vinh.hc97@gmail.com> 1689655698 +0700	rebase (continue): Fix bug
+3cb3b8ddc6faeff3b499f3b16f5d8000ec2e2c3a 3cb3b8ddc6faeff3b499f3b16f5d8000ec2e2c3a vinhhc97 <vinh.hc97@gmail.com> 1689655742 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_94-vinh.hc97
+3cb3b8ddc6faeff3b499f3b16f5d8000ec2e2c3a 724dcc2c39012c5d129326db754f9ad5aabdda0b vinhhc97 <vinh.hc97@gmail.com> 1689660180 +0700	commit (amend): "#94 Fix bug"
+724dcc2c39012c5d129326db754f9ad5aabdda0b f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 vinhhc97 <vinh.hc97@gmail.com> 1689660902 +0700	checkout: moving from feature/issue_94-vinh.hc97 to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 724dcc2c39012c5d129326db754f9ad5aabdda0b vinhhc97 <vinh.hc97@gmail.com> 1689660945 +0700	rebase (start): checkout feature/issue_94-vinh.hc97
+724dcc2c39012c5d129326db754f9ad5aabdda0b 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689661772 +0700	rebase (continue): Handlding conflict completed
+3f93ba891dcc6d05187c8e815481db68d4c9817b 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689661859 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_00_Register-Screen
+3f93ba891dcc6d05187c8e815481db68d4c9817b 724dcc2c39012c5d129326db754f9ad5aabdda0b vinhhc97 <vinh.hc97@gmail.com> 1689662071 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_94-vinh.hc97
+724dcc2c39012c5d129326db754f9ad5aabdda0b 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689662127 +0700	checkout: moving from feature/issue_94-vinh.hc97 to feature/issue_00_Register-Screen
+3f93ba891dcc6d05187c8e815481db68d4c9817b 724dcc2c39012c5d129326db754f9ad5aabdda0b vinhhc97 <vinh.hc97@gmail.com> 1689662642 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_94-vinh.hc97
+724dcc2c39012c5d129326db754f9ad5aabdda0b 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689662677 +0700	checkout: moving from feature/issue_94-vinh.hc97 to feature/issue_00_Register-Screen
+3f93ba891dcc6d05187c8e815481db68d4c9817b 724dcc2c39012c5d129326db754f9ad5aabdda0b vinhhc97 <vinh.hc97@gmail.com> 1689663069 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_94-vinh.hc97
+724dcc2c39012c5d129326db754f9ad5aabdda0b 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689663107 +0700	merge feature/issue_00_Register-Screen: Fast-forward
+3f93ba891dcc6d05187c8e815481db68d4c9817b 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 vinhhc97 <vinh.hc97@gmail.com> 1689663500 +0700	checkout: moving from feature/issue_94-vinh.hc97 to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 vinhhc97 <vinh.hc97@gmail.com> 1689663575 +0700	reset: moving to 79eda46f26abb1ddd401ef62588dda2e6bcc1a69
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 3f93ba891dcc6d05187c8e815481db68d4c9817b vinhhc97 <vinh.hc97@gmail.com> 1689663595 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_94-vinh.hc97
+3f93ba891dcc6d05187c8e815481db68d4c9817b 06be3c498d13afbff8736ef99145af62d32d9fbb vinhhc97 <vinh.hc97@gmail.com> 1689663604 +0700	cherry-pick: #00 Add new screen register 2
