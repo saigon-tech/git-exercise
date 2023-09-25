@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 nhan_sgtech <nhnhan.sgt@gmail.com> 1695627750 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 nhan_sgtech <nhnhan.sgt@gmail.com> 1695627822 +0700	checkout: moving from master to feature/issue_96-nhnhan.sgt
+0da239747119c9bdbc10db8af4bd108df6101355 bdc7eb1db4be7701d78e60299ce188e523865344 nhan_sgtech <nhnhan.sgt@gmail.com> 1695627868 +0700	commit: #96 Coding UI
+bdc7eb1db4be7701d78e60299ce188e523865344 65bf399b3d8e3f592d7de44721a77485af6566cc nhan_sgtech <nhnhan.sgt@gmail.com> 1695627893 +0700	commit: #96 Coding Process
+65bf399b3d8e3f592d7de44721a77485af6566cc 8f5c80ae4ec7a0abc688a462b4d29a9c0dd1cca5 nhan_sgtech <nhnhan.sgt@gmail.com> 1695627917 +0700	commit: #96 Coding Unit Test
+8f5c80ae4ec7a0abc688a462b4d29a9c0dd1cca5 c07dc079a6da8c41d8a68ba4ab2cb6346334b164 nhan_sgtech <nhnhan.sgt@gmail.com> 1695628186 +0700	commit (amend): nhnhan.sgt Coding Unit Test and Functional Test
+c07dc079a6da8c41d8a68ba4ab2cb6346334b164 be485367b5dd43c2146674d77ce7e908d2b26d2e nhan_sgtech <nhnhan.sgt@gmail.com> 1695628347 +0700	commit: #96 Fix bug 1
+be485367b5dd43c2146674d77ce7e908d2b26d2e cbc4ac624ff458ef8812ea4ff297861660c7e0a4 nhan_sgtech <nhnhan.sgt@gmail.com> 1695628361 +0700	commit: #96 Fix bug 2
+cbc4ac624ff458ef8812ea4ff297861660c7e0a4 c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 nhan_sgtech <nhnhan.sgt@gmail.com> 1695628379 +0700	commit: #96 Fix bug 3
+c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629098 +0700	checkout: moving from feature/issue_96-nhnhan.sgt to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629177 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_96-nhnhan.sgt
+c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629200 +0700	checkout: moving from feature/issue_96-nhnhan.sgt to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629230 +0700	rebase (start): checkout feature/issue_96-nhnhan.sgt
+c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 5f120c569ba96f637c8aa9c86c5602a934cef544 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629230 +0700	rebase (pick): #00 list screen
+5f120c569ba96f637c8aa9c86c5602a934cef544 5f120c569ba96f637c8aa9c86c5602a934cef544 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629230 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+5f120c569ba96f637c8aa9c86c5602a934cef544 c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629685 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_96-nhnhan.sgt
+c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 5f120c569ba96f637c8aa9c86c5602a934cef544 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629694 +0700	checkout: moving from feature/issue_96-nhnhan.sgt to feature/issue_00-List-Screen
+5f120c569ba96f637c8aa9c86c5602a934cef544 c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629831 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_96-nhnhan.sgt
+c1c95db431aa7ae1a43617a9e8a486e0d0e03e29 be485367b5dd43c2146674d77ce7e908d2b26d2e nhan_sgtech <nhnhan.sgt@gmail.com> 1695629963 +0700	rebase (start): checkout HEAD~3
+be485367b5dd43c2146674d77ce7e908d2b26d2e 9eeaa66b07639478d671ca03ab53a51f6811a193 nhan_sgtech <nhnhan.sgt@gmail.com> 1695629963 +0700	rebase (squash): # This is a combination of 2 commits.
+9eeaa66b07639478d671ca03ab53a51f6811a193 798437344301cc7e774878ab4cb18982ebdf66b3 nhan_sgtech <nhnhan.sgt@gmail.com> 1695630132 +0700	rebase (continue): Fix bug
+798437344301cc7e774878ab4cb18982ebdf66b3 798437344301cc7e774878ab4cb18982ebdf66b3 nhan_sgtech <nhnhan.sgt@gmail.com> 1695630349 +0700	rebase (finish): returning to refs/heads/feature/issue_96-nhnhan.sgt
+798437344301cc7e774878ab4cb18982ebdf66b3 5f120c569ba96f637c8aa9c86c5602a934cef544 nhan_sgtech <nhnhan.sgt@gmail.com> 1695630434 +0700	checkout: moving from feature/issue_96-nhnhan.sgt to feature/issue_00-List-Screen
+5f120c569ba96f637c8aa9c86c5602a934cef544 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 nhan_sgtech <nhnhan.sgt@gmail.com> 1695630469 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 798437344301cc7e774878ab4cb18982ebdf66b3 nhan_sgtech <nhnhan.sgt@gmail.com> 1695630949 +0700	rebase (start): checkout feature/issue_96-nhnhan.sgt
+798437344301cc7e774878ab4cb18982ebdf66b3 b0c349e65433a1f471eb6d0ef14e4f6b7e442afe nhan_sgtech <nhnhan.sgt@gmail.com> 1695630977 +0700	rebase (continue): Step8: Handle conflict rebase branch feature/issue_00_Register-Screen
+b0c349e65433a1f471eb6d0ef14e4f6b7e442afe b0c349e65433a1f471eb6d0ef14e4f6b7e442afe nhan_sgtech <nhnhan.sgt@gmail.com> 1695631033 +0700	rebase (finish): returning to refs/heads/feature/issue_00_Register-Screen
+b0c349e65433a1f471eb6d0ef14e4f6b7e442afe 798437344301cc7e774878ab4cb18982ebdf66b3 nhan_sgtech <nhnhan.sgt@gmail.com> 1695631128 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_96-nhnhan.sgt
+798437344301cc7e774878ab4cb18982ebdf66b3 5f120c569ba96f637c8aa9c86c5602a934cef544 nhan_sgtech <nhnhan.sgt@gmail.com> 1695631225 +0700	checkout: moving from feature/issue_96-nhnhan.sgt to feature/issue_00-List-Screen
+5f120c569ba96f637c8aa9c86c5602a934cef544 b0c349e65433a1f471eb6d0ef14e4f6b7e442afe nhan_sgtech <nhnhan.sgt@gmail.com> 1695631237 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_00_Register-Screen
+b0c349e65433a1f471eb6d0ef14e4f6b7e442afe 798437344301cc7e774878ab4cb18982ebdf66b3 nhan_sgtech <nhnhan.sgt@gmail.com> 1695631265 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_96-nhnhan.sgt
+798437344301cc7e774878ab4cb18982ebdf66b3 d1926292b392504d4dfd2787a3928bf112ecc09a nhan_sgtech <nhnhan.sgt@gmail.com> 1695631668 +0700	cherry-pick: #00 Add new screen register 2
