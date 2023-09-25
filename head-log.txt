@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632698 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632779 +0700	checkout: moving from master to feature/issue_97-ndvkhang.sgt
+0da239747119c9bdbc10db8af4bd108df6101355 fab55eca69338daca5184454e2df6dc6e15439d5 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632806 +0700	commit: Coding UI
+fab55eca69338daca5184454e2df6dc6e15439d5 da02509005259a5957d90d0f26acfc30e19824f9 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632852 +0700	commit: Coding Process
+da02509005259a5957d90d0f26acfc30e19824f9 1a07022714a48b925a3895680cd5dd22fccae267 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632899 +0700	commit: Coding Unit Test
+1a07022714a48b925a3895680cd5dd22fccae267 da35972a9130ff6d04287774d15b7d481557574f ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695632968 +0700	commit (amend): ndvkhang.sgt Coding Unit Test and Functional Test
+da35972a9130ff6d04287774d15b7d481557574f 9ed682c96884f68358a75cd58772a05653355deb ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633016 +0700	commit: Fix bug 1
+9ed682c96884f68358a75cd58772a05653355deb ec3b23585031e7323cb336de514af11161dd852a ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633040 +0700	commit: Fix bug 2
+ec3b23585031e7323cb336de514af11161dd852a b6d2f76e70835e2115ce187f1678c42e76b5dafb ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633062 +0700	commit: Fix bug 3
+b6d2f76e70835e2115ce187f1678c42e76b5dafb ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633099 +0700	checkout: moving from feature/issue_97-ndvkhang.sgt to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 b6d2f76e70835e2115ce187f1678c42e76b5dafb ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633121 +0700	rebase (start): checkout feature/issue_97-ndvkhang.sgt
+b6d2f76e70835e2115ce187f1678c42e76b5dafb 762126ea14ae53b186596d078a9f4b74f7421670 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633121 +0700	rebase (pick): #00 list screen
+762126ea14ae53b186596d078a9f4b74f7421670 762126ea14ae53b186596d078a9f4b74f7421670 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633121 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+762126ea14ae53b186596d078a9f4b74f7421670 b6d2f76e70835e2115ce187f1678c42e76b5dafb ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633129 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_97-ndvkhang.sgt
+b6d2f76e70835e2115ce187f1678c42e76b5dafb 9ed682c96884f68358a75cd58772a05653355deb ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633161 +0700	rebase (start): checkout HEAD~3
+9ed682c96884f68358a75cd58772a05653355deb c5ba50140f23cd955a887a5fa87606e769a70306 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633161 +0700	rebase (squash): # This is a combination of 2 commits.
+c5ba50140f23cd955a887a5fa87606e769a70306 c5cd6fa1f1a4809be901a2d7b29ca68a8565c70a ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633161 +0700	rebase (squash): Fix bug
+c5cd6fa1f1a4809be901a2d7b29ca68a8565c70a c5cd6fa1f1a4809be901a2d7b29ca68a8565c70a ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633161 +0700	rebase (finish): returning to refs/heads/feature/issue_97-ndvkhang.sgt
+c5cd6fa1f1a4809be901a2d7b29ca68a8565c70a 13a5fb52ab168876a2244b167261f82968f6efd2 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633219 +0700	commit (amend): Fix bug
+13a5fb52ab168876a2244b167261f82968f6efd2 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633245 +0700	checkout: moving from feature/issue_97-ndvkhang.sgt to feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 13a5fb52ab168876a2244b167261f82968f6efd2 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633269 +0700	rebase (start): checkout feature/issue_97-ndvkhang.sgt
+13a5fb52ab168876a2244b167261f82968f6efd2 4b91ce19152a82fbc2f64828392ab1791eed69a4 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633296 +0700	rebase (continue): Handle conflict
+4b91ce19152a82fbc2f64828392ab1791eed69a4 4b91ce19152a82fbc2f64828392ab1791eed69a4 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633311 +0700	rebase (finish): returning to refs/heads/feature/issue_00_Register-Screen
+4b91ce19152a82fbc2f64828392ab1791eed69a4 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633329 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 13a5fb52ab168876a2244b167261f82968f6efd2 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633382 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_97-ndvkhang.sgt
+13a5fb52ab168876a2244b167261f82968f6efd2 5f049530f8a86e5a9b54045bfc78d5ad622a68d6 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633479 +0700	checkout: moving from feature/issue_97-ndvkhang.sgt to feature/issue_00-Update-Register-Screen~
+5f049530f8a86e5a9b54045bfc78d5ad622a68d6 79eda46f26abb1ddd401ef62588dda2e6bcc1a69 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633481 +0700	checkout: moving from 5f049530f8a86e5a9b54045bfc78d5ad622a68d6 to feature/issue_00-Update-Register-Screen
+79eda46f26abb1ddd401ef62588dda2e6bcc1a69 13a5fb52ab168876a2244b167261f82968f6efd2 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633493 +0700	checkout: moving from feature/issue_00-Update-Register-Screen to feature/issue_97-ndvkhang.sgt
+13a5fb52ab168876a2244b167261f82968f6efd2 9a403deda7859a51c06e6150d5b74b74ec5c0824 ndvkhang.sgt <ndvkhang.sgt@gmail.com> 1695633846 +0700	cherry-pick: #00 Add new screen register 2
