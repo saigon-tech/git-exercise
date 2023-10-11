@@ -1,0 +1,53 @@
+commit b2b151b1940fd9caedf5060d5126a99e039b7d0b
+Author: nnnhan.sgt <nnnhan.sgt@gmail.com>
+Date:   Wed Oct 11 16:30:16 2023 +0700
+
+    push register2
+
+commit 09d7ec4b0c01478d142d08f127f04cc098105a6a
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:44:07 2019 +0700
+
+    #00 Add new screen register 2
+
+commit f93963f0e463c2e847b4cdf892f85ca98645c51a
+Author: nnnhan.sgt <nnnhan.sgt@gmail.com>
+Date:   Wed Oct 11 15:11:57 2023 +0700
+
+    Fix bug
+
+commit 419bf6855fbf700f08bb0569fa46982ea3da8b95
+Author: nnnhan.sgt <nnnhan.sgt@gmail.com>
+Date:   Wed Oct 11 15:06:23 2023 +0700
+
+    nnnhan.sgt Coding Unit Test and Functional Test
+
+commit ff38fddaedd098432297250eee66bfd6de426905
+Author: nnnhan.sgt <nnnhan.sgt@gmail.com>
+Date:   Wed Oct 11 15:05:54 2023 +0700
+
+    Coding Process
+
+commit 348d4662ce090dcc8aea77b3dc6b358e9ca35cf5
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 16:40:03 2019 +0700
+
+    #00 list screen
+
+commit 4398e334b339c075d0194c87c7dfd411489bb6fb
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Thu Jun 6 10:12:24 2019 +0700
+
+    Update README.md
+
+commit f5e77b41f980d128e271cf3fa5e9ab16f93d64a6
+Author: daothanhtien <dttien.sgt@gmail.com>
+Date:   Fri May 31 17:40:03 2019 +0700
+
+    #00 Register screen
+
+commit 5f049530f8a86e5a9b54045bfc78d5ad622a68d6
+Author: daothanhtien <39759231+daothanhtien@users.noreply.github.com>
+Date:   Wed May 15 17:02:58 2019 +0700
+
+    Initial commit
