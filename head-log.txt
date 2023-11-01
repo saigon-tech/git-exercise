@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 hhnghia.sgt <hhn.sgt@gmail.com> 1698830469 +0700	clone: from https://github.com/saigon-tech/git-exercise.git
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 hhnghia.sgt <hhn.sgt@gmail.com> 1698830577 +0700	checkout: moving from master to feature/issue_103-hhnghia.sgt
+0da239747119c9bdbc10db8af4bd108df6101355 42e665f5fb669eea7a5c55238c89003773f0ebd3 hhnghia.sgt <hhn.sgt@gmail.com> 1698830678 +0700	commit: Coding UI
+42e665f5fb669eea7a5c55238c89003773f0ebd3 ba12590927e9d7a92edf02ea2153462ae9b83936 hhnghia.sgt <hhn.sgt@gmail.com> 1698830704 +0700	commit: Coding Process
+ba12590927e9d7a92edf02ea2153462ae9b83936 694a9121fa0fd433ba4c2dff65f444df735886c2 hhnghia.sgt <hhn.sgt@gmail.com> 1698830728 +0700	commit: Coding Unit Test
+694a9121fa0fd433ba4c2dff65f444df735886c2 7761319861c327b0d357c47901a9bfe73d0e2cd1 hhnghia.sgt <hhn.sgt@gmail.com> 1698830813 +0700	commit (amend): hhnghia.sgt Coding Unit Test and Functional Test
+7761319861c327b0d357c47901a9bfe73d0e2cd1 3c6c82bd5b901b5f24bd79b68eb9e0e87537278a hhnghia.sgt <hhn.sgt@gmail.com> 1698830888 +0700	commit: Fix bug 1
+3c6c82bd5b901b5f24bd79b68eb9e0e87537278a e4fb30bb9941fe598a762274f14490d8a8f04de9 hhnghia.sgt <hhn.sgt@gmail.com> 1698830915 +0700	commit: Fix bug 2
+e4fb30bb9941fe598a762274f14490d8a8f04de9 d57bb51b3d34a4302f1df48a176ec8742f5ec8a5 hhnghia.sgt <hhn.sgt@gmail.com> 1698831040 +0700	commit: Fix bug 3
+d57bb51b3d34a4302f1df48a176ec8742f5ec8a5 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 hhnghia.sgt <hhn.sgt@gmail.com> 1698831143 +0700	rebase (start): checkout origin/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 11c71136072396e141115ced05615e1029318b9e hhnghia.sgt <hhn.sgt@gmail.com> 1698831143 +0700	rebase (pick): Coding UI
+11c71136072396e141115ced05615e1029318b9e 3c7b23fd2d3a5516d001c21bcbf3a8554d52775e hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (pick): Coding Process
+3c7b23fd2d3a5516d001c21bcbf3a8554d52775e a1e2fbe6818a0111e9e95d01a4e21eb23d0128a9 hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (pick): hhnghia.sgt Coding Unit Test and Functional Test
+a1e2fbe6818a0111e9e95d01a4e21eb23d0128a9 4d66677bd7be09be43717b60d6654719f21918d0 hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (pick): Fix bug 1
+4d66677bd7be09be43717b60d6654719f21918d0 7e605c1c62d43b0a79c78af891b1b3201374deb0 hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (pick): Fix bug 2
+7e605c1c62d43b0a79c78af891b1b3201374deb0 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (pick): Fix bug 3
+6cfe55df769c71ff6c41149690144a67a14352aa 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831144 +0700	rebase (finish): returning to refs/heads/feature/issue_103-hhnghia.sgt
+6cfe55df769c71ff6c41149690144a67a14352aa 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831473 +0700	rebase (continue) (finish): refs/heads/feature/issue_103-hhnghia.sgt onto a1e2fbe6818a0111e9e95d01a4e21eb23d0128a9
+6cfe55df769c71ff6c41149690144a67a14352aa 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831473 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_103-hhnghia.sgt
+6cfe55df769c71ff6c41149690144a67a14352aa 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831663 +0700	rebase (continue) (finish): refs/heads/feature/issue_103-hhnghia.sgt onto a1e2fbe6818a0111e9e95d01a4e21eb23d0128a9
+6cfe55df769c71ff6c41149690144a67a14352aa 6cfe55df769c71ff6c41149690144a67a14352aa hhnghia.sgt <hhn.sgt@gmail.com> 1698831663 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_103-hhnghia.sgt
+6cfe55df769c71ff6c41149690144a67a14352aa 4d66677bd7be09be43717b60d6654719f21918d0 hhnghia.sgt <hhn.sgt@gmail.com> 1698831767 +0700	rebase (start): checkout HEAD~3
+4d66677bd7be09be43717b60d6654719f21918d0 98b2d42996c9954c5b784efcc9977d1718e70152 hhnghia.sgt <hhn.sgt@gmail.com> 1698831767 +0700	rebase (fixup): # This is a combination of 2 commits.
+98b2d42996c9954c5b784efcc9977d1718e70152 6d50521102088d9f68dc5511420924f89a889060 hhnghia.sgt <hhn.sgt@gmail.com> 1698831767 +0700	rebase (fixup): Fix bug 1
+6d50521102088d9f68dc5511420924f89a889060 6d50521102088d9f68dc5511420924f89a889060 hhnghia.sgt <hhn.sgt@gmail.com> 1698831767 +0700	rebase (finish): returning to refs/heads/feature/issue_103-hhnghia.sgt
+6d50521102088d9f68dc5511420924f89a889060 00b732ad2e147152a94ff7b8e8453b53caf27e61 hhnghia.sgt <hhn.sgt@gmail.com> 1698831781 +0700	commit (amend): Fix bug
+00b732ad2e147152a94ff7b8e8453b53caf27e61 f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 hhnghia.sgt <hhn.sgt@gmail.com> 1698831821 +0700	rebase (start): checkout origin/feature/issue_00_Register-Screen
+f5e77b41f980d128e271cf3fa5e9ab16f93d64a6 5d28baff50c4c57ebda183ccd32e26928599a27d hhnghia.sgt <hhn.sgt@gmail.com> 1698831821 +0700	rebase (pick): Update README.md
+5d28baff50c4c57ebda183ccd32e26928599a27d c0c71a7e3c89caad4223a5e084db424d2c5e8f0e hhnghia.sgt <hhn.sgt@gmail.com> 1698831821 +0700	rebase (pick): #00 list screen
+c0c71a7e3c89caad4223a5e084db424d2c5e8f0e d31a54f415dff062d51d124e113dfaa4a97768b4 hhnghia.sgt <hhn.sgt@gmail.com> 1698831946 +0700	rebase (continue) (pick): Coding Process
+d31a54f415dff062d51d124e113dfaa4a97768b4 60edb5c4fac6b01bca74e1284df32d57deaf6e6e hhnghia.sgt <hhn.sgt@gmail.com> 1698831947 +0700	rebase (continue) (pick): hhnghia.sgt Coding Unit Test and Functional Test
+60edb5c4fac6b01bca74e1284df32d57deaf6e6e b689c309e8b7a95261ce0380704b8b59efcdda45 hhnghia.sgt <hhn.sgt@gmail.com> 1698831947 +0700	rebase (continue) (pick): Fix bug
+b689c309e8b7a95261ce0380704b8b59efcdda45 b689c309e8b7a95261ce0380704b8b59efcdda45 hhnghia.sgt <hhn.sgt@gmail.com> 1698831947 +0700	rebase (continue) (finish): returning to refs/heads/feature/issue_103-hhnghia.sgt
+b689c309e8b7a95261ce0380704b8b59efcdda45 65303b383ae35089355ebe81c578ae7d2add2715 hhnghia.sgt <hhn.sgt@gmail.com> 1698832149 +0700	cherry-pick: #00 Add new screen register 2
